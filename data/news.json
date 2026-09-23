@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-09-23T03:35:59Z",
- "count": 39,
+ "generated_at": "2026-09-23T03:46:40Z",
+ "count": 47,
  "items": [
   {
    "id": "56e1ad970205583f",
@@ -63,6 +63,28 @@
    "tags": [
     "수소수급",
     "추석연휴"
+   ]
+  },
+  {
+   "id": "2fa85a69b35dd4d3",
+   "title": "‘생존 경쟁’ 본격화…휴·폐업 내몰리는 LPG충전 인프라",
+   "url": "https://www.energy-news.co.kr/news/articleView.html?idxno=228492",
+   "source": "에너지신문",
+   "published_at": "2026-09-22T16:32:41Z",
+   "category": "시장·가격",
+   "region": "국내",
+   "chain": [
+    "수소생산"
+   ],
+   "importance": "하",
+   "summary": "수송 연료 시장에서 전기차와 수소차 보급이 확대되면서 LPG 수요가 감소하고 있다. 도심 LPG충전소의 휴·폐업과 업종 전환이 이어지고 있으며, 향후 충전 인프라 공백에 대한 우려가 커지고 있다.",
+   "collected_at": "2026-09-23T03:46:40Z",
+   "needs_review": true,
+   "review_reason": "chain 이 비었거나 허용값 아님: []",
+   "tags": [
+    "LPG충전소",
+    "전기화물차",
+    "수송 연료"
    ]
   },
   {
@@ -241,6 +263,28 @@
    ]
   },
   {
+   "id": "26a4708ba3210ae5",
+   "title": "㈜삼진이앤아이, 수소산업 시장에 본격 참여",
+   "url": "https://www.gasnews.com/news/articleView.html?idxno=126931",
+   "source": "가스신문",
+   "published_at": "2026-09-22T09:45:00Z",
+   "category": "프로젝트·계약",
+   "region": "국내",
+   "chain": [
+    "수소생산"
+   ],
+   "importance": "중",
+   "summary": "산업용 밸브 제조기업 삼진이앤아이가 미국의 탈탄소화 기업 유틸리티 글로벌과 전략적 협약을 체결했다. 국내 저탄소 수소생산 프로젝트와 H2Gen 인프라 구축을 공동으로 추진할 예정이다.",
+   "collected_at": "2026-09-23T03:46:40Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "삼진이앤아이",
+    "유틸리티 글로벌",
+    "저탄소 수소생산"
+   ]
+  },
+  {
    "id": "c125535e27a59c2e",
    "title": "China Approves Hydrogen Pilot Program – Impact Coatings Sees Immediate Increase in Demand",
    "url": "https://hydrogen-central.com/china-approves-hydrogen-pilot-program-impact-coatings-sees-immediate-increase-in-demand/",
@@ -259,6 +303,28 @@
    "tags": [
     "중국",
     "시범사업"
+   ]
+  },
+  {
+   "id": "e6da7abbdac8c07e",
+   "title": "하이드로라이드, 수소자전거·수소발생기 기술 고도화 나선다",
+   "url": "https://www.gasnews.com/news/articleView.html?idxno=126924",
+   "source": "가스신문",
+   "published_at": "2026-09-22T09:35:00Z",
+   "category": "기술",
+   "region": "국내",
+   "chain": [
+    "활용"
+   ],
+   "importance": "하",
+   "summary": "그린수소 교원창업기업 하이드로라이드가 2026 그린수소 글로벌 포럼에 참가해 수소자전거 및 소형 수소발생기 기술을 전시했다. 수소 활용 분야의 실증과 기술 고도화를 추진 중이다.",
+   "collected_at": "2026-09-23T03:46:40Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "하이드로라이드",
+    "수소자전거",
+    "소형 수소발생기"
    ]
   },
   {
@@ -325,6 +391,28 @@
     "Capsol",
     "탄소포집",
     "엔지니어링"
+   ]
+  },
+  {
+   "id": "bec2428d4ffee9b3",
+   "title": "가스안전공사 부산광역본부, 수소복합충전소 현장점검",
+   "url": "https://www.gasnews.com/news/articleView.html?idxno=126923",
+   "source": "가스신문",
+   "published_at": "2026-09-22T09:28:30Z",
+   "category": "정책·규제",
+   "region": "국내",
+   "chain": [
+    "수소생산"
+   ],
+   "importance": "하",
+   "summary": "가스안전공사 부산광역본부가 부산 사상구의 수소복합충전소를 현장 점검했다. 추석 연휴 기간 이용객 증가에 대비해 안전관리 실태를 확인하고 충전시설 위험요인을 중심으로 검사했다.",
+   "collected_at": "2026-09-23T03:46:40Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "가스안전공사",
+    "부산",
+    "수소충전소"
    ]
   },
   {
@@ -411,6 +499,30 @@
    "tags": [
     "정책공백",
     "에너지전환"
+   ]
+  },
+  {
+   "id": "56f49caade2e9875",
+   "title": "[인터뷰] 중국수소에너지연맹연구원 샤오천장 부원장 “수소, 에너지 전환 넘어 산업·무역 구조 바꾸는 전략 자원”",
+   "url": "https://www.gasnews.com/news/articleView.html?idxno=126892",
+   "source": "가스신문",
+   "published_at": "2026-09-21T15:20:00Z",
+   "category": "정책·규제",
+   "region": "해외",
+   "chain": [
+    "수소생산",
+    "암모니아",
+    "활용"
+   ],
+   "importance": "중",
+   "summary": "중국수소에너지연맹연구원 부원장이 수소를 단순한 에너지 전환 수단을 넘어 산업 구조와 글로벌 무역 체계를 바꾸는 전략 자원으로 정의했다. 중국이 수소·암모니아·메탄올·SAF 등 그린연료 생산 및 판매에 통합적으로 접근하고 있음을 보여준다.",
+   "collected_at": "2026-09-23T03:46:40Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "중국수소에너지연맹",
+    "그린연료",
+    "전략 자원"
    ]
   },
   {
@@ -566,6 +678,28 @@
    ]
   },
   {
+   "id": "c8fafd360f759f94",
+   "title": "“대화가 필요해” 한·중 수소 기술과 시장 경험 공유",
+   "url": "https://www.h2news.kr/news/articleView.html?idxno=14272",
+   "source": "수소신문",
+   "published_at": "2026-09-21T08:55:00Z",
+   "category": "정책·규제",
+   "region": "국내",
+   "chain": [
+    "수소생산"
+   ],
+   "importance": "중",
+   "summary": "한국과 중국의 수소산업 전문가들이 '2026 한·중 수소 정책 포럼'에서 양국의 정책과 기술을 공유하고 공급망, 표준, 공동 실증 협력을 논의했다. 동북아 수소경제 발전을 위한 양국 간 협력 체계 구축의 첫 신호다.",
+   "collected_at": "2026-09-23T03:46:40Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "한국수소연합",
+    "한·중 정책포럼",
+    "동북아 수소경제"
+   ]
+  },
+  {
    "id": "52e13f02e3edc835",
    "title": "Paju Eco Green Fuel Cell Power Plant Powers 81,000 Homes and Expands Distributed Generation",
    "url": "http://www.hydrogenfuelnews.com/paju-eco-green-fuel-cell-power-plant-powers-81-000-homes-and-expands-distributed/8576703/",
@@ -674,6 +808,28 @@
    "tags": [
     "유럽",
     "수소트럭"
+   ]
+  },
+  {
+   "id": "266fe91fe38aa7eb",
+   "title": "한·중 수소전문가 “경쟁보단 협력 가격·생태계 구축이 관건”",
+   "url": "https://www.gasnews.com/news/articleView.html?idxno=126884",
+   "source": "가스신문",
+   "published_at": "2026-09-18T10:20:00Z",
+   "category": "정책·규제",
+   "region": "국내",
+   "chain": [
+    "수소생산"
+   ],
+   "importance": "중",
+   "summary": "한·중 수소 정책 포럼 패널토론에서 양국 전문가들이 경쟁보다 협력, 기술보다 가격 경쟁력, 개별 사업보다 생태계 구축의 중요성에 합의했다. 수소 모빌리티, 도시 기반 생태계, 동북아 밸류체인 구축에서 상호보완적 협력이 필요하다는 공감대가 형성됐다.",
+   "collected_at": "2026-09-23T03:46:40Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "한·중 수소정책",
+    "동북아 밸류체인",
+    "수소 생태계"
    ]
   },
   {
@@ -806,6 +962,28 @@
    "tags": [
     "그린수소",
     "생산원가"
+   ]
+  },
+  {
+   "id": "11dbd4a4e0c6e289",
+   "title": "수소경제 주목되는 기술·제품 92. 성원기업의 고체수소 저장시스템",
+   "url": "https://www.h2news.kr/news/articleView.html?idxno=14238",
+   "source": "수소신문",
+   "published_at": "2026-09-16T09:00:00Z",
+   "category": "기술",
+   "region": "국내",
+   "chain": [
+    "운송·저장"
+   ],
+   "importance": "중",
+   "summary": "부산의 성원기업이 조선·해양플랜트 기자재 제조 역량을 바탕으로 고체수소 저장시스템을 개발하고 있다. 그램 단위부터 10kg급까지 다양한 시험설비를 갖춘 연구동을 운영 중이며 수소저장 기술 고도화를 진행하고 있다.",
+   "collected_at": "2026-09-23T03:46:40Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "성원기업",
+    "고체수소",
+    "저장시스템"
    ]
   },
   {
