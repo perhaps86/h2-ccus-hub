@@ -1,0 +1,45 @@
+# 수집 소스 목록.
+#
+# 원칙
+#  - 여기에 없는 곳은 수집하지 않는다. 소스 추가는 이 파일만 고치면 된다.
+#  - RSS 가 제공하는 제목·링크·발행일만 받는다. 기사 본문은 저장하지 않는다.
+#  - region 은 기본값 힌트일 뿐이고, 최종 판정은 분류 단계에서 한다.
+
+defaults:
+  max_items_per_source: 25
+  lookback_days: 7
+
+sources:
+  # ── 국내 ──────────────────────────────────────────────
+  - name: "구글뉴스 · 청정수소"
+    url: "https://news.google.com/rss/search?q=%EC%B2%AD%EC%A0%95%EC%88%98%EC%86%8C+OR+%EB%B6%80%EC%83%9D%EC%88%98%EC%86%8C+OR+%EC%88%98%EC%A0%84%ED%95%B4&hl=ko&gl=KR&ceid=KR:ko"
+    region_hint: "국내"
+
+  - name: "구글뉴스 · 암모니아 발전"
+    url: "https://news.google.com/rss/search?q=%EC%95%94%EB%AA%A8%EB%8B%88%EC%95%84%20%EB%B0%9C%EC%A0%84%20OR%20%EC%95%94%EB%AA%A8%EB%8B%88%EC%95%84%20%ED%98%BC%EC%86%8C%20OR%20%EA%B7%B8%EB%A6%B0%EC%95%94%EB%AA%A8%EB%8B%88%EC%95%84%20OR%20%EC%95%94%EB%AA%A8%EB%8B%88%EC%95%84%20%ED%81%AC%EB%9E%98%ED%82%B9&hl=ko&gl=KR&ceid=KR:ko"
+    region_hint: "국내"
+
+  - name: "구글뉴스 · CCUS"
+    url: "https://news.google.com/rss/search?q=CCUS+OR+%ED%83%84%EC%86%8C%ED%8F%AC%EC%A7%91+OR+%EC%95%A1%ED%99%94%ED%83%84%EC%82%B0&hl=ko&gl=KR&ceid=KR:ko"
+    region_hint: "국내"
+
+  - name: "구글뉴스 · 수소 정책·입찰"
+    url: "https://news.google.com/rss/search?q=%EC%88%98%EC%86%8C+%EC%9E%85%EC%B0%B0+OR+CHPS+OR+%EC%88%98%EC%86%8C%EB%B0%9C%EC%A0%84&hl=ko&gl=KR&ceid=KR:ko"
+    region_hint: "국내"
+
+  # ── 해외 ──────────────────────────────────────────────
+  - name: "Google News · hydrogen project"
+    url: "https://news.google.com/rss/search?q=hydrogen+project+FID+OR+offtake+OR+electrolyzer&hl=en-US&gl=US&ceid=US:en"
+    region_hint: "해외"
+
+  - name: "Google News · ammonia"
+    url: "https://news.google.com/rss/search?q=clean%20ammonia%20OR%20ammonia%20cracking%20OR%20ammonia%20bunkering&hl=en-US&gl=US&ceid=US:en"
+    region_hint: "해외"
+
+  - name: "Google News · CCS"
+    url: "https://news.google.com/rss/search?q=%22carbon+capture%22+project+OR+45Q+OR+%22CO2+storage%22&hl=en-US&gl=US&ceid=US:en"
+    region_hint: "해외"
+
+  - name: "Google News · hydrogen policy"
+    url: "https://news.google.com/rss/search?q=hydrogen+subsidy+OR+%22hydrogen+strategy%22+OR+%22RFNBO%22&hl=en-US&gl=US&ceid=US:en"
+    region_hint: "해외"

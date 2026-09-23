@@ -1,0 +1,757 @@
+{
+ "generated_at": "2026-09-23T03:18:55Z",
+ "count": 34,
+ "items": [
+  {
+   "id": "fbe54ba61477d05d",
+   "title": "$5bn Teesside Gas Power Plant: World’s First Commercial-Scale Project with Integrated Carbon Capture",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOYXFZcEFLemNMVjlEOThlN2JLYmJKUnJhYnRuV2xUQnIzOGJOdmdNVGFtT0NkTTFzT3dsVjdyUFB3NGRpNUR5cFY5cUdvMXJndmk3TTlOYlVnRk5EZFgyNWFIX3dQTXFlS1BTR1l6Ykw4bTY4SEtqNzNMZ0c4T0w3WllSSVppMzEtS0k5SFUwMEVhTnR3b21zMzVMajl5VE5qM1hVOWpYQ21DX3ItTkJGRzFiQUVHdE1kZVNoM0w2Yl8tY3ZsSjd2aUVaa2Q2aXY5?oc=5",
+   "source": "Construction Review",
+   "published_at": "2026-09-22T17:01:25Z",
+   "category": "프로젝트·계약",
+   "region": "해외",
+   "chain": [
+    "CCUS",
+    "활용"
+   ],
+   "importance": "상",
+   "summary": "영국 티사이드에서 세계 첫 상업 규모 탄소포집 연계 가스복합발전 사업이 추진된다. 가스발전에 포집을 붙이는 구조는 재생에너지의 간헐성을 메우면서 배출을 줄이는 경로로, 국내 LNG 발전의 향후 선택지와도 직결된다.",
+   "collected_at": "2026-09-23T03:18:55Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "Teesside",
+    "가스복합발전",
+    "CCS"
+   ]
+  },
+  {
+   "id": "e1b2ffc906181778",
+   "title": "Hyphen lands $5.9M AfDB grant to push Namibia hydrogen project toward FID",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQOE4tZ1RXS25DRjdnc2Rfa2RkODN3ekdleVBvWHRWd21XREVIbmsyUG4ybHo1T010SzB1S1N6MlBXNEJNT1VNQlN0X1haVDdDSDdzSW9mdXFUeHdHQ3pzbmk4ZklSbFJ5UmFScWJPWlNtYnhDc3BQa2czUktsYl9sMFVhR1Z2aHVjWXhvcGNFNHVYUDhMTnNSN1I5MkdpQTM1VU5Hc2dRSk1lUQ?oc=5",
+   "source": "app.dealroom.co",
+   "published_at": "2026-09-22T15:07:07Z",
+   "category": "투자·금융",
+   "region": "해외",
+   "chain": [
+    "수소생산",
+    "암모니아"
+   ],
+   "importance": "중",
+   "summary": "Hyphen이 아프리카개발은행에서 590만 달러 보조금을 받아 나미비아 수소 프로젝트를 FID 단계로 밀어올린다. 개발금융기관 자금은 초기 개발비 부담을 덜어주는 동시에 사업의 신용도를 보강하는 역할을 한다.",
+   "collected_at": "2026-09-23T03:18:55Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "Hyphen",
+    "Namibia",
+    "AfDB"
+   ]
+  },
+  {
+   "id": "e1fdfd18d37a2133",
+   "title": "Four green hydrogen projects secure $20m in African Development Bank funds",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPUmlodFh5NVhQVjNNc3lOMVpGS2JrbDQxMndEZ0gyc1VnZ21GVkJUemxjMkJUS3Vra3ZxRXR1YUYxUmJSckp2WFFQOEpwUVVVX1VSWFprTV9FVWxnUUNCMmt4OUQ5VEtWUWdKbDlOUTVRTDcxRS1vdEYteUgxbzY1TEFqNEt6X2ZVVE5JVExFOE03NzQyX0dKUVlJZXJ0R1F1WW15R1BTOG91NVZIY3hvT2M0TTQtbEMzNWFYMV9B?oc=5",
+   "source": "gasworld",
+   "published_at": "2026-09-22T08:18:05Z",
+   "category": "투자·금융",
+   "region": "해외",
+   "chain": [
+    "수소생산"
+   ],
+   "importance": "중",
+   "summary": "아프리카개발은행이 그린수소 프로젝트 4건에 2천만 달러를 지원한다. 아프리카 재생전력 단가가 낮아 수출형 그린수소 후보지로 계속 거론되는 흐름과 맞닿아 있다.",
+   "collected_at": "2026-09-23T03:18:55Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "AfDB",
+    "그린수소"
+   ]
+  },
+  {
+   "id": "323eb2b5dd60fddd",
+   "title": "추석연휴 수소 수급관리 특별대응반 가동",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9TTEVBaEE1NlpHYjQwc19uMXVRMTBqdzY3cU1EUl8yb0hqT01LdmhJMm5LR2V3STB0Y2xlZ08tSW81Tm1vYk9hZVRrOGplTHJ2RVJCUmVoamU2OFRyNUxseXdVNjJ4a0FZcXAyV0ctUmk?oc=5",
+   "source": "에너지신문",
+   "published_at": "2026-09-22T08:09:08Z",
+   "category": "정책·규제",
+   "region": "국내",
+   "chain": [
+    "운송·저장"
+   ],
+   "importance": "하",
+   "summary": "추석 연휴 기간 수소 수급관리 특별대응반이 가동됐다. 국내 수소 공급이 석유화학 부생수소에 크게 기대고 있어 연휴나 정기보수 때 수급이 흔들리는 구조적 특징을 보여준다.",
+   "collected_at": "2026-09-23T03:18:55Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "수소수급"
+   ]
+  },
+  {
+   "id": "3f5129232d48fa8a",
+   "title": "연구실 나온 수소선박, 건조 첫발…국내 첫 40인승 여객선 제작",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBoWTZxUmhtNHJrNkNvcXJGVlc0b2xmN3JyY0RnUHFUUGFfV2V5UEJCOFpmN1RNdzlzTGlfVFc0R3llbTJ6WHlEb0p5MnVZVUpfUDNmeEZWTVRyczJBNHI3TmtXTlp6NTVOeUw4StIBcEFVX3lxTFByajZjX1JaZG1tRWlWdTVnbWJsV0ZCeF9nbUxwSERLTktZa25qSHdlV1pTbFFsODRCdUc2NnRyakRoR211b3c5OVJnTGJGaHdqdWVHVThpdUlWd092d2FoZ3pOM0E0c1M3VVJjaTJkZGM?oc=5",
+   "source": "전기신문",
+   "published_at": "2026-09-22T00:49:15Z",
+   "category": "기술",
+   "region": "국내",
+   "chain": [
+    "활용"
+   ],
+   "importance": "하",
+   "summary": "국내 첫 40인승 수소 여객선 건조가 시작됐다. 선박은 항로가 정해져 있어 충전 인프라를 집중 배치하기 쉬운 수요처다.",
+   "collected_at": "2026-09-23T03:18:55Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "수소선박"
+   ]
+  },
+  {
+   "id": "c6356fbfba23bab8",
+   "title": "영광에 국내 첫 수전해 성능평가센터 준공",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1tNllLN2JuU1dYTTZ0S29PUWN6OFNzX2RpT1U4NEEzT3J3OVkyMG5wZkFqd2tnaFJ5UTJ3VFdrZi1sNEM2QUlUNWFWR2FSM093eEc1LTlHaWdWSTVtTnNpRlJXQ2VUeHBM?oc=5",
+   "source": "온라인가스저널",
+   "published_at": "2026-09-22T00:00:00Z",
+   "category": "정책·규제",
+   "region": "국내",
+   "chain": [
+    "수소생산"
+   ],
+   "importance": "중",
+   "summary": "국내 첫 수전해 성능평가센터가 영광에 준공됐다. 설비 성능을 공인 절차로 검증할 수 있게 되면 국산 수전해 설비의 실적 확보와 해외 수주 근거가 생긴다.",
+   "collected_at": "2026-09-23T03:18:55Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "영광",
+    "수전해",
+    "성능평가"
+   ]
+  },
+  {
+   "id": "59f344ba0c89ba1b",
+   "title": "포스코 제철소서 ‘아시아 최초’ 고온수전해 실증…엔포러스 스택 공급",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBDdXI1OWVjQVl1VU1QMUd6YlpYalQzVW54LW1aWkdCLV80Zjh2WWN2b3NvTjdIeHFKUkFhcFBwUzIydHZ4dkJOcElFRnpoWktfZ2drTmZ5a3IySlV6QXpDNW5wMDE4a1hW0gFoQVVfeXFMUEN1cjU5ZWNBWXVVTVAxR3piWlhqVDNVbngtbVpaR0ItXzRmOHZZY3Zvc29ON0h4cUpSQWFwUHBTMjJ0dnh2Qk5wSUVGemhaS19nZ2tOZnlrcjJKVXpBekM1bnAwMThrWFY?oc=5",
+   "source": "매일일보",
+   "published_at": "2026-09-21T23:49:16Z",
+   "category": "기술",
+   "region": "국내",
+   "chain": [
+    "수소생산"
+   ],
+   "importance": "중",
+   "summary": "포스코 제철소에서 아시아 최초로 고온수전해 실증이 진행된다. 스택은 엔포러스가 공급한다. 제철 공정의 폐열을 전력 대신 쓰는 구조라, 같은 전력으로 더 많은 수소를 만들 수 있는지가 관건이다.",
+   "collected_at": "2026-09-23T03:18:55Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "포스코",
+    "엔포러스",
+    "고온수전해"
+   ]
+  },
+  {
+   "id": "1c9ea5c59c469642",
+   "title": "ExxonMobil gets approval for $5B Texas Gulf Coast carbon capture project",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPZVFPcFotTENJREFCZTBIZ3o1Q3hlNlpuM1NDLUdwWnJKVXJtVEtPdmQ5cWVkYTltVmNRNjItV01UeHlfOGdGRWY4cHdSN05sZG5wQTFVTUUyWC04T1JXemdVMWgxdnQ2VlFaRlU5U1lUM3c4MlRROXd1d0l2REJRYTZwMTZoS0E?oc=5",
+   "source": "InnovationMap",
+   "published_at": "2026-09-21T16:38:07Z",
+   "category": "프로젝트·계약",
+   "region": "해외",
+   "chain": [
+    "CCUS"
+   ],
+   "importance": "상",
+   "summary": "엑슨모빌이 텍사스 걸프코스트 50억 달러 규모 탄소포집 사업 승인을 받았다. 걸프코스트는 배출원 밀집도와 저장소 접근성, 연방 세액공제가 겹치는 지역이라 대형 CCS 투자가 집중되고 있다.",
+   "collected_at": "2026-09-23T03:18:55Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "ExxonMobil",
+    "Texas",
+    "Gulf Coast"
+   ]
+  },
+  {
+   "id": "c455d5b002a0c705",
+   "title": "수소경제 7년, 이제는 시장이다…CHPS·생산·인프라 재설계 필요",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE8xcnNLdk45TDk5YmwwQU9nTjhTUzNFUVVhTVV4WmZFNFBseHhBdmtyZTVxS2plamI0YVRNdGdRUU1ZTGxCV19pbktWeXh2V25Lako2dVBGU3ZFX2p3MEozc2JEQktmNkdVc3pEczdpaU95VHBY0gF0QVVfeXFMTzFyc0t2TjlMOTlibDBBT2dOOFNTM0VRVWFNVXhaZkU0UGx4eEF2a3JlNXFLamVqYjRhVE10Z1FRTVlMbEJXX2luS1Z5eHZXbktqSjZ1UEZTdkVfancwSjNzYkRCS2Y2R1VzekRzN2lpT3lUcFg?oc=5",
+   "source": "수소신문",
+   "published_at": "2026-09-21T11:09:44Z",
+   "category": "정책·규제",
+   "region": "국내",
+   "chain": [
+    "수소생산",
+    "활용"
+   ],
+   "importance": "중",
+   "summary": "수소경제 7년을 돌아보며 CHPS와 생산, 인프라의 재설계가 필요하다는 진단이다. 목표 선언에서 실제 거래되는 시장으로 넘어가는 단계의 과제를 다룬다.",
+   "collected_at": "2026-09-23T03:18:55Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "CHPS",
+    "수소경제"
+   ]
+  },
+  {
+   "id": "b68f9ac27cfa96c2",
+   "title": "Denmark inaugurates CO2 storage facility in North Sea",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOUDNUd1VnYU5aVkpRRFo2SkpYSjdxbDlNX1N3a19kTHhnZlFNdEVDSGVQYWZjVHpKcFBSTUNRbzhlamJ6eWltN3VTMnl2M0s1U0dKYUE0QzBUWW5fQkVDOG5MNGpoY0JlTWNiekpMdTljMFBkclFtb0xyUzNCQ013bENzT0ttblpqQm5fNHAyMEpiVzVOcnNCekRLcWRmLTQ?oc=5",
+   "source": "Canadian Affairs",
+   "published_at": "2026-09-21T10:00:00Z",
+   "category": "프로젝트·계약",
+   "region": "해외",
+   "chain": [
+    "운송·저장",
+    "CCUS"
+   ],
+   "importance": "중",
+   "summary": "덴마크가 북해 CO2 저장 설비를 가동했다. 유럽에서 국경을 넘어 CO2를 보내 저장하는 체계가 하나씩 실제로 열리고 있다.",
+   "collected_at": "2026-09-23T03:18:55Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "Denmark",
+    "북해",
+    "CO2 저장"
+   ]
+  },
+  {
+   "id": "d1e607e18709dba7",
+   "title": "Partners ‘fully confident’ in FID on huge Uzbek green fuels project in Q1 2027",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPRG1lcW5kblc3cEhSeURxdVBvZVJRMUg5RTA3bFdfbGFGQzl2Y1FUM2ZEX2tFRUQ0VGc0RlFRdUN4MXFWN1Q0MXJ4TlJzSjZPeXFPTGRrd19TU2FGQm5Ib1M1T19qM1ZsUGlqOUtTTm1jZUZuM2o4RmJpZXlSRW0wUGRKV05IMHotbDEzMjJodUJBRHhxZ21Jamw4OFRoQVNMTF9ydVgwYW16X05vbTQ4X3hHSFVHeWM0Zmh3UldzZHpzdw?oc=5",
+   "source": "gasworld",
+   "published_at": "2026-09-21T08:30:50Z",
+   "category": "프로젝트·계약",
+   "region": "해외",
+   "chain": [
+    "수소생산",
+    "암모니아"
+   ],
+   "importance": "중",
+   "summary": "우즈베키스탄 대형 그린연료 프로젝트 파트너들이 2027년 1분기 FID를 자신한다고 밝혔다. 일정이 구체적으로 제시된 사업은 설비 발주와 EPC 경쟁이 곧 시작된다는 신호다.",
+   "collected_at": "2026-09-23T03:18:55Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "Uzbekistan",
+    "FID"
+   ]
+  },
+  {
+   "id": "f949e3a9302861d0",
+   "title": "\"수소산업 키우려면 10~20년 정책 일관성 필요\"… 세액공제·인프라 확대 제안",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNV2xuV0Rwb2RmdnRSeDJHY3BlZXNmMGp1RTBfN1c1UmtUei1uMEZBNl9jbXVrVmZjQmkwdXk1RzZ6Z1VrY2dKU0hnTUFYWEJZWGVlbTJBMGhMaEhvT09GTklSUmx4TUdzN1dOOXBhcV9FRlFhYjZjamZkdlc0Rlp2dzNhSy04SW85d2EtVmdkbw?oc=5",
+   "source": "조선일보",
+   "published_at": "2026-09-21T07:20:41Z",
+   "category": "정책·규제",
+   "region": "국내",
+   "chain": [
+    "수소생산",
+    "활용"
+   ],
+   "importance": "중",
+   "summary": "수소산업을 키우려면 10~20년 단위의 정책 일관성이 필요하며 세액공제와 인프라 확대가 제안됐다. 수소 사업은 회수기간이 길어 제도가 자주 바뀌면 투자 심의를 통과하기 어렵다는 지적이다.",
+   "collected_at": "2026-09-23T03:18:55Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "정책일관성",
+    "세액공제"
+   ]
+  },
+  {
+   "id": "505c9e628ef7e503",
+   "title": "RFNBO hydrogen trucking can reach diesel parity in Germany, says Air Liquide",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPbkUyTUxBWVRycDNvdmZqalV3a3NUdjhfYzJ2VlZmUDA1cW56bmp1V0pKSFFlSHpYbDQ5aHppV3lvWjJ1bzNabzlUTzB5ZGFUVjYxcTZkOU45bW9uYlhDZWtrMnV4YlNMUkEyZ0QxaDljTDV3elJWeVpUVGl4NldRa3h5NV9ydUc0RmUydFRfWmhfUkVZYWNpUXQ0YmxiOXNzQklJa0R5YkJSX3hNQ3hFNHRJNkI2NW84c3ZtX2Z4bmlJbmc?oc=5",
+   "source": "gasworld",
+   "published_at": "2026-09-21T07:00:08Z",
+   "category": "시장·가격",
+   "region": "해외",
+   "chain": [
+    "활용",
+    "운송·저장"
+   ],
+   "importance": "중",
+   "summary": "에어리퀴드가 독일에서 RFNBO 수소 트럭 운송이 디젤과 대등한 비용에 도달할 수 있다고 밝혔다. 수소 수송 부문의 손익분기 논의는 보조금 수준과 충전 인프라 가동률 가정에 크게 좌우되므로 전제를 함께 봐야 한다.",
+   "collected_at": "2026-09-23T03:18:55Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "Air Liquide",
+    "RFNBO",
+    "독일"
+   ]
+  },
+  {
+   "id": "5d2406566b747c46",
+   "title": "수소발전 입찰시장···수소경제 새로운 성장판되나",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1hcVFkc3hCWWZjZFRwZTJVYUtpTjVrcTA3RWd3OU1PRko1SmZsRjVjT291anA4ZjRya0JZbWtlRmpiOUpPS1ZsZnBhaUN5SE5JY0pmdTNielN5aFVNc0ozTWRMVmJPRTNoQ3A1blNnT2XSAXRBVV95cUxOV0h1WnVBVEptdFBMY3FFN3VBWXRZbXlBRDdTYk9sZ0dIXzlKcWs2X1A2QVJNZ0hBWkNMVkJSdERvOEpDYjV1U2RYdmdGZzQ4dDdqSlZKMmNOYUVSek5sX3F0RGF0SHprZjl6Q3ZkbmY1cHgwWA?oc=5",
+   "source": "수소신문",
+   "published_at": "2026-09-21T05:33:28Z",
+   "category": "정책·규제",
+   "region": "국내",
+   "chain": [
+    "활용",
+    "수소생산"
+   ],
+   "importance": "상",
+   "summary": "청정수소발전 입찰시장이 수소경제의 성장 동력이 될지 점검하는 내용이다. 입찰 물량과 상한가가 국내 청정수소의 실질 수요를 결정하기 때문에, 이 시장의 설계가 곧 생산 투자 결정의 전제가 된다.",
+   "collected_at": "2026-09-23T03:18:55Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "CHPS",
+    "수소발전입찰"
+   ]
+  },
+  {
+   "id": "ac56070bba889ec8",
+   "title": "제주 행원서 하루 200kg 그린수소 생산…대규모 수전해로 확산 모색",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBiS2hFOFFTY2lQYm5CVHlVTmVTaEdPOHYyN0pCT0NFT1BjaG4ydnZPNGpvRkZWTjFFaVFyd0ZRd1MxVG5rLVE0cEZJTldxMGZVZzVNX0ZpZWRnZWFGX3pkVGh0ck1tQQ?oc=5",
+   "source": "인사이트N파워",
+   "published_at": "2026-09-21T05:26:44Z",
+   "category": "프로젝트·계약",
+   "region": "국내",
+   "chain": [
+    "수소생산"
+   ],
+   "importance": "중",
+   "summary": "제주 행원 그린수소 실증에서 하루 200kg 규모 생산이 이뤄지고 있으며 대규모 수전해로 확산을 모색한다. 실증 데이터가 쌓인 사이트는 후속 대형 사업의 설계 기준점이 된다.",
+   "collected_at": "2026-09-23T03:18:55Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "제주",
+    "행원",
+    "그린수소"
+   ]
+  },
+  {
+   "id": "21752c5acad3f0af",
+   "title": "현대건설, 100MW급 수전해 플랜트 기술개발 주도…그린수소 경쟁력 강화",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB6LTFsVVcxaXM0ODNMOEc2THV0NmROQzF4OGF4NDdoV1JYQlplcFZYNFVIbU04WUpBXzltMXBrQ3lvMHNidm16Um1TNDJwbDVmMVB6V1NIbnZ0aE5oV3hDN25BNTIxclRX?oc=5",
+   "source": "녹색경제신문",
+   "published_at": "2026-09-18T23:16:23Z",
+   "category": "기술",
+   "region": "국내",
+   "chain": [
+    "수소생산"
+   ],
+   "importance": "상",
+   "summary": "현대건설이 100MW급 수전해 플랜트 설계 기술개발 국책과제를 주관한다. 국내 수전해 실증이 수MW 수준에 머물러 있던 것을 생각하면 규모가 두 자릿수 이상 뛰는 시도다. 설계 표준이 잡히면 후속 사업의 EPC 경쟁 구도가 바뀐다.",
+   "collected_at": "2026-09-23T03:18:55Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "현대건설",
+    "수전해",
+    "국책과제"
+   ]
+  },
+  {
+   "id": "740f5a6278dc56bd",
+   "title": "Amogy and LOTTE Fine Chemical sign MoU to advance green ammonia-to-hydrogen and ammonia-to-power solutions in South Korea (1)",
+   "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOYW9pajlyb0V0WjA4aUFSR0hUYjJPWFo1RHlxeEppRUVYVlZpdHdWSnRlNEw0Y2RxejR2TzNzcEd5anVYMVRLOEd4SmhGRV9LWVVFRkdKbUhlaDY3RFBvR3h4eTdhVHJyUWxycjlKUzRtQ0E1bW5GbnphdktCU1JLNkJlUDYtd3JpY28wYzFrRWNVR1BOY0ZDam5NTldjS2tQa1BzdnZXMEVxY0NFRks0UDJYS3M2ajlBM3l5VEY3RUlIZ2ZnakhvZk5QbUQwWWhlWmFmSnp5dlRhN1A4WHRDa2Fhd1pGUXBLOXQ1aHlubTNfdWhjM0JiVkp4V1NiU2dQWUp2bFZ3?oc=5",
+   "source": "Hydrocarbon Processing",
+   "published_at": "2026-09-18T20:07:30Z",
+   "category": "프로젝트·계약",
+   "region": "해외",
+   "chain": [
+    "암모니아",
+    "활용"
+   ],
+   "importance": "상",
+   "summary": "Amogy와 롯데정밀화학이 한국에서 암모니아를 수소로 바꾸고 전력까지 연결하는 사업을 추진하는 MoU를 맺었다. 암모니아 혼소 경로가 좁아진 국내 상황에서 크래킹 기반 경로에 기업들이 어떻게 붙는지를 보여주는 사례다.",
+   "collected_at": "2026-09-23T03:18:55Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "Amogy",
+    "롯데정밀화학",
+    "암모니아 크래킹"
+   ]
+  },
+  {
+   "id": "95304ad252e06ec9",
+   "title": "Carbon Capture Demonstration Projects Program Front-End Engineering Design (FEED) Studies Selections for Award Negotiations",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPOE9rQXZKUm95b21iN0J3ZGxFbkNQX0NJTjNBOWQyRFA2ZW1TSnRMdHRjdUJ2Q3UwOEtzT0dhbl9HbFVJYmxtNTdtMHNGbEVVZThHVEdoM1pZdHdRTHNscm9HNF9kN0J1WWxGLXhRX0ktTHA0VFJmM0dQRW82VWhwem1EUkM2NmU4X0poQm9qZFoxMm5rNDRfSjh6V2JWdEx5dUJYNS12VldxT21YajNOeFFBOFVMZWFoRkpQSQ?oc=5",
+   "source": "Department of Energy (.gov)",
+   "published_at": "2026-09-18T18:00:00Z",
+   "category": "정책·규제",
+   "region": "해외",
+   "chain": [
+    "CCUS"
+   ],
+   "importance": "상",
+   "summary": "미국 에너지부가 탄소포집 실증 프로그램의 FEED 연구 지원 대상을 선정해 협상에 들어간다. FEED 단계 지원은 설계사와 기술 공급사에게 실제 매출이 발생하는 구간이고, 이후 실증 사업의 후보군을 좁히는 절차다.",
+   "collected_at": "2026-09-23T03:18:55Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "DOE",
+    "FEED",
+    "탄소포집"
+   ]
+  },
+  {
+   "id": "18aebede40cf2061",
+   "title": "Yara opens Europe’s largest carbon capture facility",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQVXpQdlpPdUlvTVVINkt5QWJXNFJEdFBLQUE3enZmYlRfV2lnNDZvbWw3TDgxWGlCS2hjNHVzVzNZckxBVFN4NEI1ZGJyR2Fjc2JsRDRpRTJWNHptTHRvbXBYaEVFNUZaN2xPYUx4VnVXZFhPWDdrQ3A3UnF5S1Q3cUZOT1FSQ215aVhlNnRDc0ZaaEI1bHphSjM1dmNJY1lyQVY1cmNZMFBrZmxzd3J3YWx0ano?oc=5",
+   "source": "C&EN",
+   "published_at": "2026-09-18T14:41:54Z",
+   "category": "프로젝트·계약",
+   "region": "해외",
+   "chain": [
+    "CCUS",
+    "암모니아"
+   ],
+   "importance": "상",
+   "summary": "Yara가 유럽 최대 규모 탄소포집 설비를 가동했다. 암모니아 생산 공정에서 나오는 CO2는 농도가 높아 포집 원가가 낮은 편이라, 초기 CCS 사업이 이 분야에서 먼저 성립하는 이유를 보여준다.",
+   "collected_at": "2026-09-23T03:18:55Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "Yara",
+    "탄소포집",
+    "암모니아"
+   ]
+  },
+  {
+   "id": "17297ac34b60881a",
+   "title": "Shell launches innovative solid-oxide electrolysis pilot targeting ‘more efficient’ e-SAF production",
+   "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNbWhiNlowQUkzaDVSM1J2Y2UybFU0LWxuSUE5QzM0b1dQQ1Aya3RYRk5QbjRRZ2JtQmg3SHlfU3JaZzlFSHNtbUFaS1V3SFJoY3M4RFNwWk1oei1zVGgtTUhRVl9wbkN4OThkdW5iNFNycVZyeXd2dVNYSXNtQS1VUzJ3T3hDYWNIcFhkdk5kNjEtNF9yczBINHQ0N3gxUldoVUMtWjVuMS1ST3lEb0o5OU5odXdCazB4NUVVZUZUTGRJTnUyZW94WWVIRW45SFBJenkzMnVoN1J3ZHlKV0hwT0YzX2QtSkdh?oc=5",
+   "source": "Hydrogen Insight",
+   "published_at": "2026-09-18T08:13:48Z",
+   "category": "기술",
+   "region": "해외",
+   "chain": [
+    "수소생산"
+   ],
+   "importance": "중",
+   "summary": "쉘이 더 높은 효율을 목표로 고체산화물 수전해 파일럿을 시작했다. eSAF 생산이 목표로, 전력 소모를 줄이는 것이 합성연료 원가의 핵심 변수임을 보여준다.",
+   "collected_at": "2026-09-23T03:18:55Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "Shell",
+    "SOEC",
+    "eSAF"
+   ]
+  },
+  {
+   "id": "4b1861a8bc4d0a1b",
+   "title": "수소 전극 원가 99%↓···에너지연, 알카라인 수전해 개발",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBoLWFlYTlkYWstdE1BeUNwdTFQeTdzVDA2YTBhMkZyeGtqbEhMRzlQQzRQYzdETk80Qmx5TFM3cWNweWhwUFVBUFhVb0FWYmZGWjJRM21LMXlBRDJvekc1Q3VFekYycGtLd1E?oc=5",
+   "source": "헬로디디",
+   "published_at": "2026-09-18T07:00:00Z",
+   "category": "기술",
+   "region": "국내",
+   "chain": [
+    "수소생산"
+   ],
+   "importance": "중",
+   "summary": "한국에너지기술연구원이 귀금속을 대체하는 알카라인 수전해 전극을 개발해 전극 원가를 크게 낮췄다고 밝혔다. 수전해 설비에서 촉매 소재는 스택 원가의 주요 항목이라, 실증 규모에서 내구성이 확인되는지가 다음 관문이다.",
+   "collected_at": "2026-09-23T03:18:55Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "에너지기술연구원",
+    "알카라인",
+    "전극"
+   ]
+  },
+  {
+   "id": "e6c1c9523f2349fa",
+   "title": "INEOS opens the first full-scale CO₂ storage site in the EU",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNeUxTcGJFNXh2WXllTk12Mmt4RnIzTWp2OVhTUmFsa0R2ckZySGpjVlJlcGdNQjRCMXZoMjJLWElFRVVCdEF3UVRLMWtzR185WjJvT1llLWVGYmE5b0JoMGRLcF93aV9NVXB1dnBFYkV3NEdYdlBZb1NQX095dEV0OC1WdXRlcHczYkhObVQxRjRQV3M0Ym11Qm85VjRsbVZPN2czZTZnaXRBTlE?oc=5",
+   "source": "Ineos",
+   "published_at": "2026-09-18T06:18:39Z",
+   "category": "프로젝트·계약",
+   "region": "해외",
+   "chain": [
+    "CCUS",
+    "운송·저장"
+   ],
+   "importance": "상",
+   "summary": "INEOS가 EU 첫 상업 규모 CO2 저장소를 가동했다. 포집 설비가 아무리 늘어도 저장소가 없으면 사업이 성립하지 않기 때문에, 유럽에서 저장 용량이 실제로 열렸다는 점이 중요하다.",
+   "collected_at": "2026-09-23T03:18:55Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "INEOS",
+    "CO2 저장",
+    "EU"
+   ]
+  },
+  {
+   "id": "4b143105b4e04559",
+   "title": "중부발전, CCUS로 화력발전 탄소 꽉 잡는다",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBZVU1pMTFiMTJ1VnVNNTl2WjlqQWNOWTVRS1gwWTYzMFRjbGo5M1RjS0JJenRWQnVsOHpETzVwWXo3QkJZZmN4RU83RTJKTGlVX0dJbA?oc=5",
+   "source": "이투데이",
+   "published_at": "2026-09-18T05:08:00Z",
+   "category": "프로젝트·계약",
+   "region": "국내",
+   "chain": [
+    "CCUS"
+   ],
+   "importance": "중",
+   "summary": "한국중부발전이 화력발전소 배출 CO2를 잡는 CCUS 사업을 추진한다. 석탄화력의 잔여 수명을 늘리려면 포집 설비 투자와 포집 CO2의 처리처 확보가 함께 풀려야 한다.",
+   "collected_at": "2026-09-23T03:18:55Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "중부발전",
+    "CCUS",
+    "화력발전"
+   ]
+  },
+  {
+   "id": "09e879c13600fc6e",
+   "title": "[산업통상자원부] 핵심광물, 천연가스, 이산화탄소 포집·저장(CCS), 수소경제 등 호주와 에너지 공급망 협력강화 논의",
+   "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNY2xvdXpNdE9OajNLcGduX05xMnl0OXZtanpqbEx2a0dLcEpjWWtjaV9KM2VxQVhlS09Ya2JwX2M1bnpLZnJhOE5CTS1OTlZaV3VqVnBXNE5SaERIN1VhUjFOZHlrSy1RcWhpUlBieHpzazItd1Iwcnl0bzZKekF3UEpidkl0dlZrem1qYWFHZkp1ZGI1LWdGTGlEMkJ3YWVCQm9EdXdSMUM5cWxfOW95UDlKQTNBWWdSYmY5TlA1R2w5NU5fTEltRTkxRGFwNE53SXpDbG5UcEhWOGg1SXBlUHgyVEExZEk?oc=5",
+   "source": "국가기후위기대응위원회",
+   "published_at": "2026-09-17T23:47:33Z",
+   "category": "정책·규제",
+   "region": "국내",
+   "chain": [
+    "CCUS",
+    "수소생산"
+   ],
+   "importance": "상",
+   "summary": "산업통상자원부가 호주와 핵심광물, 천연가스, CCS, 수소경제를 포함한 에너지 공급망 협력 강화를 논의했다. 국내 배출 CO2의 해외 저장은 저장소가 부족한 한국에 현실적인 경로이고, 국가 간 협정이 그 전제다.",
+   "collected_at": "2026-09-23T03:18:55Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "산업통상자원부",
+    "호주",
+    "CCS"
+   ]
+  },
+  {
+   "id": "8a168aca056d75b3",
+   "title": "Phelan Green takes FID on South Africa's first eSAF project",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOdUJiMUVGYzI3bEJPd1dmcGd2Uzctel83S3dMRktQbE1SUGF0YlhXb0lRNU5qcGgtOU5qb0NLSTNETnRNMkhJaFlyeThEakpJdjA1RW5sWS11cVdqa2JocEVOczVkaC1JblFFUnotZV9ITUs3enp5Z3VNM3RWZHo5TkJpa0JldkZsemFJdVBUTDMyTmxPZXA2eUtqbEw5cmtQd1pMb2xHM2YxUQ?oc=5",
+   "source": "Hydrocarbon Processing",
+   "published_at": "2026-09-17T20:35:51Z",
+   "category": "프로젝트·계약",
+   "region": "해외",
+   "chain": [
+    "수소생산",
+    "활용"
+   ],
+   "importance": "상",
+   "summary": "Phelan Green이 남아프리카공화국 첫 eSAF 프로젝트에 FID를 내렸다. 그린수소 사업 다수가 오프테이크를 못 구해 멈춰 선 상황에서, 항공유처럼 의무 혼합 규제가 있는 수요처를 잡은 사업이 먼저 투자 결정에 도달하는 패턴을 보여준다.",
+   "collected_at": "2026-09-23T03:18:55Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "Phelan Green",
+    "eSAF",
+    "FID"
+   ]
+  },
+  {
+   "id": "a9c28bd50571b451",
+   "title": "Gigantic Mauritania green hydrogen project takes major step towards FID with ‘historic’ government deal",
+   "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNdVRDaS1wLVMxWEVaOGdjOG92N2Z5b1Zqd3V0ZmlkelcyX043SUUxVjR3c0hibGZNOWhqSmR1SG82S2JFN19ZWU5sWnRDNzhkakgxd2l3MXhSNXJwVUpzOFNnT2k2OTJBbWpUQTlSQUxCYkw5bi0yNUxJUnJNcTF4WUg5MzhROWJJM25USEk0VWdjQ0xGYW93Q256SGV0S3NxVFZCOE9SeHp5MnBqdnQtZkNfajRpRGJXcjcyRTRrMV9xWU9EY0tqZTBSZUczSGY3bUh6a2psODdidlVPbVVrZlQ1WWhzeTZvSV8yNA?oc=5",
+   "source": "Hydrogen Insight",
+   "published_at": "2026-09-17T16:32:35Z",
+   "category": "프로젝트·계약",
+   "region": "해외",
+   "chain": [
+    "수소생산",
+    "암모니아"
+   ],
+   "importance": "상",
+   "summary": "모리타니 대형 그린수소 프로젝트가 정부와의 합의를 통해 FID로 한 걸음 다가섰다. 초기 개발 단계 사업에서 정부 협약은 부지와 인허가, 수출 조건을 고정하는 절차라 금융 조달의 선행 조건이 된다.",
+   "collected_at": "2026-09-23T03:18:55Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "Mauritania",
+    "FID"
+   ]
+  },
+  {
+   "id": "741acce16f4f2d3c",
+   "title": "현대차, ‘5만GPU급’ AI 데이터센터에 새만금 청정수소 활용 검토",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9DMjkzaWZzZ0szV3I5MFV3bl82ekQ4NUlFTDhya0ZFTUVmVVR5SWhFemdjdWF1d3ZTYTBrU0Mzbl9fWGtJNnRjOVowN0pkVUtTZlE2UmhVRmtGV0E5UWN5R3lZc1A0SkktdXpjVS1aMnJlQQ?oc=5",
+   "source": "한겨레",
+   "published_at": "2026-09-17T14:57:00Z",
+   "category": "프로젝트·계약",
+   "region": "국내",
+   "chain": [
+    "활용"
+   ],
+   "importance": "상",
+   "summary": "현대차가 대규모 AI 데이터센터 전력원으로 새만금 청정수소 활용을 검토한다. 데이터센터는 수요가 크고 24시간 일정해 수소 수요처로서 조건이 좋다. 수소 수요가 수송에서 전력으로 옮겨가는 흐름을 보여주는 사례다.",
+   "collected_at": "2026-09-23T03:18:55Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "현대차",
+    "새만금",
+    "데이터센터"
+   ]
+  },
+  {
+   "id": "9cafdb75e97a68b2",
+   "title": "Mauritanian green ammonia mega project targets 2030 FID",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNR3paSXowTm9QbmU1ODJraVJ0T1BIZTBZcC0zdkdnejdPbEEtVHo0NlcxbWlRenh2eWRBeDVGZEJMVnE3cHdUY2RsYzk5bXY5UVpOY1VTdGZVZUpoZlBrbzdCdkdXQ3Z4N1FOX0FyUzd3QmhlR19TX2RzejBiUTROU2NKZE43SFhzVXA4V1EzMUlvUGdGRktzQllKYUNjaDMtQnRUdkVn?oc=5",
+   "source": "gasworld",
+   "published_at": "2026-09-17T13:41:39Z",
+   "category": "프로젝트·계약",
+   "region": "해외",
+   "chain": [
+    "암모니아"
+   ],
+   "importance": "중",
+   "summary": "모리타니 그린암모니아 대형 프로젝트가 2030년 FID를 목표로 한다. 목표 시점이 2030년이라는 것은 현재 단계가 타당성 검토와 오프테이크 확보 구간이라는 뜻이다.",
+   "collected_at": "2026-09-23T03:18:55Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "Mauritania",
+    "그린암모니아"
+   ]
+  },
+  {
+   "id": "15a85258ddebc73f",
+   "title": "경북도, 원전 활용 청정수소 생산 생태계 구축한다",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9GRWlzRjJTTXdFV3YzNnVCeEQ0VDFPcnBBOGZFaExpQ0tPU1ZQU0g4MHNRVE5EQXBfV1RKSlFTMnRDeUV4VjZ1VDl6NDNoMHp2cm5WSTdKMzBUN1XSAWBBVV95cUxNOXFRbzlsa1pEbl9FRE5zakZORWlkWUpNY2pLSG9qTi1sRC13aUFWdllTX25PMFZ2RVU5anRCSnBCUXh3dnhheXBQMlpBS1JZa3FJSWNHVGw1T1RHQk8xSGU?oc=5",
+   "source": "연합뉴스",
+   "published_at": "2026-09-17T07:43:53Z",
+   "category": "정책·규제",
+   "region": "국내",
+   "chain": [
+    "수소생산"
+   ],
+   "importance": "중",
+   "summary": "경상북도가 원전 전력을 활용한 청정수소 생산 생태계 구축을 추진한다. 원전 연계 수소는 재생전력 대비 이용률이 높아 생산단가에서 유리하지만, 청정수소 인정 기준에 어떻게 반영되는지가 사업성을 좌우한다.",
+   "collected_at": "2026-09-23T03:18:55Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "경상북도",
+    "원전",
+    "청정수소"
+   ]
+  },
+  {
+   "id": "eab3f200d6c11ff2",
+   "title": "Hy24, COFIDES Acquire 29% Stake in Onuba Green Hydrogen",
+   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNdzBSMmNaZlpMQ3p1aXlsLWh0V2lTN19mbXhwTWN4TFNKbmh5OXZBTUNFdjdweUNfeXg1dlZ4YnhzTnlXRmtETFFvcnJRbG5WM29kU29wM094X1VRZEV0M0pqTlo5bEZOSDZlUlc0Q2hoMHUzY1pSS0FlNEtQaU5ISlpLc3dTdTNZUE9RQ25uXzBSWk92UmN1ckVCaTBuUUZ2MEJia1hmanU3TnBLOUo5RFlnLTNiOHBBQ1hmQ0Q3MHlGZVhsRVlFZHJVQjR0eTlTZW54RVA4UXdQdw?oc=5",
+   "source": "Fuel Cells Works",
+   "published_at": "2026-09-16T15:08:00Z",
+   "category": "투자·금융",
+   "region": "해외",
+   "chain": [
+    "수소생산"
+   ],
+   "importance": "중",
+   "summary": "Hy24와 COFIDES가 Onuba 그린수소 사업 지분 29%를 인수했다. 수소 전문 인프라 펀드와 공적 금융기관이 함께 들어오는 구조는 유럽 그린수소 사업의 전형적인 자본 조달 형태다.",
+   "collected_at": "2026-09-23T03:18:55Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "Hy24",
+    "COFIDES",
+    "Onuba"
+   ]
+  },
+  {
+   "id": "4180242407d43daa",
+   "title": "Ansaldo Green Tech Launches 300MW AEM Electrolyser Factory",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQQTcyMkV0TTFVNVdnNkdXMzBnM0tVUzNqN0ZYRkpMZXhPSXBsTTJ2MjQzRGZiT1N6UkhfTDY0ckE5REN5Q1BlbDJwbmU2bEFBM01TeUZnQ3Mtb1hfVUl2aFlrczZzLWdkd2xhdlB2b0hBUEYtbDhhNHUtUzNIZHl1MHFGbGE1X1RESWFyNEhqXzhwTmhHSXh0TkpyaTJ4YWNWTlJtYWhGRFNuOXU0UzVYMDZNNnNMdURaWkFxb1ZNVW5mWmFBR3BjeQ?oc=5",
+   "source": "Fuel Cells Works",
+   "published_at": "2026-09-16T13:05:00Z",
+   "category": "기술",
+   "region": "해외",
+   "chain": [
+    "수소생산"
+   ],
+   "importance": "중",
+   "summary": "Ansaldo Green Tech이 300MW 규모 AEM 수전해 설비 공장을 열었다. 스택 제조 능력이 늘어나는 것은 설비 단가 하락의 전제이지만, 실제 가동률은 프로젝트들의 FID 속도에 달려 있다.",
+   "collected_at": "2026-09-23T03:18:55Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "Ansaldo",
+    "AEM",
+    "수전해"
+   ]
+  },
+  {
+   "id": "13337cc8b24a81fe",
+   "title": "암모니아 혼소 배제한 정부…청정수소 시장 살아날까?",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBYNVJHQTdxcEo3TXFYa3RMcnNUWlVJUmpNLVNvZ1FNZ3M4cjdfOG9GTk9oNE1KOHQ1V1pPT2QxTFR4ZXZhbHN3UDVIUjdadGc5NVhZT3lRLWlKSGh3TDJoV182dDVKOGg1eFdzU1AtTWbSAXRBVV95cUxQWFc3RE9hZkgxa2xMOEpiZnVGdzNKNmozVGd4cnd5YmlraGJKbnVwRFdnU29lbkNXdlR0cEFfSkE1NUVqaDZVWHdUX2pocDU5NDU0ZmhoUTR6Mnp3VFZ3cXd3bHkwcmNxdDNhbkl1R2QtZUwxYg?oc=5",
+   "source": "수소신문",
+   "published_at": "2026-09-16T07:00:00Z",
+   "category": "정책·규제",
+   "region": "국내",
+   "chain": [
+    "암모니아",
+    "활용"
+   ],
+   "importance": "상",
+   "summary": "정부가 청정수소발전 입찰에서 암모니아 혼소를 제외하면서 청정수소 시장의 향방을 묻는 내용이다. 혼소 경로가 막히면 도입 암모니아는 태우는 대신 크래킹해 수소로 파는 길로 몰리게 되고, 크래킹 설비 투자와 그 경제성이 전면에 오게 된다.",
+   "collected_at": "2026-09-23T03:18:55Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "암모니아 혼소",
+    "CHPS",
+    "청정수소"
+   ]
+  },
+  {
+   "id": "7923caa499283b83",
+   "title": "Keppel-led consortium appointed for next phase of ammonia power and bunkering project on Jurong Island",
+   "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNNnROOXlpX1kwQ014SHVacDRVTXVUZTd0d2pPQUItMTY3MC1mdG1XN1ZKdjkwdGRHakE5X2x5SFZSa3lOWmdFY0dFSFB1M0d5UVIzU3ZFdVhJZmN3aGdxTnlla2JqTUotUllwWGdHTWNWVmFUSHN1VF9yNUVTUXZVQVlOeTFKTWVHZnlaN1lyRnk0aDB4akEtLW5FZEJBNXI5aWVlUzRHTnBJZmhzd2gxOElnSWlRRmlWRnFjVHA0NkZzQ2wtX0hzdVJWdGNJS3RVTlZLX3U5ckk3MTktLXVfZjU3a181R1U?oc=5",
+   "source": "Singapore Economic Development Board (EDB)",
+   "published_at": "2026-09-16T07:00:00Z",
+   "category": "프로젝트·계약",
+   "region": "해외",
+   "chain": [
+    "암모니아",
+    "활용"
+   ],
+   "importance": "상",
+   "summary": "Keppel이 이끄는 컨소시엄이 주롱섬 암모니아 발전 및 벙커링 사업의 다음 단계 사업자로 선정됐다. 싱가포르는 발전 연료와 선박 연료 수요를 한 부지에서 묶는 방식을 택했는데, 수요를 모아야 도입 물량이 성립한다는 구조를 보여준다.",
+   "collected_at": "2026-09-23T03:18:55Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "Keppel",
+    "Jurong Island",
+    "벙커링"
+   ]
+  },
+  {
+   "id": "e6920ff4f604a341",
+   "title": "[라이브in] 글로벌 CCUS 협력의 장 열렸다… ‘코리아 CCUS 컨퍼런스 2026’ 성료",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9OSHJHekFVMFJtX3dEd2FCbHNaLUZuWFJLdDA5cFFUWlYwY3c3cGUtTFJ3emQ3NWhfWjlnd1VlUlczVWo3RVNINDBNb21tbU1Hc0FRdUR4ZDcwbUtTa19EVmRjM1Z1YmpwajVhVzFB?oc=5",
+   "source": "산업인뉴스",
+   "published_at": "2026-09-16T05:13:32Z",
+   "category": "기술",
+   "region": "국내",
+   "chain": [
+    "CCUS"
+   ],
+   "importance": "하",
+   "summary": "코리아 CCUS 컨퍼런스 2026이 열렸다. 국내외 사업자와 연구기관이 모이는 자리로, 기술 동향과 사업 파트너 탐색 채널로 쓰인다.",
+   "collected_at": "2026-09-23T03:18:55Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "코리아CCUS컨퍼런스"
+   ]
+  }
+ ]
+}
