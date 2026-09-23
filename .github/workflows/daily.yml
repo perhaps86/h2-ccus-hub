@@ -1,0 +1,58 @@
+name: 일일 수집
+
+on:
+  schedule:
+    # 매일 07:00 KST (22:00 UTC 전일)
+    - cron: "0 22 * * *"
+  workflow_dispatch:
+    inputs:
+      limit:
+        description: "이번 실행에서 처리할 신규 항목 수 상한"
+        required: false
+        default: ""
+
+permissions:
+  contents: write
+
+concurrency:
+  group: daily-collect
+  cancel-in-progress: false
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: 의존성 설치
+        run: pip install -r requirements.txt
+
+      - name: 테스트
+        run: python -m pytest -q
+
+      - name: 수집 및 분류
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          H2HUB_MAX_CALLS: "40"
+        run: |
+          if [ -n "${{ github.event.inputs.limit }}" ]; then
+            python pipeline/merge.py --limit "${{ github.event.inputs.limit }}"
+          else
+            python pipeline/merge.py
+          fi
+
+      - name: 변경분 커밋
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          if git diff --quiet -- data/; then
+            echo "변경 없음"
+            exit 0
+          fi
+          git add data/
+          git commit -m "data: $(date -u +%Y-%m-%d) 수집"
+          git push

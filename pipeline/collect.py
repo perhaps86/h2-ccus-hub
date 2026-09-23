@@ -40,11 +40,39 @@ def entry_published(entry) -> datetime | None:
 
 
 def clean_title(title: str, source_site: str = "") -> str:
-    """구글뉴스 제목 끝의 ' - 매체명' 꼬리를 떼어낸다."""
-    title = " ".join(html.unescape(title or "").split())
+    """제목의 HTML 을 벗기고, 끝에 붙는 ' - 매체명' 꼬리를 떼어낸다.
+
+    일부 매체는 제목 필드에 <span> 같은 마크업을 그대로 넣어 보낸다.
+    """
+    title = html.unescape(_TAG_RE.sub(" ", title or ""))
+    title = " ".join(title.split())
     if source_site and title.endswith(f" - {source_site}"):
         title = title[: -len(source_site) - 3].rstrip()
     return title
+
+
+def is_excluded(title: str, patterns: list[str]) -> bool:
+    """부고, 인사, 정정 같은 기사 아닌 항목을 제목으로 걸러낸다."""
+    return any(pattern in title for pattern in patterns)
+
+
+def matches_keywords(text: str, keywords: list[str]) -> bool:
+    """종합 매체 필터. 키워드가 비면 전량 통과.
+
+    영문 약어는 단어 경계를 요구한다. 그러지 않으면 소비자심리지수 CCSI 가
+    CCS 로 잡히는 식의 오탐이 난다. 한글 키워드는 교착어라 경계를 쓰지 않는다.
+    """
+    if not keywords:
+        return True
+    haystack = text.lower()
+    for keyword in keywords:
+        needle = keyword.lower()
+        if needle.isascii():
+            if re.search(rf"(?<![a-z0-9]){re.escape(needle)}(?![a-z0-9])", haystack):
+                return True
+        elif needle in haystack:
+            return True
+    return False
 
 
 def load_config(path: Path = SOURCES_PATH) -> dict:
@@ -60,11 +88,18 @@ def collect(config: dict | None = None, *, now: datetime | None = None) -> list[
     now = now or datetime.now(timezone.utc)
     cutoff = now - timedelta(days=lookback)
 
+    keyword_sets = {
+        "ko": config.get("keywords_ko", []),
+        "en": config.get("keywords_en", []),
+    }
+    excludes = config.get("exclude_patterns", [])
+
     items: list[RawItem] = []
     seen: set[str] = set()
 
     for source in config.get("sources", []):
         name = source["name"]
+        keywords = keyword_sets.get(source.get("keywords", ""), [])
         try:
             feed = feedparser.parse(source["url"], agent=USER_AGENT)
         except Exception as exc:  # 한 소스가 죽어도 전체는 계속 돈다
@@ -83,20 +118,24 @@ def collect(config: dict | None = None, *, now: datetime | None = None) -> list[
             if not link:
                 continue
             published = entry_published(entry)
-            if published and published < cutoff:
+            # 발행일이 없는 항목은 버린다. now 로 채우면 오래된 기사가
+            # 신규로 둔갑한다.
+            if published is None or published < cutoff:
                 continue
 
-            site = ""
-            src = getattr(entry, "source", None)
-            if src is not None:
-                site = getattr(src, "title", "") or ""
+            title = clean_title(getattr(entry, "title", ""), name)
+            if is_excluded(title, excludes):
+                continue
+            snippet = strip_html(getattr(entry, "summary", ""))
+            if not matches_keywords(f"{title} {snippet}", keywords):
+                continue
 
             item = RawItem(
-                title=clean_title(getattr(entry, "title", ""), site),
+                title=title,
                 url=link,
-                source=site or name,
-                published_at=(published or now).strftime("%Y-%m-%dT%H:%M:%SZ"),
-                snippet=strip_html(getattr(entry, "summary", "")),
+                source=name,
+                published_at=published.strftime("%Y-%m-%dT%H:%M:%SZ"),
+                snippet=snippet,
             )
             if not item.title or item.id in seen:
                 continue
