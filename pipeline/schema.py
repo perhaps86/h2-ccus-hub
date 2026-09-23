@@ -122,7 +122,13 @@ def build_news_item(raw: RawItem, classification: dict, *, strict: bool = False)
         raw_chain = [raw_chain]
     chain = [c for c in (str(x).strip() for x in raw_chain) if c in CHAIN_STAGES]
     if not chain:
-        problems.append(_fail(f"chain 이 비었거나 허용값 아님: {raw_chain!r}", strict))
+        # 모델이 빈 배열을 돌려주는 것은 대개 오류가 아니라 "이 도메인 기사가
+        # 아니다"라는 판단이다. 오분류와 구분해 기록하고, 어느 쪽이든
+        # 화면에는 띄우지 않는다. 항목 자체는 남겨야 다음 실행에서 같은
+        # 기사를 다시 분류하느라 비용을 쓰지 않는다.
+        reason = ("도메인 밖: 밸류체인 해당 없음" if not raw_chain
+                  else f"chain 허용값 아님: {raw_chain!r}")
+        problems.append(_fail(reason, strict))
 
     importance = str(classification.get("importance", "")).strip()
     if importance not in IMPORTANCE:
@@ -145,7 +151,7 @@ def build_news_item(raw: RawItem, classification: dict, *, strict: bool = False)
         published_at=raw.published_at,
         category=category,
         region=region,
-        chain=chain or [CHAIN_STAGES[0]],
+        chain=chain,  # 비었으면 비운 채로 둔다. 있지도 않은 단계를 채우지 않는다.
         importance=importance,
         summary=summary,
         collected_at=datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"),

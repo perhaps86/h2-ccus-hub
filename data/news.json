@@ -73,14 +73,12 @@
    "published_at": "2026-09-22T16:32:41Z",
    "category": "시장·가격",
    "region": "국내",
-   "chain": [
-    "수소생산"
-   ],
+   "chain": [],
    "importance": "하",
    "summary": "수송 연료 시장에서 전기차와 수소차 보급이 확대되면서 LPG 수요가 감소하고 있다. 도심 LPG충전소의 휴·폐업과 업종 전환이 이어지고 있으며, 향후 충전 인프라 공백에 대한 우려가 커지고 있다.",
    "collected_at": "2026-09-23T03:46:40Z",
    "needs_review": true,
-   "review_reason": "chain 이 비었거나 허용값 아님: []",
+   "review_reason": "도메인 밖: 밸류체인 해당 없음",
    "tags": [
     "LPG충전소",
     "전기화물차",

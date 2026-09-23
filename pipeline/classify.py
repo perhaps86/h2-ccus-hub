@@ -35,7 +35,8 @@ SYSTEM_PROMPT = f"""너는 수소·암모니아·CCUS 산업 뉴스를 분류하
 
 category: {" / ".join(CATEGORIES)} 중 하나
 region: {" / ".join(REGIONS)} 중 하나 (기사에서 다루는 사업의 소재지 기준)
-chain: {" / ".join(CHAIN_STAGES)} 중 해당하는 것 전부 (배열, 최소 1개)
+chain: {" / ".join(CHAIN_STAGES)} 중 해당하는 것 전부 (배열)
+  수소·암모니아·CCUS 와 무관한 기사면 빈 배열로 둬라. 억지로 채우지 마라.
 importance: {" / ".join(IMPORTANCE)}
   상 = 투자 결정, 대형 계약, 제도 확정처럼 사업 판단을 바꾸는 사안
   중 = 사업 진행 상황, 기술 실증, 주요 기업 동향
@@ -46,7 +47,7 @@ tags: 핵심 고유명사 최대 4개 (기업명, 지역, 제도명)
 규칙
 - summary 는 기사 문장을 그대로 옮기지 말고 네 문장으로 다시 써라.
 - 발췌에 없는 수치나 사실을 지어내지 마라. 확실하지 않으면 쓰지 마라.
-- 수소·암모니아·CCUS 와 무관한 기사는 importance 를 "하"로 둬라.
+- 수소·암모니아·CCUS 와 무관한 기사는 chain 을 빈 배열로, importance 를 "하"로 둬라.
 
 출력은 JSON 배열 하나. 입력 순서와 같은 개수, 같은 순서로 반환한다."""
 

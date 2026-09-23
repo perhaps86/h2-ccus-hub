@@ -237,3 +237,16 @@ def test_영문_약어는_단어_경계를_요구한다():
 def test_제목의_HTML_마크업을_벗긴다():
     raw = '<span class="title-top">[인터뷰] 부원장</span><br />“수소, 에너지 전환의 축”'
     assert collect.clean_title(raw) == '[인터뷰] 부원장 “수소, 에너지 전환의 축”'
+
+
+def test_빈_chain은_도메인_밖으로_기록된다():
+    item = build_news_item(_raw(), _valid_classification() | {"chain": []})
+    assert item.needs_review is True
+    assert "도메인 밖" in item.review_reason
+    assert item.chain == []  # 없는 단계를 임의로 채우지 않는다
+
+
+def test_허용값_밖_chain은_오분류로_기록된다():
+    item = build_news_item(_raw(), _valid_classification() | {"chain": ["우주항공"]})
+    assert item.needs_review is True
+    assert "허용값" in item.review_reason
