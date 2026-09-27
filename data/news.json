@@ -1,7 +1,29 @@
 {
- "generated_at": "2026-09-26T00:25:41Z",
- "count": 182,
+ "generated_at": "2026-09-27T00:24:12Z",
+ "count": 186,
  "items": [
+  {
+   "id": "fa86f183eae63541",
+   "title": "현대로템, 독일서 차세대 고속철·수소전기트램 기술 공개",
+   "url": "https://www.todayenergy.kr/news/articleView.html?idxno=303490",
+   "source": "투데이에너지",
+   "published_at": "2026-09-26T07:00:00Z",
+   "category": "프로젝트·계약",
+   "region": "해외",
+   "chain": [
+    "활용"
+   ],
+   "importance": "중",
+   "summary": "현대로템이 베를린 국제 철도박람회에서 차세대 고속철도차량과 수소전기트램을 공개했다. 이는 단순한 디자인 개선을 넘어 승객 경험 중심의 모빌리티 솔루션을 제시하는 것으로, 글로벌 철도 수송 시장에서의 입지 강화를 의도하고 있다.",
+   "collected_at": "2026-09-27T00:24:12Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "현대로템",
+    "수소전기트램",
+    "베를린"
+   ]
+  },
   {
    "id": "fdea5701938f4042",
    "title": "Provaris Energy advances hydrogen tank commercialisation through Himile manufacturing collaboration",
@@ -780,6 +802,29 @@
    "tags": [
     "한국석유관리원",
     "추석연휴"
+   ]
+  },
+  {
+   "id": "6090a5ec42f50243",
+   "title": "Spain Advances Hydrogen Infrastructure with Initial Backbone Permitting",
+   "url": "http://www.hydrogenfuelnews.com/spain-advances-hydrogen-infrastructure-with-initial-backbone-permitting/8576726/",
+   "source": "Hydrogen Fuel News",
+   "published_at": "2026-09-24T18:22:37Z",
+   "category": "정책·규제",
+   "region": "해외",
+   "chain": [
+    "수소생산",
+    "운송·저장"
+   ],
+   "importance": "상",
+   "summary": "스페인 정부와 가스 인프라 기업 Enagás가 2,600km 규모의 재생에너지 수소 주요 간선망 조성을 위한 공식 허가 절차를 시작했다. 계획 단계에서 규제 인프라 개발 단계로의 전환으로, 유럽 내 녹색 수소 생산과 수출 체계 구축이 본격화되고 있다.",
+   "collected_at": "2026-09-27T00:24:12Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "스페인",
+    "Enagás",
+    "수소 인프라"
    ]
   },
   {
@@ -2232,6 +2277,50 @@
     "이노트랜스2026",
     "베를린",
     "철도산업"
+   ]
+  },
+  {
+   "id": "ad2cfd982cb17015",
+   "title": "Hydrogen Fuel Cell News: AEP Ohio’s 72.9 MW Solid Oxide Fuel Cell for AWS Clears Local Appeal",
+   "url": "http://www.hydrogenfuelnews.com/hydrogen-fuel-cell-news-aep-ohio-s-72-9-mw-solid-oxide-fuel-cell-for-aws-clears-/8576719/",
+   "source": "Hydrogen Fuel News",
+   "published_at": "2026-09-23T03:10:37Z",
+   "category": "프로젝트·계약",
+   "region": "해외",
+   "chain": [
+    "활용"
+   ],
+   "importance": "중",
+   "summary": "미국 오하이오주의 AEP가 AWS 캠퍼스용 72.9MW 규모 고체산화물 연료전지(SOFC) 프로젝트의 지방 항소를 철회받아 진행 승인을 획득했다. 데이터센터의 전력 공급 전략이 재생에너지 기반 연료전지로 전환되는 추세를 반영한 사례다.",
+   "collected_at": "2026-09-27T00:24:12Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "AEP Ohio",
+    "AWS",
+    "SOFC"
+   ]
+  },
+  {
+   "id": "48d2240c0c946127",
+   "title": "MODEC and Eld Energy advance SOFC qualification for FPSO power",
+   "url": "http://www.hydrogenfuelnews.com/hydrogen-fuel-cell-news-modec-and-eld-energy-advance-sofc-qualification-for-fpso/8576718/",
+   "source": "Hydrogen Fuel News",
+   "published_at": "2026-09-23T03:09:59Z",
+   "category": "기술",
+   "region": "해외",
+   "chain": [
+    "활용"
+   ],
+   "importance": "중",
+   "summary": "MODEC과 Eld Energy가 부유식 해상 생산설비(FPSO) 전력 공급용 40kW급 고체산화물 연료전지 모듈의 타당성 검증 및 개념 검증을 완료했다. ABS의 신기술 적격 검증(NTQ)을 통과하여 FPSO 현장 프로토타입 검증 단계로 진입하고 있다.",
+   "collected_at": "2026-09-27T00:24:12Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "MODEC",
+    "Eld Energy",
+    "SOFC"
    ]
   },
   {
