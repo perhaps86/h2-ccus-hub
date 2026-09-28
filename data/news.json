@@ -1,7 +1,143 @@
 {
- "generated_at": "2026-09-27T00:24:12Z",
- "count": 186,
+ "generated_at": "2026-09-28T00:20:32Z",
+ "count": 199,
  "items": [
+  {
+   "id": "b8e34ed59f205760",
+   "title": "한국 제안 선상탄소포집 안전지침, IMO 국제표준 논의 기본 문서로 채택",
+   "url": "https://www.electimes.com/news/articleView.html?idxno=372806",
+   "source": "전기신문",
+   "published_at": "2026-09-27T14:22:58Z",
+   "category": "정책·규제",
+   "region": "국내",
+   "chain": [
+    "CCUS",
+    "운송·저장"
+   ],
+   "importance": "상",
+   "summary": "한국이 제안한 선상탄소포집장치(OCCS) 임시안전지침이 IMO의 글로벌 안전기준 개발 기본문서로 채택되었으며, 한국은 세부내용 논의의 간사국을 맡게 되었다. 해운업계의 온실가스 감축을 위한 국제 표준화 주도권을 확보한 것으로 의미가 있다.",
+   "collected_at": "2026-09-28T00:20:22Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "IMO",
+    "선상탄소포집",
+    "해양수산부",
+    "런던"
+   ]
+  },
+  {
+   "id": "f2632f524349ad30",
+   "title": "US Hybrid Locates Headquarters and Manufacturing in Lancaster in Partnership with First Public Hydrogen Authority and City of Lancaster",
+   "url": "https://hydrogen-central.com/us-hybrid-locates-headquarters-and-manufacturing-in-lancaster-in-partnership-with-first-public-hydrogen-authority-and-city-of-lancaster/",
+   "source": "Hydrogen Central",
+   "published_at": "2026-09-26T08:50:06Z",
+   "category": "프로젝트·계약",
+   "region": "해외",
+   "chain": [
+    "수소생산",
+    "활용"
+   ],
+   "importance": "중",
+   "summary": "US Hybrid가 미국 Lancaster에 본사와 제조시설을 구축하고 현지 공공 수소 인프라와 협력하기로 합의했다. 영에너지 차량 제조와 공공 수소 공급망을 연계하는 프로젝트로 평가된다.",
+   "collected_at": "2026-09-28T00:20:22Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "US Hybrid",
+    "Lancaster",
+    "영에너지 차량"
+   ]
+  },
+  {
+   "id": "9612f1e557720c57",
+   "title": "Utility Global Taps Erik Meuleman as Chief Technology Officer to Advance Proprietary H2Gen Commercialization",
+   "url": "https://hydrogen-central.com/utility-global-taps-erik-meuleman-as-chief-technology-officer-to-advance-proprietary-h2gen-commercialization/",
+   "source": "Hydrogen Central",
+   "published_at": "2026-09-26T08:49:41Z",
+   "category": "프로젝트·계약",
+   "region": "해외",
+   "chain": [
+    "수소생산"
+   ],
+   "importance": "중",
+   "summary": "Utility Global이 20년 이상의 기술 상용화 경험을 가진 Erik Meuleman을 최고기술책임자로 영입했다. 자사의 H2Gen 수소생산 기술 상용화를 가속화하려는 인사 조치이다.",
+   "collected_at": "2026-09-28T00:20:22Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "Utility Global",
+    "H2Gen",
+    "Erik Meuleman"
+   ]
+  },
+  {
+   "id": "4d30df438a727f44",
+   "title": "Commercial use of green hydrogen cautiously gets under way in Czechia, with new project in Napajedla showing potential",
+   "url": "https://hydrogen-central.com/commercial-use-of-green-hydrogen-cautiously-gets-under-way-in-czechia-with-new-project-in-napajedla-showing-potential/",
+   "source": "Hydrogen Central",
+   "published_at": "2026-09-26T08:46:48Z",
+   "category": "프로젝트·계약",
+   "region": "해외",
+   "chain": [
+    "수소생산"
+   ],
+   "importance": "중",
+   "summary": "체코의 Napajedla에서 체코 최초 수소 전해조를 이용한 그린 수소 상업생산 프로젝트가 진행 중이다. 중부유럽 지역의 그린 수소 상용화 움직임을 보여준다.",
+   "collected_at": "2026-09-28T00:20:22Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "체코",
+    "Napajedla",
+    "전해조"
+   ]
+  },
+  {
+   "id": "5cdc00f2021046d5",
+   "title": "OMV Petrom expands its green hydrogen production capacity at the Petrobrazi refinery to 55 MW with the delivery of a second 35 MW electrolyzer",
+   "url": "https://hydrogen-central.com/omv-petrom-expands-its-green-hydrogen-production-capacity-at-the-petrobrazi-refinery-to-55-mw-with-the-delivery-of-a-second-35-mw-electrolyzer/",
+   "source": "Hydrogen Central",
+   "published_at": "2026-09-26T08:23:11Z",
+   "category": "프로젝트·계약",
+   "region": "해외",
+   "chain": [
+    "수소생산"
+   ],
+   "importance": "중",
+   "summary": "OMV Petrom이 Petrobrazi 정유소의 그린 수소 생산 능력을 35MW 규모의 두 번째 전해조 설치로 총 55MW로 확장했다. 유럽 에너지 기업의 그린 수소 투자 확대를 반영한다.",
+   "collected_at": "2026-09-28T00:20:22Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "OMV Petrom",
+    "Petrobrazi",
+    "전해조"
+   ]
+  },
+  {
+   "id": "34763a4e13d3d0ca",
+   "title": "Poland – TAURON H2 and PKM Tychy want to cooperate to develop hydrogen-powered public transport",
+   "url": "https://hydrogen-central.com/poland-tauron-h2-and-pkm-tychy-want-to-cooperate-to-develop-hydrogen-powered-public-transport/",
+   "source": "Hydrogen Central",
+   "published_at": "2026-09-26T08:23:09Z",
+   "category": "프로젝트·계약",
+   "region": "해외",
+   "chain": [
+    "수소생산",
+    "활용"
+   ],
+   "importance": "중",
+   "summary": "폴란드의 TAURON H2와 Tychy 지방운송회사가 수소 연료 대중교통 개발을 위한 협력 의향서를 체결했다. 동유럽 지역의 수소 활용 기반 확대 움직임이다.",
+   "collected_at": "2026-09-28T00:20:22Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "TAURON H2",
+    "PKM Tychy",
+    "폴란드"
+   ]
+  },
   {
    "id": "fa86f183eae63541",
    "title": "현대로템, 독일서 차세대 고속철·수소전기트램 기술 공개",
@@ -22,6 +158,75 @@
     "현대로템",
     "수소전기트램",
     "베를린"
+   ]
+  },
+  {
+   "id": "a2cc0de02869b615",
+   "title": "Hydrogen Project Financing: AfDB Catalyzes $20M in Green Hydrogen Grants Across Africa",
+   "url": "http://www.hydrogenfuelnews.com/hydrogen-project-financing-afdb-catalyzes-20m-in-green-hydrogen-grants-across-af/8576736/",
+   "source": "Hydrogen Fuel News",
+   "published_at": "2026-09-25T20:17:31Z",
+   "category": "투자·금융",
+   "region": "해외",
+   "chain": [
+    "수소생산"
+   ],
+   "importance": "상",
+   "summary": "아프리카개발은행(AfDB)이 이집트, 모로코, 나미비아, 남아프리카의 네 개 그린 수소 프로젝트에 2천만 달러의 보조금을 배분하기로 선정했다. 아프리카 지역의 그린 수소 개발 가능성 평가와 자금화를 추진하는 주요 자금지원 결정이다.",
+   "collected_at": "2026-09-28T00:20:22Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "AfDB",
+    "아프리카",
+    "그린수소",
+    "SEFA"
+   ]
+  },
+  {
+   "id": "ef8c5579ee1b0084",
+   "title": "NTU artificial leaf advances green hydrogen production from seawater while tackling hydrazine contamination",
+   "url": "http://www.hydrogenfuelnews.com/ntu-artificial-leaf-advances-green-hydrogen-production-from-seawater-while-tackl/8576735/",
+   "source": "Hydrogen Fuel News",
+   "published_at": "2026-09-25T20:13:40Z",
+   "category": "기술",
+   "region": "해외",
+   "chain": [
+    "수소생산"
+   ],
+   "importance": "중",
+   "summary": "난양공대(NTU)의 연구팀이 해수에서 햇빛을 이용해 수소를 생산하는 인공잎 기술을 개발했으며, 동시에 유독한 히드라진 오염물질을 분해할 수 있다. 해양 환경에서의 친환경 수소 생산 기술 혁신이다.",
+   "collected_at": "2026-09-28T00:20:22Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "NTU",
+    "인공잎",
+    "해수전해"
+   ]
+  },
+  {
+   "id": "50ff5113de389d9e",
+   "title": "Hyster and Briggs Deliver Hydrogen Fuel-Cell ReachStacker to Port of Tilbury",
+   "url": "http://www.hydrogenfuelnews.com/hyster-and-briggs-deliver-hydrogen-fuel-cell-reachstacker-to-port-of-tilbury/8576734/",
+   "source": "Hydrogen Fuel News",
+   "published_at": "2026-09-25T20:13:16Z",
+   "category": "프로젝트·계약",
+   "region": "해외",
+   "chain": [
+    "수소생산",
+    "활용"
+   ],
+   "importance": "중",
+   "summary": "Hyster와 Briggs Equipment UK가 Port of Tilbury에 연료전지 기반 ReachStacker를 배치했으며, GeoPura의 현장 전해조가 통합 수소 인프라를 지원한다. 항만 탈탄소화를 위한 실증 프로젝트로 수소 인프라의 실제 운영 가능성을 검증하는 사례다.",
+   "collected_at": "2026-09-28T00:20:32Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "Hyster",
+    "Port of Tilbury",
+    "GeoPura",
+    "Nuvera"
    ]
   },
   {
@@ -758,6 +963,98 @@
    "tags": [
     "오스트리아",
     "CO2저장법"
+   ]
+  },
+  {
+   "id": "f213548783af4d27",
+   "title": "Honeywell Advances Ground Integration of Aircraft Power System",
+   "url": "http://www.hydrogenfuelnews.com/hydrogen-fuel-cell-news-honeywell-advances-ground-integration-of-aircraft-power-/8576731/",
+   "source": "Hydrogen Fuel News",
+   "published_at": "2026-09-25T07:10:56Z",
+   "category": "기술",
+   "region": "해외",
+   "chain": [
+    "수소생산",
+    "활용"
+   ],
+   "importance": "중",
+   "summary": "Honeywell International이 체코의 ÚJV Řež에서 연료전지 서브시스템의 지상 통합 시연(TRL 4)을 진행한 후 이탈리아에서 배터리 및 메가와트급 전기모터와의 통합을 계획하고 있다. 항공기 전원 시스템의 수소 기반 통합 기술 개발 단계를 나타낸다.",
+   "collected_at": "2026-09-28T00:20:32Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "Honeywell",
+    "ÚJV Řež",
+    "항공기 전원"
+   ]
+  },
+  {
+   "id": "961b29720bdb7ab0",
+   "title": "Green Hydrogen Production: OMV Pushes Ahead with 140 MW Electrolysis Plant in Austria After Masdar Exit",
+   "url": "http://www.hydrogenfuelnews.com/green-hydrogen-production-omv-pushes-ahead-with-140-mw-electrolysis-plant-in-aus/8576730/",
+   "source": "Hydrogen Fuel News",
+   "published_at": "2026-09-25T07:08:45Z",
+   "category": "투자·금융",
+   "region": "해외",
+   "chain": [
+    "수소생산"
+   ],
+   "importance": "중",
+   "summary": "OMV가 Masdar의 사업 이탈 이후 오스트리아의 140 MW 그린 수소 프로젝트를 단독으로 진행하기로 결정했으며, EIB와 오스트리아 자금 지원을 확보했다. 국제 협력 변화에도 불구하고 프로젝트 진행이 확정되었다는 점에서 의미가 있다.",
+   "collected_at": "2026-09-28T00:20:32Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "OMV",
+    "오스트리아",
+    "EIB",
+    "140 MW"
+   ]
+  },
+  {
+   "id": "68fd5cc139f03cd2",
+   "title": "Spain Allocates €44M to eM Numancia Renewable Hydrogen and Methanol Project in Garray",
+   "url": "http://www.hydrogenfuelnews.com/green-hydrogen-news-spain-allocates-44m-to-em-numancia-renewable-hydrogen-and-me/8576729/",
+   "source": "Hydrogen Fuel News",
+   "published_at": "2026-09-25T07:08:27Z",
+   "category": "투자·금융",
+   "region": "해외",
+   "chain": [
+    "수소생산"
+   ],
+   "importance": "중",
+   "summary": "스페인 에너지청 IDAE가 Garray의 eM Numancia 그린 수소·메탄올 플랜트를 위해 4,400만 유로를 지원하기로 결정했다. 최종 설계 확인이 남아 있으나 공공 자금 지원이 확정된 것으로 프로젝트 가시성을 높인다.",
+   "collected_at": "2026-09-28T00:20:32Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "IDAE",
+    "eM Numancia",
+    "Garray",
+    "€44M"
+   ]
+  },
+  {
+   "id": "ed40459f39a9895f",
+   "title": "Quantron China JV Unites German and Chinese Expertise for Dual Powertrain Trucks",
+   "url": "http://www.hydrogenfuelnews.com/quantron-china-jv-unites-german-and-chinese-expertise-for-dual-powertrain-trucks/8576728/",
+   "source": "Hydrogen Fuel News",
+   "published_at": "2026-09-25T07:07:11Z",
+   "category": "프로젝트·계약",
+   "region": "해외",
+   "chain": [
+    "활용"
+   ],
+   "importance": "중",
+   "summary": "Quantron China 합작사가 독일의 차량 통합 기술, 중국의 자율주행 전문성, Foxconn의 제조 역량을 결합하여 이중 파워트레인(배터리-전기/수소 연료전지) 트럭과 버스 개발을 추진한다. 국제 기술 협력을 통한 수소 상용차 플랫폼 다변화 시도다.",
+   "collected_at": "2026-09-28T00:20:32Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "Quantron",
+    "Foxconn",
+    "이중 파워트레인",
+    "중국"
    ]
   },
   {
