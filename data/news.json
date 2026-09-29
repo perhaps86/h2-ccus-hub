@@ -1,7 +1,600 @@
 {
- "generated_at": "2026-09-28T00:20:32Z",
- "count": 199,
+ "generated_at": "2026-09-29T01:32:39Z",
+ "count": 232,
  "items": [
+  {
+   "id": "fa4cada8408078fb",
+   "title": "[법으로 푸는 태양광 이슈⑩] 이격거리 규제의 정비, 열린 문과 남은 과제",
+   "url": "https://www.industrynews.co.kr/news/articleView.html?idxno=86672",
+   "source": "인더스트리뉴스",
+   "published_at": "2026-09-29T10:23:04Z",
+   "category": "정책·규제",
+   "region": "국내",
+   "chain": [],
+   "importance": "하",
+   "summary": "태양광 이격거리 규제를 다루는 법률 해석 기사로, 수소·암모니아·CCUS와 무관한 내용이다.",
+   "collected_at": "2026-09-29T01:32:12Z",
+   "needs_review": true,
+   "review_reason": "도메인 밖: 밸류체인 해당 없음",
+   "tags": [
+    "태양광",
+    "재생에너지법"
+   ]
+  },
+  {
+   "id": "868920cf05e1a8ec",
+   "title": "한국마이콤, HARFKO 2026서 자연냉매 기반 냉각·히트펌프 솔루션 전시",
+   "url": "https://www.gasnews.com/news/articleView.html?idxno=126962",
+   "source": "가스신문",
+   "published_at": "2026-09-29T09:25:00Z",
+   "category": "기술",
+   "region": "해외",
+   "chain": [],
+   "importance": "하",
+   "summary": "한국마이콤이 냉난방공조 전문전시회에서 자연냉매 기반의 냉각설비와 히트펌프 솔루션을 전시한다. 암모니아를 활용한 산업용 냉동·냉장 기술을 선보이는 행사 참가다.",
+   "collected_at": "2026-09-29T01:32:03Z",
+   "needs_review": true,
+   "review_reason": "도메인 밖: 밸류체인 해당 없음",
+   "tags": [
+    "한국마이콤",
+    "HARFKO",
+    "자연냉매",
+    "암모니아"
+   ]
+  },
+  {
+   "id": "c95eea751db276ce",
+   "title": "India Expects 400-500 Hydrogen Buses and Trucks on Roads by 2030, NGHM Chief Says",
+   "url": "https://fuelcellsworks.com/2026/09/27/fuel-cells/india-expects-400-500-hydrogen-buses-and-trucks-on-roads-by-2030-nghm-chief-says",
+   "source": "FuelCellsWorks",
+   "published_at": "2026-09-28T16:44:58Z",
+   "category": "정책·규제",
+   "region": "해외",
+   "chain": [
+    "수소생산",
+    "활용"
+   ],
+   "importance": "중",
+   "summary": "인도 국가 수소 미션(NGHM) 수장이 2030년까지 400-500대의 수소 버스·트럭이 도로에 진입할 것으로 예상된다고 발표했다. 인도의 수소 모빌리티 산업 추진 의지를 보여주는 사안이다.",
+   "collected_at": "2026-09-29T01:32:12Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "인도",
+    "NGHM",
+    "수소버스"
+   ]
+  },
+  {
+   "id": "bdf53b4422e849d2",
+   "title": "Fuel Cell and Hydrogen News Highlights From China: Sept. 21-Sept. 26, 2026",
+   "url": "https://fuelcellsworks.com/2026/09/26/electrolyzer/fuel-cell-and-hydrogen-news-highlights-from-china-sept-21-sep-t-18-2026",
+   "source": "FuelCellsWorks",
+   "published_at": "2026-09-28T16:28:19Z",
+   "category": "시장·가격",
+   "region": "해외",
+   "chain": [
+    "수소생산"
+   ],
+   "importance": "하",
+   "summary": "중국의 수소 및 연료전지 산업 뉴스를 요약한 헤드라인 기사로, 구체적인 내용이 제시되지 않았다.",
+   "collected_at": "2026-09-29T01:32:12Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "중국",
+    "연료전지"
+   ]
+  },
+  {
+   "id": "775bad3e940034a1",
+   "title": "김선기 한국도시가스협회 상근부회장 퇴임…KTL 원장으로 새 출발",
+   "url": "https://www.energydaily.co.kr/news/articleView.html?idxno=203631",
+   "source": "에너지데일리",
+   "published_at": "2026-09-28T16:19:07Z",
+   "category": "정책·규제",
+   "region": "국내",
+   "chain": [],
+   "importance": "하",
+   "summary": "김선기 한국도시가스협회 상근부회장이 임기를 마치고 한국산업기술시험원(KTL) 원장으로 자리를 옮긴다. 산업·에너지 정책과 수소산업 분야의 경험을 바탕으로 새로운 역할을 수행할 예정이다.",
+   "collected_at": "2026-09-29T01:32:03Z",
+   "needs_review": true,
+   "review_reason": "도메인 밖: 밸류체인 해당 없음",
+   "tags": [
+    "김선기",
+    "한국도시가스협회",
+    "KTL",
+    "탄소중립"
+   ]
+  },
+  {
+   "id": "b8a1b9c4389e4e98",
+   "title": "액화수소 대정비…인천시, 11월19일까지 45일간",
+   "url": "https://www.energy-news.co.kr/news/articleView.html?idxno=228590",
+   "source": "에너지신문",
+   "published_at": "2026-09-28T16:14:02Z",
+   "category": "정책·규제",
+   "region": "국내",
+   "chain": [
+    "수소생산",
+    "운송·저장"
+   ],
+   "importance": "중",
+   "summary": "인천광역시가 국내 최대 규모 액화수소생산시설의 정기 대정비에 대응하여 45일간 비상체계를 운영한다. SK인천석유화학의 시설 정비로 인한 수소 공급 차질에 대비하는 조치다.",
+   "collected_at": "2026-09-29T01:32:03Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "SK인천석유화학",
+    "액화수소",
+    "인천시",
+    "수소버스"
+   ]
+  },
+  {
+   "id": "1900ea386a7d111e",
+   "title": "에이치앤파워, 암모니아 직접 공급 SOFC 100시간 연속 운전",
+   "url": "http://www.e2news.com/news/articleView.html?idxno=334618",
+   "source": "이투뉴스",
+   "published_at": "2026-09-28T16:04:17Z",
+   "category": "기술",
+   "region": "국내",
+   "chain": [
+    "암모니아",
+    "활용"
+   ],
+   "importance": "상",
+   "summary": "에이치앤파워와 한국기계연구원이 3kW급 고체산화물 연료전지에 암모니아를 직접 공급하여 100시간 이상 연속 운전을 성공했다. 외부 수소 추출 없이 암모니아 직접 활용 기술의 상용화 가능성을 검증했다.",
+   "collected_at": "2026-09-29T01:32:03Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "에이치앤파워",
+    "한국기계연구원",
+    "직접암모니아",
+    "SOFC"
+   ]
+  },
+  {
+   "id": "02f2badb760f4ed5",
+   "title": "Fuel-Cell Components Hub Opens with Production and Testing Under One Roof",
+   "url": "https://fuelcellsworks.com/2026/09/28/electrolyzer/ufi-hydrogen-inaugurates-mea-production-hub-in-trentino-50-million-investment-plan-by-2029",
+   "source": "FuelCellsWorks",
+   "published_at": "2026-09-28T15:59:20Z",
+   "category": "프로젝트·계약",
+   "region": "해외",
+   "chain": [
+    "수소생산"
+   ],
+   "importance": "중",
+   "summary": "연료전지 부품 생산 및 테스트 시설이 개장했다. 수소 산업의 부품 공급망 구축이 진행 중임을 시사한다.",
+   "collected_at": "2026-09-29T01:32:12Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "연료전지부품",
+    "제조"
+   ]
+  },
+  {
+   "id": "d1e1cb8249fee5fd",
+   "title": "Hydrogen's First Kilometers on a Greek Motorway",
+   "url": "https://fuelcellsworks.com/2026/09/27/fuel-cells/hydrogen-s-first-kilometers-on-a-greek-motorway",
+   "source": "FuelCellsWorks",
+   "published_at": "2026-09-28T15:54:45Z",
+   "category": "프로젝트·계약",
+   "region": "해외",
+   "chain": [
+    "활용"
+   ],
+   "importance": "중",
+   "summary": "그리스 고속도로에서 수소를 활용한 운송 사업이 첫 시작되었다. 유럽의 수소 모빌리티 상용화 진전을 보여주는 사례이다.",
+   "collected_at": "2026-09-29T01:32:12Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "그리스",
+    "수소모빌리티"
+   ]
+  },
+  {
+   "id": "c923f5d8777cd859",
+   "title": "Bosch Rexroth and Kawasaki to Cooperate on Future-Proof Solutions for Off-Highway Machines and Hydrogen Applications",
+   "url": "https://fuelcellsworks.com/2026/09/28/h2/bosch-rexroth-and-kawasaki-to-cooperate-on-future-proof-solutions-for-off-highway-machines-and-hydrogen-applications",
+   "source": "FuelCellsWorks",
+   "published_at": "2026-09-28T15:36:18Z",
+   "category": "프로젝트·계약",
+   "region": "해외",
+   "chain": [
+    "수소생산"
+   ],
+   "importance": "중",
+   "summary": "보쉬 렉스로스와 가와사키가 비도로 중장비 및 수소 애플리케이션 분야에서 협력하기로 했다. 주요 기업의 수소 솔루션 개발 동향이다.",
+   "collected_at": "2026-09-29T01:32:12Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "BoschRexroth",
+    "Kawasaki",
+    "수소"
+   ]
+  },
+  {
+   "id": "15238f96f5232a8d",
+   "title": "Multi-Billion Incentive Scheme Shifts From Policy Promise to Competitive Project Support",
+   "url": "https://fuelcellsworks.com/2026/09/24/h2/multi-billion-incentive-scheme-shifts-from-policy-promise-to-competitive-project-support",
+   "source": "FuelCellsWorks",
+   "published_at": "2026-09-28T15:08:20Z",
+   "category": "투자·금융",
+   "region": "해외",
+   "chain": [],
+   "importance": "하",
+   "summary": "정책 약속에서 경쟁적 프로젝트 지원으로 전환되는 대규모 인센티브 제도를 다룬 기사로, 구체적인 수소·암모니아·CCUS 사업 내용이 명시되지 않았다.",
+   "collected_at": "2026-09-29T01:32:12Z",
+   "needs_review": true,
+   "review_reason": "도메인 밖: 밸류체인 해당 없음",
+   "tags": [
+    "인센티브"
+   ]
+  },
+  {
+   "id": "3ce528caa207d9ac",
+   "title": "PacificLight Breaks Ground on S$1.2 Billion Hydrogen-Ready CCGT in Singapore",
+   "url": "https://fuelcellsworks.com/2026/09/28/h2/pacificlight-breaks-ground-on-s-1-2-billion-hydrogen-ready-ccgt-in-singapore",
+   "source": "FuelCellsWorks",
+   "published_at": "2026-09-28T15:05:21Z",
+   "category": "프로젝트·계약",
+   "region": "해외",
+   "chain": [
+    "수소생산"
+   ],
+   "importance": "중",
+   "summary": "PacificLight이 싱가포르에서 12억 싱가포르달러 규모의 수소 준비 복합화력발전(CCGT) 건설에 착공했다. 아시아 태평양 지역의 수소 에너지 인프라 구축이 본격화되고 있다.",
+   "collected_at": "2026-09-29T01:32:12Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "PacificLight",
+    "싱가포르",
+    "CCGT"
+   ]
+  },
+  {
+   "id": "10a8d4e85c449f0c",
+   "title": "Pau Council Debates Future of Fébus Hydrogen Buses as New Majority Moves to Replace Flee",
+   "url": "https://fuelcellsworks.com/2026/09/27/fuel-cells/pau-council-debates-future-of-febus-hydrogen-buses-as-new-majority-moves-to-replace-flee",
+   "source": "FuelCellsWorks",
+   "published_at": "2026-09-28T15:03:17Z",
+   "category": "프로젝트·계약",
+   "region": "해외",
+   "chain": [
+    "수소생산"
+   ],
+   "importance": "중",
+   "summary": "프랑스 Pau 지역의 수소 버스 사업인 Fébus의 향후 방향에 대해 새로운 시의회 다수파가 기존 차량 대체를 추진 중이다. 지역 정책 변화가 수소 모빌리티 사업에 영향을 미치는 사례를 보여준다.",
+   "collected_at": "2026-09-29T01:32:24Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "Pau",
+    "Fébus",
+    "수소버스"
+   ]
+  },
+  {
+   "id": "efc257971bb17aa1",
+   "title": "The H24EVO Will Use TOYOTA RACING’s Hydrogen Combustion Engine",
+   "url": "https://fuelcellsworks.com/2026/09/26/fuel-cells/the-h24evo-will-use-toyota-racing-s-hydrogen-combustion-engine",
+   "source": "FuelCellsWorks",
+   "published_at": "2026-09-28T14:33:07Z",
+   "category": "기술",
+   "region": "해외",
+   "chain": [
+    "수소생산"
+   ],
+   "importance": "중",
+   "summary": "Toyota Racing의 수소 연소 엔진이 H24EVO 차량에 탑재될 예정이다. 전통적 내연기관 기술을 수소 연료로 전환하는 기술 개발이 진행 중이다.",
+   "collected_at": "2026-09-29T01:32:24Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "Toyota Racing",
+    "H24EVO",
+    "수소엔진"
+   ]
+  },
+  {
+   "id": "8521a40bb097f379",
+   "title": "Hydrogen-Ready CHP Plant Moves Forward at Major Energy Park",
+   "url": "https://fuelcellsworks.com/2026/09/27/h2/hydrogen-ready-chp-plant-moves-forward-at-major-energy-park",
+   "source": "FuelCellsWorks",
+   "published_at": "2026-09-28T14:30:19Z",
+   "category": "프로젝트·계약",
+   "region": "해외",
+   "chain": [
+    "활용"
+   ],
+   "importance": "중",
+   "summary": "대규모 에너지 파크에 수소 준비가 가능한 열병합발전소 프로젝트가 추진되고 있다. 기존 에너지 인프라의 수소 호환성 개선이 진행 중이다.",
+   "collected_at": "2026-09-29T01:32:24Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "열병합발전소",
+    "에너지파크"
+   ]
+  },
+  {
+   "id": "34e2ccab3c7bdb5c",
+   "title": "Accelerating Zero-Emission Shipping Between Oslo and Rotterdam, and Beyond",
+   "url": "https://fuelcellsworks.com/2026/09/27/h2/accelerating-zero-emission-shipping-between-oslo-and-rotterdam-and-beyond",
+   "source": "FuelCellsWorks",
+   "published_at": "2026-09-28T14:16:59Z",
+   "category": "프로젝트·계약",
+   "region": "해외",
+   "chain": [
+    "활용",
+    "운송·저장"
+   ],
+   "importance": "중",
+   "summary": "Oslo와 Rotterdam 간 해운 경로에서 무배출 선박 운항을 가속화하는 프로젝트가 진행 중이다. 국제 해운 탈탄소화에 수소·암모니아 연료가 활용되고 있다.",
+   "collected_at": "2026-09-29T01:32:24Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "Oslo",
+    "Rotterdam",
+    "해운"
+   ]
+  },
+  {
+   "id": "c56bd94c36e72471",
+   "title": "인천시, 액화수소생산시설 대정비 대비 수소버스 운행 차질 최소화",
+   "url": "https://www.gasnews.com/news/articleView.html?idxno=126948",
+   "source": "가스신문",
+   "published_at": "2026-09-28T14:10:00Z",
+   "category": "정책·규제",
+   "region": "국내",
+   "chain": [
+    "수소생산",
+    "운송·저장"
+   ],
+   "importance": "중",
+   "summary": "SK인천석유화학의 액화수소생산시설이 10월 6일부터 11월 19일까지 정기 대정비를 실시하면서 전국의 수소버스 공급에 차질이 예상된다. 인천시가 안정적인 수소버스 운행을 위한 비상대응체계를 가동했다.",
+   "collected_at": "2026-09-29T01:32:03Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "SK인천석유화학",
+    "액화수소",
+    "수소버스",
+    "인천시"
+   ]
+  },
+  {
+   "id": "822f170858c0302e",
+   "title": "India Moves Green Hydrogen Hub Plans Toward Implementation With Detailed Project Reports",
+   "url": "https://fuelcellsworks.com/2026/09/28/green-hydrogen/india-moves-green-hydrogen-hub-plans-toward-implementation-with-detailed-project-reports",
+   "source": "FuelCellsWorks",
+   "published_at": "2026-09-28T14:07:06Z",
+   "category": "정책·규제",
+   "region": "해외",
+   "chain": [
+    "수소생산"
+   ],
+   "importance": "중",
+   "summary": "인도가 그린 수소 허브 계획을 상세 프로젝트 보고서 작성으로 구체화하고 있다. 대규모 수소 산업화를 향한 국가 정책이 실행 단계로 진입하고 있다.",
+   "collected_at": "2026-09-29T01:32:24Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "인도",
+    "그린수소",
+    "허브"
+   ]
+  },
+  {
+   "id": "7ae7f1da4e4b5a2f",
+   "title": "에이치앤파워, 직접암모니아 연료전지 3kW급 100시간 연속 운전 성공",
+   "url": "https://www.gasnews.com/news/articleView.html?idxno=126957",
+   "source": "가스신문",
+   "published_at": "2026-09-28T14:07:00Z",
+   "category": "기술",
+   "region": "국내",
+   "chain": [
+    "암모니아",
+    "활용"
+   ],
+   "importance": "상",
+   "summary": "에이치앤파워가 한국기계연구원과 함께 3kW급 고체산화물 연료전지(SOFC)에 암모니아를 직접 공급하여 100시간 이상 연속 운전에 성공했다. 외부 수소 추출 설비 없이 암모니아를 직접 활용하는 기술 구현 가능성을 입증했다.",
+   "collected_at": "2026-09-29T01:32:03Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "에이치앤파워",
+    "SOFC",
+    "직접암모니아연료전지",
+    "한국기계연구원"
+   ]
+  },
+  {
+   "id": "75587e58f77a04da",
+   "title": "Germany Puts €212.5M [$241.7M] Into Green Hydrogen-Based E-Fuel Technologies",
+   "url": "https://fuelcellsworks.com/2026/09/28/clean-energy/germany-puts-212-5m-241-7m-into-green-hydrogen-based-e-fuel-technologies",
+   "source": "FuelCellsWorks",
+   "published_at": "2026-09-28T12:51:30Z",
+   "category": "정책·규제",
+   "region": "해외",
+   "chain": [
+    "수소생산"
+   ],
+   "importance": "상",
+   "summary": "독일이 그린 수소 기반 이펙트 연료 기술에 2억 1,250만 유로를 투자한다. 주요 선진국의 수소 에너지 전환 정책 강화로 산업 동향에 영향을 미칠 수 있다.",
+   "collected_at": "2026-09-29T01:32:24Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "독일",
+    "그린수소",
+    "이펙트연료"
+   ]
+  },
+  {
+   "id": "53e7261a6a5d8693",
+   "title": "“기술 넘어 시장으로” 수소산업의 막힌 ‘혈’을 뚫어라",
+   "url": "https://www.h2news.kr/news/articleView.html?idxno=14278",
+   "source": "수소신문",
+   "published_at": "2026-09-28T12:37:14Z",
+   "category": "시장·가격",
+   "region": "국내",
+   "chain": [
+    "수소생산",
+    "운송·저장",
+    "활용"
+   ],
+   "importance": "중",
+   "summary": "수소산업이 기술개발 단계를 넘어 시장 형성으로 진입하면서 높은 생산비, 투자 조달의 어려움, 인프라 설치·운영비 부담 등 새로운 과제에 직면했다. 기술을 실제 시장으로 연결하는 생산·수요·금융·공급망의 병목 해결이 산업 활성화의 핵심 과제다.",
+   "collected_at": "2026-09-29T01:32:03Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "수소생산",
+    "시장형성",
+    "공급망",
+    "수소발전"
+   ]
+  },
+  {
+   "id": "889dcfbbad8da4d1",
+   "title": "에너베뉴, 30년 수명 수성 금속 전지 대량생산 라인 가동",
+   "url": "https://www.todayenergy.kr/news/articleView.html?idxno=303526",
+   "source": "투데이에너지",
+   "published_at": "2026-09-28T11:25:51Z",
+   "category": "기술",
+   "region": "해외",
+   "chain": [],
+   "importance": "하",
+   "summary": "미국 에너베뉴가 중국 장쑤성에 수성 금속 전지의 세계 최초 대량 생산 라인을 가동했다. NASA 우주용 기술 기반의 차세대 에너지 저장 장치 개발이다.",
+   "collected_at": "2026-09-29T01:32:03Z",
+   "needs_review": true,
+   "review_reason": "도메인 밖: 밸류체인 해당 없음",
+   "tags": [
+    "에너베뉴",
+    "수성금속전지",
+    "NASA",
+    "중국"
+   ]
+  },
+  {
+   "id": "38b0beebc0cc38a0",
+   "title": "Member Webinar | De-Risking CCS Well Construction: CRA’s Model for CAPEX Flexibility",
+   "url": "https://www.globalccsinstitute.com/events/member-webinar-de-risking-ccs-well-construction-cras-model-for-capex-flexibility/",
+   "source": "Global CCS Institute",
+   "published_at": "2026-09-28T07:06:59Z",
+   "category": "기술",
+   "region": "해외",
+   "chain": [],
+   "importance": "하",
+   "summary": "Global CCS Institute가 개최하는 월간 회원 웨비나 공지로, 이번 달 주제는 CCS 공정 건설의 자본지출 위험 관리이다. 부식 저항 합금(CRA)을 활용한 모델 기반 비용 효율화 방안을 다룬다.",
+   "collected_at": "2026-09-29T01:32:35Z",
+   "needs_review": true,
+   "review_reason": "도메인 밖: 밸류체인 해당 없음",
+   "tags": [
+    "Global CCS Institute",
+    "CCS",
+    "웨비나"
+   ]
+  },
+  {
+   "id": "02d075925de9322c",
+   "title": "Member Webinar | CO₂ Storage Kalundborg: Advancing Onshore CCS in Denmark",
+   "url": "https://www.globalccsinstitute.com/member-webinar-co%e2%82%82-storage-kalundborg-advancing-onshore-ccs-in-denmark/",
+   "source": "Global CCS Institute",
+   "published_at": "2026-09-28T07:06:26Z",
+   "category": "프로젝트·계약",
+   "region": "해외",
+   "chain": [
+    "CCUS",
+    "운송·저장"
+   ],
+   "importance": "중",
+   "summary": "덴마크 칼룬드보르그에서 진행 중인 CO₂ Storage Kalundborg 프로젝트가 소개되었다. Equinor과 Ørsted가 주도하는 이 육상 CCS 프로젝트는 유럽의 탄소 저장 확대에 중요한 사례로 평가된다.",
+   "collected_at": "2026-09-29T01:32:39Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "Equinor",
+    "Ørsted",
+    "Kalundborg",
+    "덴마크"
+   ]
+  },
+  {
+   "id": "bdf3fa5f498c2d59",
+   "title": "800 VDC Data Center Power: Bloom Energy’s Direct DC Fuel Cell Architecture",
+   "url": "http://www.hydrogenfuelnews.com/800-vdc-data-center-power-bloom-energy-s-direct-dc-fuel-cell-architecture/8576750/",
+   "source": "Hydrogen Fuel News",
+   "published_at": "2026-09-28T00:12:17Z",
+   "category": "기술",
+   "region": "해외",
+   "chain": [
+    "활용"
+   ],
+   "importance": "중",
+   "summary": "Bloom Energy의 800VDC 직류 연료전지 아키텍처는 AI 데이터센터의 현장 전력 생성으로 변환 단계를 줄이고 비용을 절감한다. 고밀도 데이터센터의 새로운 전력 공급 방식으로 주목받고 있다.",
+   "collected_at": "2026-09-29T01:32:24Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "Bloom Energy",
+    "데이터센터",
+    "연료전지"
+   ]
+  },
+  {
+   "id": "ead51af28b5a85f6",
+   "title": "Hydrogen Storage Innovation: EWE GASSPEICHER and Bilfinger Leading the Charge in Hydrogen Infrastructure",
+   "url": "http://www.hydrogenfuelnews.com/hydrogen-storage-innovation-ewe-gasspeicher-and-bilfinger-leading-the-charge-in-/8576749/",
+   "source": "Hydrogen Fuel News",
+   "published_at": "2026-09-28T00:07:35Z",
+   "category": "프로젝트·계약",
+   "region": "해외",
+   "chain": [
+    "운송·저장"
+   ],
+   "importance": "중",
+   "summary": "EWE GASSPEICHER가 Bilfinger와 계약해 Huntorf 염동굴 저장소에 H2Dry 수소건조 시스템을 설치한다. 1,600만 Nm³ 작업 용량으로 상용화되는 첫 수소 처리 기술 사례이다.",
+   "collected_at": "2026-09-29T01:32:24Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "EWE GASSPEICHER",
+    "Bilfinger",
+    "Huntorf"
+   ]
+  },
+  {
+   "id": "a9c77f815a4fca90",
+   "title": "Netherlands Lowers Green Hydrogen Electrolyser Capacity Forecast for 2030 amid Cost and Demand Pressures",
+   "url": "http://www.hydrogenfuelnews.com/netherlands-lowers-green-hydrogen-electrolyser-capacity-forecast-for-2030-amid-c/8576748/",
+   "source": "Hydrogen Fuel News",
+   "published_at": "2026-09-28T00:05:13Z",
+   "category": "정책·규제",
+   "region": "해외",
+   "chain": [
+    "수소생산"
+   ],
+   "importance": "중",
+   "summary": "네덜란드 정부가 2030년 그린수소 전해조 설치 용량 목표를 기존 3~4GW에서 1.2~1.5GW로 대폭 하향 조정했다. 높은 비용, 네트워크 수수료, 불확실한 수요가 주요 원인으로 지적되었으며, 이는 유럽의 수소 정책 방향 전환을 시사한다.",
+   "collected_at": "2026-09-29T01:32:35Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "네덜란드",
+    "2030",
+    "전해조"
+   ]
+  },
   {
    "id": "b8e34ed59f205760",
    "title": "한국 제안 선상탄소포집 안전지침, IMO 국제표준 논의 기본 문서로 채택",
@@ -24,6 +617,143 @@
     "선상탄소포집",
     "해양수산부",
     "런던"
+   ]
+  },
+  {
+   "id": "6e94d64c12fb0dba",
+   "title": "Hydrogen Propulsion News: DLR Launches MODULARIS Floating Laboratory for Maritime Research",
+   "url": "http://www.hydrogenfuelnews.com/hydrogen-propulsion-news-dlr-launches-modularis-floating-laboratory-for-maritime/8576745/",
+   "source": "Hydrogen Fuel News",
+   "published_at": "2026-09-27T11:14:54Z",
+   "category": "기술",
+   "region": "해외",
+   "chain": [
+    "활용"
+   ],
+   "importance": "중",
+   "summary": "독일 항공우주센터(DLR)가 해상 수소 추진 기술 실증을 위한 부유식 실험실 MODULARIS의 선체를 진수했다. 2027년부터 실제 해양 환경에서 수소 추진, 배터리, 대체 해양 연료를 종합 테스트할 예정이다.",
+   "collected_at": "2026-09-29T01:32:35Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "DLR",
+    "MODULARIS",
+    "해양 연료"
+   ]
+  },
+  {
+   "id": "63e7abf76d287131",
+   "title": "Dongfeng Launches Integrated Solar-Hydrogen-Electric Station in Rural Xinjiang",
+   "url": "http://www.hydrogenfuelnews.com/dongfeng-launches-integrated-solar-hydrogen-electric-station-in-rural-xinjiang/8576743/",
+   "source": "Hydrogen Fuel News",
+   "published_at": "2026-09-26T22:20:14Z",
+   "category": "프로젝트·계약",
+   "region": "해외",
+   "chain": [
+    "수소생산",
+    "활용"
+   ],
+   "importance": "중",
+   "summary": "동풍자동차가 신장 지역에 태양광-수소-전기를 통합한 스마트 에너지 스테이션을 구축했다. 태양광 발전, 배터리, 전해, 고체 저장, 연료전지 기술을 결합하여 중국의 수소 전략과 부합하는 사업이다.",
+   "collected_at": "2026-09-29T01:32:35Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "동풍자동차",
+    "신장",
+    "스마트에너지"
+   ]
+  },
+  {
+   "id": "440cacf4c726fc22",
+   "title": "Folell’Hy: Corsica Sole Launches Pilot Green Hydrogen Hub at Folelli Solar Plant",
+   "url": "http://www.hydrogenfuelnews.com/folell-hy-corsica-sole-launches-pilot-green-hydrogen-hub-at-folelli-solar-plant/8576742/",
+   "source": "Hydrogen Fuel News",
+   "published_at": "2026-09-26T22:13:18Z",
+   "category": "프로젝트·계약",
+   "region": "해외",
+   "chain": [
+    "수소생산",
+    "활용"
+   ],
+   "importance": "중",
+   "summary": "Corsica Sole이 Folelli 태양광 발전소에 60개의 Enapter 전해조를 설치한 파일럿 그린수소 허브를 운영 중이다. 잉여 태양광 에너지를 활용해 수소를 생산하고 저장하는 실증 프로젝트이다.",
+   "collected_at": "2026-09-29T01:32:35Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "Corsica Sole",
+    "Folelli",
+    "Enapter"
+   ]
+  },
+  {
+   "id": "7f143a0e0510f940",
+   "title": "Green Hydrogen Production and Infrastructure Planned for $6.1B Uzbekistan e-SAF Complex",
+   "url": "http://www.hydrogenfuelnews.com/green-hydrogen-production-and-infrastructure-planned-for-6-1b-uzbekistan-e-saf-c/8576740/",
+   "source": "Hydrogen Fuel News",
+   "published_at": "2026-09-26T22:06:45Z",
+   "category": "투자·금융",
+   "region": "해외",
+   "chain": [
+    "수소생산",
+    "활용"
+   ],
+   "importance": "상",
+   "summary": "Allied Biofuels가 우즈베키스탄 호레즘 지역에 61억 달러 규모의 청정연료 복합시설 건설을 계획하고 있다. Plug Power의 2.4GW급 전해조를 활용하여 지속가능 항공유와 그린 디젤을 생산할 예정이다.",
+   "collected_at": "2026-09-29T01:32:35Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "Allied Biofuels",
+    "우즈베키스탄",
+    "Plug Power"
+   ]
+  },
+  {
+   "id": "8422aa65e779f229",
+   "title": "Air Liquide Joins IRU to Accelerate Road Transport Decarbonisation",
+   "url": "http://www.hydrogenfuelnews.com/hydrogen-infrastructure-air-liquide-joins-iru-to-accelerate-road-transport-decar/8576739/",
+   "source": "Hydrogen Fuel News",
+   "published_at": "2026-09-26T22:06:32Z",
+   "category": "정책·규제",
+   "region": "해외",
+   "chain": [
+    "수소생산",
+    "활용",
+    "운송·저장"
+   ],
+   "importance": "중",
+   "summary": "Air Liquide가 국제도로운송연맹(IRU)과 협력하여 그린 컴팩트 이니셔티브에 참여하기로 했다. EU의 새로운 CO₂ 기준에 맞춰 수소 생산, 유통, 충전 인프라를 통합하는 중대형차 탈탄소화를 가속화할 방침이다.",
+   "collected_at": "2026-09-29T01:32:35Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "Air Liquide",
+    "IRU",
+    "EU CO₂ 기준"
+   ]
+  },
+  {
+   "id": "faa25200c86813a6",
+   "title": "Shanghai REFIRE Proposes RMB50M Shift to Commercial and Operational Capabilities",
+   "url": "http://www.hydrogenfuelnews.com/hydrogen-fuel-cell-news-shanghai-refire-proposes-rmb50m-shift-to-commercial-and-/8576738/",
+   "source": "Hydrogen Fuel News",
+   "published_at": "2026-09-26T09:08:45Z",
+   "category": "투자·금융",
+   "region": "해외",
+   "chain": [
+    "수소생산"
+   ],
+   "importance": "중",
+   "summary": "상하이 REFIRE가 연구개발 자금 5천만 위안을 상용화 및 운영 역량 강화로 재배치하기로 제안했다. 10월 주주총회 승인을 거쳐 사업화 단계로의 전환을 추진 중이다.",
+   "collected_at": "2026-09-29T01:32:35Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "REFIRE",
+    "상하이",
+    "자금 재배치"
    ]
   },
   {
