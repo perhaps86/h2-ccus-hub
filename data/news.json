@@ -1,7 +1,27 @@
 {
- "generated_at": "2026-10-03T01:00:08Z",
- "count": 431,
+ "generated_at": "2026-10-05T00:34:21Z",
+ "count": 434,
  "items": [
+  {
+   "id": "1abba64328bf4f6a",
+   "title": "중국도 못 덤비는 고난도 인버터 기술로 시장 평정",
+   "url": "http://www.e2news.com/news/articleView.html?idxno=334761",
+   "source": "이투뉴스",
+   "published_at": "2026-10-05T08:00:00Z",
+   "category": "기술",
+   "region": "국내",
+   "chain": [],
+   "importance": "하",
+   "summary": "데스틴파워가 발전용 연료전지 인버터를 개발해 두산퓨얼셀의 북미 데이터센터 수출 제품에 탑재된다. 높은 기술 진입장벽으로 중국 기업의 진출이 어려운 제품으로, 국내 연료전지 산업의 기술 역량을 보여준다.",
+   "collected_at": "2026-10-05T00:34:21Z",
+   "needs_review": true,
+   "review_reason": "도메인 밖: 밸류체인 해당 없음",
+   "tags": [
+    "데스틴파워",
+    "두산퓨얼셀",
+    "나주"
+   ]
+  },
   {
    "id": "8d907e33bb1f138e",
    "title": "시멘트 소성로 THC 상시 감시 추진…측정 사각지대 줄이고 배출관리 실효성 높인다",
@@ -1126,6 +1146,52 @@
     "영암",
     "삼척",
     "지역소멸"
+   ]
+  },
+  {
+   "id": "b9be1db45d5ff615",
+   "title": "Calix and Perdaman partner on supply solution for ZESTY Green Iron Demo in Kwinana",
+   "url": "http://www.hydrogenfuelnews.com/hydrogen-infrastructure-calix-and-perdaman-partner-on-supply-solution-for-zesty-/8576782/",
+   "source": "Hydrogen Fuel News",
+   "published_at": "2026-10-02T08:26:33Z",
+   "category": "프로젝트·계약",
+   "region": "해외",
+   "chain": [
+    "수소생산",
+    "활용"
+   ],
+   "importance": "중",
+   "summary": "Calix가 Perdaman Group과 협력해 호주 Kwinana의 ZESTY 그린철 시연 프로젝트를 위한 수소 공급 솔루션을 설계 중이다. 연 3만 톤 규모의 H-DRI 플랜트를 지원하기 위한 가치사슬 구축으로, 최종투자결정(FID) 단계의 진전을 보여준다.",
+   "collected_at": "2026-10-05T00:34:21Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "Calix",
+    "Perdaman",
+    "ZESTY",
+    "Kwinana"
+   ]
+  },
+  {
+   "id": "8351a77a34ca1f3a",
+   "title": "EU Sends Formal Notices to 26 States Over Directive Transposition",
+   "url": "http://www.hydrogenfuelnews.com/hydrogen-infrastructure-eu-sends-formal-notices-to-26-states-over-directive-tran/8576781/",
+   "source": "Hydrogen Fuel News",
+   "published_at": "2026-10-02T08:23:57Z",
+   "category": "정책·규제",
+   "region": "해외",
+   "chain": [
+    "수소생산"
+   ],
+   "importance": "중",
+   "summary": "EU 집행위가 수소 및 탈탄소화 가스 지침 이행 기한을 놓친 26개 회원국에 대해 위반 절차를 개시했다. EU의 수소 인프라 투자 규칙 준수를 강제하려는 움직임으로, 회원국들의 수소 정책 이행 압력이 높아지고 있다.",
+   "collected_at": "2026-10-05T00:34:21Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "EU",
+    "수소지침",
+    "회원국"
    ]
   },
   {
