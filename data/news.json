@@ -1,7 +1,464 @@
 {
- "generated_at": "2026-10-09T01:48:36Z",
- "count": 610,
+ "generated_at": "2026-10-10T01:36:12Z",
+ "count": 631,
  "items": [
+  {
+   "id": "466a98b9ac27b2c7",
+   "title": "Renault Group and EDF Group Join Forces to Make Electric Vehicles More Accessible and Affordable for French Consumers",
+   "url": "https://fuelcellsworks.com/2026/10/08/electric/renault-group-and-edf-group-join-forces-to-make-electric-vehicles-more-accessible-and-affordable-for-french-consumers",
+   "source": "FuelCellsWorks",
+   "published_at": "2026-10-09T15:34:37Z",
+   "category": "투자·금융",
+   "region": "해외",
+   "chain": [],
+   "importance": "하",
+   "summary": "Renault Group과 EDF Group이 프랑스 소비자를 위한 저렴한 전기차 접근성 강화를 위해 협력한다. 수소·암모니아·CCUS 산업과 무관한 전기차 관련 기사다.",
+   "collected_at": "2026-10-10T01:36:12Z",
+   "needs_review": true,
+   "review_reason": "도메인 밖: 밸류체인 해당 없음",
+   "tags": [
+    "Renault Group",
+    "EDF Group"
+   ]
+  },
+  {
+   "id": "af8a3eee39fa8fc6",
+   "title": "EXI Lighthouse Project GH2GH on Green Hydrogen and Fuel Cells Successfully Completed",
+   "url": "https://fuelcellsworks.com/2026/10/07/h2/exi-lighthouse-project-gh2gh-on-green-hydrogen-and-fuel-cells-successfully-completed",
+   "source": "FuelCellsWorks",
+   "published_at": "2026-10-09T15:33:46Z",
+   "category": "프로젝트·계약",
+   "region": "해외",
+   "chain": [
+    "수소생산",
+    "활용"
+   ],
+   "importance": "중",
+   "summary": "EXI의 GH2GH 프로젝트가 그린 수소 및 연료전지 분야에서 성공적으로 완료되었다. 구체적인 프로젝트 내용과 성과에 대한 정보는 제공되지 않았다.",
+   "collected_at": "2026-10-10T01:35:55Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "EXI",
+    "GH2GH",
+    "연료전지"
+   ]
+  },
+  {
+   "id": "de8c53f769d5c670",
+   "title": "Faster to High-Quality Electrolysis Data: Forschungszentrum Jülich Relies on High Throughput Systems and Support From Hte",
+   "url": "https://fuelcellsworks.com/2026/10/09/h2/faster-to-high-quality-electrolysis-data-forschungszentrum-julich-relies-on-high-throughput-systems-and-support-from-hte",
+   "source": "FuelCellsWorks",
+   "published_at": "2026-10-09T15:29:00Z",
+   "category": "기술",
+   "region": "해외",
+   "chain": [
+    "수소생산"
+   ],
+   "importance": "중",
+   "summary": "Forschungszentrum Jülich가 hte와 협력하여 고처량 시스템을 활용한 고품질 전해 데이터를 더 빠르게 확보하는 방법을 개발했다. 수소 생산 기술의 데이터 효율성 개선이 목표다.",
+   "collected_at": "2026-10-10T01:35:55Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "Forschungszentrum Jülich",
+    "hte",
+    "전해"
+   ]
+  },
+  {
+   "id": "73405b61b5772d4c",
+   "title": "Introducing Vontier Vantage Point, a New Source of Mobility Intelligence",
+   "url": "https://fuelcellsworks.com/2026/10/08/electric/introducing-vontier-vantage-point-a-new-source-of-mobility-intelligence",
+   "source": "FuelCellsWorks",
+   "published_at": "2026-10-09T15:20:09Z",
+   "category": "기술",
+   "region": "해외",
+   "chain": [],
+   "importance": "하",
+   "summary": "Vontier의 새로운 모빌리티 인텔리전스 플랫폼 Vantage Point에 대한 소개 기사다. 수소·암모니아·CCUS와 직접적인 관련성이 없다.",
+   "collected_at": "2026-10-10T01:36:12Z",
+   "needs_review": true,
+   "review_reason": "도메인 밖: 밸류체인 해당 없음",
+   "tags": [
+    "Vontier"
+   ]
+  },
+  {
+   "id": "c5bac8b2a814b8d4",
+   "title": "HyStock Completes Evaluation Drilling for Dutch Underground Hydrogen Storage Project",
+   "url": "https://fuelcellsworks.com/2026/10/06/h2/hystock-completes-evaluation-drilling-for-dutch-underground-hydrogen-storage-project",
+   "source": "FuelCellsWorks",
+   "published_at": "2026-10-09T15:18:34Z",
+   "category": "프로젝트·계약",
+   "region": "해외",
+   "chain": [
+    "운송·저장"
+   ],
+   "importance": "중",
+   "summary": "HyStock이 네덜란드 지하 수소 저장 프로젝트의 평가 드릴링을 완료했다. 프로젝트 진행 단계의 성과로 저장 인프라 개발이 진전되고 있다.",
+   "collected_at": "2026-10-10T01:35:55Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "HyStock",
+    "네덜란드",
+    "지하저장"
+   ]
+  },
+  {
+   "id": "79574bf16201aac4",
+   "title": "Uruguay Opens Its First Green Hydrogen and Electric Mobility Pilot Plant",
+   "url": "https://fuelcellsworks.com/2026/10/09/h2/uruguay-opens-its-first-green-hydrogen-and-electric-mobility-pilot-plant",
+   "source": "FuelCellsWorks",
+   "published_at": "2026-10-09T15:08:33Z",
+   "category": "프로젝트·계약",
+   "region": "해외",
+   "chain": [
+    "수소생산",
+    "활용"
+   ],
+   "importance": "중",
+   "summary": "우루과이가 첫 번째 그린 수소 및 전기 이동성 파일럿 플랜트를 개설했다. 신흥 시장에서 수소 활용 기반을 구축하는 초기 단계의 시도다.",
+   "collected_at": "2026-10-10T01:35:55Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "우루과이",
+    "그린수소",
+    "파일럿"
+   ]
+  },
+  {
+   "id": "826772ab289062a0",
+   "title": "DESFA Takes FID on 145Km Hydrogen-Ready Pipeline to Patras",
+   "url": "https://fuelcellsworks.com/2026/10/06/h2/desfa-takes-fid-on-145km-hydrogen-ready-pipeline-to-patras",
+   "source": "FuelCellsWorks",
+   "published_at": "2026-10-09T14:52:44Z",
+   "category": "프로젝트·계약",
+   "region": "해외",
+   "chain": [
+    "운송·저장"
+   ],
+   "importance": "상",
+   "summary": "DESFA가 파트라스로 가는 145km 규모의 수소 준비 파이프라인에 최종 투자 결정(FID)을 내렸다. 그리스의 수소 운송 인프라 구축이 본격화되는 신호다.",
+   "collected_at": "2026-10-10T01:35:55Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "DESFA",
+    "그리스",
+    "수소파이프라인"
+   ]
+  },
+  {
+   "id": "939cbebb25314cfe",
+   "title": "Hydrogen Truck Just Made Real Cargo Deliveries Inside Malpensa Airport",
+   "url": "https://fuelcellsworks.com/2026/10/06/h2/hydrogen-truck-just-made-real-cargo-deliveries-inside-malpensa-airport",
+   "source": "FuelCellsWorks",
+   "published_at": "2026-10-09T14:42:16Z",
+   "category": "프로젝트·계약",
+   "region": "해외",
+   "chain": [
+    "활용"
+   ],
+   "importance": "중",
+   "summary": "수소 트럭이 말펜자 공항 내에서 실제 화물 배송을 성공적으로 완료했다. 항공 운송 허브에서 수소 차량의 실제 운영 가능성을 입증했다.",
+   "collected_at": "2026-10-10T01:35:55Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "말펜자공항",
+    "수소트럭",
+    "화물배송"
+   ]
+  },
+  {
+   "id": "b58396450db2a308",
+   "title": "POSTECH and RIST Develop Ferro-H₂ to Crack Hydrogen Supply Problem in Green Steelmaking",
+   "url": "https://fuelcellsworks.com/2026/10/08/h2/postech-and-rist-develop-ferro-h-to-crack-hydrogen-supply-problem-in-green-steelmaking",
+   "source": "FuelCellsWorks",
+   "published_at": "2026-10-09T14:37:17Z",
+   "category": "기술",
+   "region": "국내",
+   "chain": [
+    "수소생산"
+   ],
+   "importance": "중",
+   "summary": "POSTECH과 RIST가 철-수소(Ferro-H₂) 기술을 개발하여 그린 철강 생산 시 수소 공급 문제를 해결하려고 한다. 철강산업의 탈탄소화를 위한 수소 활용 기술 혁신이다.",
+   "collected_at": "2026-10-10T01:35:55Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "POSTECH",
+    "RIST",
+    "Ferro-H₂",
+    "그린철강"
+   ]
+  },
+  {
+   "id": "56caf7f42d2b20c2",
+   "title": "Green Hydrogen Process Reaches 98% Efficiency : Technion Researchers Combine Hydrogen Production with the Synthesis of Value-Added Chemicals",
+   "url": "https://fuelcellsworks.com/2026/10/08/h2/technion-researchers-combine-hydrogen-production-with-the-synthesis-of-value-added-chemicals",
+   "source": "FuelCellsWorks",
+   "published_at": "2026-10-09T14:22:22Z",
+   "category": "기술",
+   "region": "해외",
+   "chain": [
+    "수소생산"
+   ],
+   "importance": "중",
+   "summary": "이스라엘 테크니온 연구진이 수소 생산 효율을 98%까지 높이는 기술을 개발했으며, 동시에 부가가치 화학물질 합성을 통합하는 방식을 제시했다. 수소 생산의 경제성 향상에 기여할 수 있는 기술이다.",
+   "collected_at": "2026-10-10T01:36:05Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "Technion",
+    "그린수소"
+   ]
+  },
+  {
+   "id": "7e2627e55c3cc015",
+   "title": "EBARA Opens World-First Full-Scale Liquid Hydrogen Pump Test Centre in Japan",
+   "url": "https://fuelcellsworks.com/2026/10/05/h2/ebara-opens-world-first-full-scale-liquid-hydrogen-pump-test-centre-in-japan",
+   "source": "FuelCellsWorks",
+   "published_at": "2026-10-09T14:12:55Z",
+   "category": "프로젝트·계약",
+   "region": "해외",
+   "chain": [
+    "수소생산",
+    "운송·저장"
+   ],
+   "importance": "중",
+   "summary": "일본 EBARA가 액체수소 펌프를 테스트하는 세계 최초의 대규모 전용 시설을 개설했다. 액체수소 저장 및 공급 인프라 확충의 실제 진행 사례다.",
+   "collected_at": "2026-10-10T01:36:05Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "EBARA",
+    "일본",
+    "액체수소"
+   ]
+  },
+  {
+   "id": "75b21c08cfe9c2eb",
+   "title": "Deloitte Romania Assisted OMV Petrom in Implementing Strategic Green Hydrogen Production Projects at the Petrobrazi Refinery Through NRRP",
+   "url": "https://fuelcellsworks.com/2026/10/08/h2/deloitte-romania-assisted-omv-petrom-in-implementing-strategic-green-hydrogen-production-projects-at-the-petrobrazi-refinery-through-nrrp",
+   "source": "FuelCellsWorks",
+   "published_at": "2026-10-09T14:06:08Z",
+   "category": "프로젝트·계약",
+   "region": "해외",
+   "chain": [
+    "수소생산"
+   ],
+   "importance": "중",
+   "summary": "OMV Petrom이 루마니아 Petrobrazi 정유소에서 NRRP 자금을 통해 그린수소 생산 프로젝트를 추진하고 있다. EU 재정 지원을 받는 전략적 그린수소 사업이다.",
+   "collected_at": "2026-10-10T01:36:05Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "OMV Petrom",
+    "Petrobrazi",
+    "NRRP"
+   ]
+  },
+  {
+   "id": "128832cd16ffaec3",
+   "title": "Hyundai Engineering to Develop Renewable Energy-Linked Water Electrolysis Plant Technology",
+   "url": "https://fuelcellsworks.com/2026/10/08/electrolyzer/hyundai-engineering-to-develop-renewable-energy-linked-water-electrolysis-plant-technology",
+   "source": "FuelCellsWorks",
+   "published_at": "2026-10-09T13:51:11Z",
+   "category": "기술",
+   "region": "국내",
+   "chain": [
+    "수소생산"
+   ],
+   "importance": "중",
+   "summary": "현대엔지니어링이 재생에너지 연계형 수전해 플랜트 기술 개발에 착수했다. 재생에너지와 결합한 그린수소 생산 기술 확보를 위한 움직임이다.",
+   "collected_at": "2026-10-10T01:36:05Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "현대엔지니어링",
+    "수전해"
+   ]
+  },
+  {
+   "id": "8776e5cb1dfcd1da",
+   "title": "Israel Launches 1St Hydrogen-Powered Bus, Backed by Chinese Fuel-Cell Tech",
+   "url": "https://fuelcellsworks.com/2026/10/09/fuel-cells/israel-launches-1st-hydrogen-powered-bus-backed-by-chinese-fuel-cell-tech",
+   "source": "FuelCellsWorks",
+   "published_at": "2026-10-09T13:35:38Z",
+   "category": "시장·가격",
+   "region": "해외",
+   "chain": [
+    "활용"
+   ],
+   "importance": "하",
+   "summary": "이스라엘이 중국 연료전지 기술을 탑재한 첫 수소 연료 버스를 운행 시작했다. 수소 연료 전지 버스 도입 사례에 해당한다.",
+   "collected_at": "2026-10-10T01:36:05Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "이스라엘",
+    "수소버스"
+   ]
+  },
+  {
+   "id": "8caabbadfbda26aa",
+   "title": "Korea: Daegu Has Deployed Just 10 of Its 30 Target Hydrogen Buses for 2026",
+   "url": "https://fuelcellsworks.com/2026/10/06/fuel-cells/korea-daegu-has-deployed-just-10-of-its-30-target-hydrogen-buses-for-2026",
+   "source": "FuelCellsWorks",
+   "published_at": "2026-10-09T13:31:52Z",
+   "category": "시장·가격",
+   "region": "국내",
+   "chain": [
+    "활용"
+   ],
+   "importance": "하",
+   "summary": "대구시가 2026년 목표인 30대 수소버스 중 현재 10대만 배치한 상태다. 국내 수소 인프라 구축 진행 상황을 보여주는 사례다.",
+   "collected_at": "2026-10-10T01:36:05Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "대구",
+    "수소버스"
+   ]
+  },
+  {
+   "id": "4ab3adbfb5953f0a",
+   "title": "Metacon Receives EU Funding for Project Targeting High-Purity Green Hydrogen Production From Biogas",
+   "url": "https://fuelcellsworks.com/2026/10/09/clean-energy/metacon-receives-eu-funding-for-project-targeting-high-purity-green-hydrogen-production-from-biogas",
+   "source": "FuelCellsWorks",
+   "published_at": "2026-10-09T13:21:43Z",
+   "category": "프로젝트·계약",
+   "region": "해외",
+   "chain": [
+    "수소생산"
+   ],
+   "importance": "중",
+   "summary": "Metacon이 바이오가스로부터 고순도 그린수소를 생산하는 프로젝트에 EU 자금을 확보했다. 바이오매스 기반 수소 생산 기술 개발 진행 중이다.",
+   "collected_at": "2026-10-10T01:36:05Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "Metacon",
+    "EU",
+    "바이오가스"
+   ]
+  },
+  {
+   "id": "61d8464e064f9d42",
+   "title": "KAPSOM Completes Equipment Shipment for 5,000-Tonne Australian Green Ammonia Plant",
+   "url": "https://fuelcellsworks.com/2026/10/09/clean-energy/kapsom-completes-equipment-shipment-for-5-000-tonne-australian-green-ammonia-plant",
+   "source": "FuelCellsWorks",
+   "published_at": "2026-10-09T13:01:00Z",
+   "category": "프로젝트·계약",
+   "region": "해외",
+   "chain": [
+    "암모니아"
+   ],
+   "importance": "중",
+   "summary": "KAPSOM이 호주의 5,000톤 규모 그린암모니아 플랜트용 장비를 완료 및 출하했다. 이는 암모니아 생산 프로젝트의 실행 단계 진행을 의미한다.",
+   "collected_at": "2026-10-10T01:36:12Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "KAPSOM",
+    "호주",
+    "그린암모니아"
+   ]
+  },
+  {
+   "id": "c92791e646ff2a21",
+   "title": "Hyundai's All-New Nexo Claims 11% of Japan's Hydrogen Car Market in Five Months",
+   "url": "https://fuelcellsworks.com/2026/10/08/fuel-cells/hyundai-s-all-new-nexo-claims-11-percent-of-japan-s-hydrogen-car-market-in-five-months",
+   "source": "FuelCellsWorks",
+   "published_at": "2026-10-09T12:41:09Z",
+   "category": "시장·가격",
+   "region": "해외",
+   "chain": [
+    "활용"
+   ],
+   "importance": "하",
+   "summary": "현대의 신형 Nexo가 5개월간 일본 수소 승용차 시장의 11%를 점유했다. 수소 연료 전지 차량의 시장 진출 사례다.",
+   "collected_at": "2026-10-10T01:36:05Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "현대",
+    "Nexo",
+    "일본"
+   ]
+  },
+  {
+   "id": "7d5c56281bc41048",
+   "title": "CMB.Tech Launches First Mineral Europa, World’s First Ammonia-Powered Dry Bulk Carrier",
+   "url": "https://fuelcellsworks.com/2026/10/09/clean-energy/cmb-tech-launches-first-mineral-europa-world-s-first-ammonia-powered-dry-bulk-carrier",
+   "source": "FuelCellsWorks",
+   "published_at": "2026-10-09T12:34:39Z",
+   "category": "프로젝트·계약",
+   "region": "해외",
+   "chain": [
+    "암모니아",
+    "활용"
+   ],
+   "importance": "중",
+   "summary": "CMB.Tech가 세계 최초의 암모니아 추진 건화물선 Mineral Europa를 출시했다. 암모니아의 해운 연료 활용 실증이 시작되는 중요한 이정표다.",
+   "collected_at": "2026-10-10T01:36:12Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "CMB.Tech",
+    "Mineral Europa",
+    "암모니아 추진선"
+   ]
+  },
+  {
+   "id": "c27a1cf5cdd5219e",
+   "title": "WHE 2026, ‘투자 가능한 수소 프로젝트’ 해법 찾는다",
+   "url": "https://www.energydaily.co.kr/news/articleView.html?idxno=203941",
+   "source": "에너지데일리",
+   "published_at": "2026-10-09T10:51:04Z",
+   "category": "시장·가격",
+   "region": "해외",
+   "chain": [
+    "수소생산"
+   ],
+   "importance": "중",
+   "summary": "WHE 2026에서는 수소 생산 시설 확대 경쟁에서 벗어나 실제 투자와 장기 수요를 확보 가능한 사업성 있는 프로젝트로 산업 관심이 옮겨가고 있다는 점을 논의할 예정이다. 장기 구매처 확보, 가격 경쟁력, 국제 인증 표준 연계가 향후 시장 확대의 핵심으로 지목되고 있다.",
+   "collected_at": "2026-10-10T01:35:55Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "WHE 2026",
+    "청정수소",
+    "사업성"
+   ]
+  },
+  {
+   "id": "690ebc158ae43aed",
+   "title": "World’s first ammonia-powered dry bulk carrier ready for maiden voyage",
+   "url": "https://offshore-energy.biz/2026/10/09/worlds-first-ammonia-powered-dry-bulk-carrier-ready-for-maiden-voyage",
+   "source": "Offshore Energy",
+   "published_at": "2026-10-09T10:19:33Z",
+   "category": "프로젝트·계약",
+   "region": "해외",
+   "chain": [
+    "암모니아",
+    "활용"
+   ],
+   "importance": "중",
+   "summary": "세계 최초의 암모니아 추진 건화물선이 해상 시운전을 완료하고 처녀항해를 시작할 준비가 완료되었다. 암모니아를 실제 해운 연료로 활용하는 실증 운영이 본격화되는 의미 있는 진전이다.",
+   "collected_at": "2026-10-10T01:36:12Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "암모니아 추진선",
+    "건화물선",
+    "해운"
+   ]
+  },
   {
    "id": "ccc8fb0d9b542820",
    "title": "Ballard Unveils Fleet360 Lifecycle Services for FCmove-HD+ Modules in Chicago",
