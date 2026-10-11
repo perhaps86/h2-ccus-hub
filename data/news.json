@@ -1,7 +1,26 @@
 {
- "generated_at": "2026-10-10T01:36:12Z",
- "count": 631,
+ "generated_at": "2026-10-11T00:47:58Z",
+ "count": 632,
  "items": [
+  {
+   "id": "1de24308de121c4c",
+   "title": "Wallbox Launches New Pulsar Max, Bringing Enhanced Connectivity and Future-Ready Charging",
+   "url": "https://fuelcellsworks.com/2026/10/08/electric/wallbox-launches-new-pulsar-max-bringing-enhanced-connectivity-and-future-ready-charging",
+   "source": "FuelCellsWorks",
+   "published_at": "2026-10-09T15:52:30Z",
+   "category": "기술",
+   "region": "해외",
+   "chain": [],
+   "importance": "하",
+   "summary": "Wallbox가 Pulsar Max 충전기를 출시했다. 이 제품은 향상된 연결성과 향후 확장 가능성을 제공한다. 수소·암모니아·CCUS 산업과 무관한 전기차 충전 기술 관련 뉴스이다.",
+   "collected_at": "2026-10-11T00:47:58Z",
+   "needs_review": true,
+   "review_reason": "도메인 밖: 밸류체인 해당 없음",
+   "tags": [
+    "Wallbox",
+    "Pulsar Max"
+   ]
+  },
   {
    "id": "466a98b9ac27b2c7",
    "title": "Renault Group and EDF Group Join Forces to Make Electric Vehicles More Accessible and Affordable for French Consumers",
