@@ -1,7 +1,279 @@
 {
- "generated_at": "2026-10-11T00:47:58Z",
- "count": 632,
+ "generated_at": "2026-10-12T01:04:20Z",
+ "count": 655,
  "items": [
+  {
+   "id": "0afcb193732577a1",
+   "title": "[시장 전망] 자기 전류 센서, 2032년까지 42억 달러 규모로 급성장 예상",
+   "url": "https://www.todayenergy.kr/news/articleView.html?idxno=304020",
+   "source": "투데이에너지",
+   "published_at": "2026-10-12T07:05:00Z",
+   "category": "시장·가격",
+   "region": "해외",
+   "chain": [],
+   "importance": "하",
+   "summary": "글로벌 자기 전류 센서 시장이 2026년 20억 달러에서 2032년 42억 달러로 성장할 것으로 전망되고 있다. 수소·암모니아·CCUS와는 무관한 일반 센서 시장 분석이다.",
+   "collected_at": "2026-10-12T01:03:58Z",
+   "needs_review": true,
+   "review_reason": "도메인 밖: 밸류체인 해당 없음",
+   "tags": [
+    "자기전류센서",
+    "마켓앤마케츠"
+   ]
+  },
+  {
+   "id": "96513cbebe7df3be",
+   "title": "디앨, 액화수소·LNG 등 초저온 특화 생산공장 준공",
+   "url": "https://www.energy-news.co.kr/news/articleView.html?idxno=228848",
+   "source": "에너지신문",
+   "published_at": "2026-10-11T10:00:00Z",
+   "category": "프로젝트·계약",
+   "region": "국내",
+   "chain": [
+    "수소생산",
+    "운송·저장"
+   ],
+   "importance": "중",
+   "summary": "디앨은 전북 새만금산업단지에 액화수소 탱크로리·컨테이너 및 충전시설을 생산하는 초저온 전문공장을 준공했다. 150억원을 투자해 구축된 이 공장은 국내 액화수소 유통 인프라 확충에 기여할 것으로 예상된다.",
+   "collected_at": "2026-10-12T01:03:58Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "디앨",
+    "새만금",
+    "액화수소"
+   ]
+  },
+  {
+   "id": "0c98885b613a7836",
+   "title": "Green Hydrogen Production Expands at Wyhlen with New 5 MW Electrolyzer",
+   "url": "http://www.hydrogenfuelnews.com/green-hydrogen-production-expands-at-wyhlen-with-new-5-mw-electrolyzer/8576856/",
+   "source": "Hydrogen Fuel News",
+   "published_at": "2026-10-11T00:17:00Z",
+   "category": "프로젝트·계약",
+   "region": "해외",
+   "chain": [
+    "수소생산"
+   ],
+   "importance": "중",
+   "summary": "EnBW와 naturenergie가 독일 Wyhlen에서 신규 5MW PEM 전해조를 설치해 녹색수소 생산 역량을 6MW로 확대했다. 지역 수소 밸류체인 실증을 통해 상용화 가능성을 검증하는 단계이다.",
+   "collected_at": "2026-10-12T01:03:58Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "EnBW",
+    "Wyhlen",
+    "PEM전해조"
+   ]
+  },
+  {
+   "id": "a78a7e0b19e543ff",
+   "title": "Hydrogen infrastructure: NAT and Hyundai Rotem study hydrogen-powered tram for Egypt’s New Administrative Capital",
+   "url": "http://www.hydrogenfuelnews.com/hydrogen-infrastructure-nat-and-hyundai-rotem-study-hydrogen-powered-tram-for-eg/8576855/",
+   "source": "Hydrogen Fuel News",
+   "published_at": "2026-10-11T00:13:56Z",
+   "category": "프로젝트·계약",
+   "region": "해외",
+   "chain": [
+    "활용"
+   ],
+   "importance": "중",
+   "summary": "NAT와 현대로템이 이집트 신행정수도의 28km 노선에 44대의 수소 연료 트램 도입을 위한 타당성 조사 MoU를 체결했다. 수소 기반 대중교통 시스템 구축의 가능성을 탐색하는 초기 단계이다.",
+   "collected_at": "2026-10-12T01:03:58Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "NAT",
+    "현대로템",
+    "이집트",
+    "수소트램"
+   ]
+  },
+  {
+   "id": "6a63936190462c0f",
+   "title": "Green Hydrogen Training: University of Lomé and Rostock Launch Double-Degree Master’s Programme",
+   "url": "http://www.hydrogenfuelnews.com/green-hydrogen-training-university-of-lom-and-rostock-launch-double-degree-maste/8576854/",
+   "source": "Hydrogen Fuel News",
+   "published_at": "2026-10-11T00:10:28Z",
+   "category": "정책·규제",
+   "region": "해외",
+   "chain": [
+    "수소생산"
+   ],
+   "importance": "하",
+   "summary": "롬에 대학과 로스톡 대학이 서아프리카 지역의 수소 전문 인력 양성을 위해 바이오에너지·바이오연료·녹색수소 기술 복수학위 석사 프로그램을 개설하기로 협력했다. 교육 협력을 통한 역량 강화 사업이다.",
+   "collected_at": "2026-10-12T01:03:58Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "롬에대학",
+    "로스톡대학",
+    "WASCAL"
+   ]
+  },
+  {
+   "id": "3691b571b49c2a21",
+   "title": "Hydrogen production from seawater via integrated desalination and electrolysis at DICP",
+   "url": "http://www.hydrogenfuelnews.com/hydrogen-production-from-seawater-via-integrated-desalination-and-electrolysis-a/8576853/",
+   "source": "Hydrogen Fuel News",
+   "published_at": "2026-10-11T00:09:01Z",
+   "category": "기술",
+   "region": "해외",
+   "chain": [
+    "수소생산"
+   ],
+   "importance": "중",
+   "summary": "중국 DICP 연구진이 해수를 이용해 수소와 담수수를 동시에 생산하는 통합 시스템을 개발했다. 전해조 폐열을 저온 진공 증류에 활용해 효율을 14.4% 향상시킨 기술로 상용화 가능성이 있다.",
+   "collected_at": "2026-10-12T01:03:58Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "DICP",
+    "해수전해",
+    "저온증류"
+   ]
+  },
+  {
+   "id": "0bee32fe18a91aa0",
+   "title": "IIT (ISM) Dhanbad Joins ACME & HYREVEAL to Explore Geologic Hydrogen Research",
+   "url": "http://www.hydrogenfuelnews.com/hydrogen-news-iit-ism-dhanbad-joins-acme-hyreveal-to-explore-geologic-hydrogen-r/8576852/",
+   "source": "Hydrogen Fuel News",
+   "published_at": "2026-10-10T11:12:39Z",
+   "category": "기술",
+   "region": "해외",
+   "chain": [
+    "수소생산"
+   ],
+   "importance": "하",
+   "summary": "인도의 IIT Dhanbad가 ACME Cleantech Solutions 및 HYREVEAL과 지질 수소 개발 연구를 위한 24개월 MoU를 체결했다. 암석 변성과 촉매를 활용한 자극 수소 생산 기술 연구 협력이다.",
+   "collected_at": "2026-10-12T01:03:58Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "IIT Dhanbad",
+    "ACME",
+    "지질수소"
+   ]
+  },
+  {
+   "id": "f84d45cbc3788b89",
+   "title": "Green Hydrogen Production and Storage Enhanced at voestalpine’s Linz Steelworks",
+   "url": "http://www.hydrogenfuelnews.com/green-hydrogen-production-and-storage-enhanced-at-voestalpine-s-linz-steelworks/8576851/",
+   "source": "Hydrogen Fuel News",
+   "published_at": "2026-10-10T11:12:24Z",
+   "category": "프로젝트·계약",
+   "region": "해외",
+   "chain": [
+    "수소생산",
+    "운송·저장"
+   ],
+   "importance": "중",
+   "summary": "voestalpine과 VERBUND가 오스트리아 Linz 제철소의 H2FUTURE 파일럿을 확대하여 수소 정제, 압축, 저장, 물류 시설을 추가했다. 철강 산업의 통합형 녹색 수소 생산 체계 구축으로 탈탄소화 실현 가능성을 높였다.",
+   "collected_at": "2026-10-12T01:04:12Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "voestalpine",
+    "VERBUND",
+    "Linz",
+    "H2FUTURE"
+   ]
+  },
+  {
+   "id": "71507b5b34d825b2",
+   "title": "Hyroad Energy Launches On-Site Hydrogen Fueling and Maintenance at IMC Logistics’ Fontana Yard",
+   "url": "http://www.hydrogenfuelnews.com/hyroad-energy-launches-on-site-hydrogen-fueling-and-maintenance-at-imc-logistics/8576850/",
+   "source": "Hydrogen Fuel News",
+   "published_at": "2026-10-10T11:11:48Z",
+   "category": "프로젝트·계약",
+   "region": "해외",
+   "chain": [
+    "활용",
+    "운송·저장"
+   ],
+   "importance": "중",
+   "summary": "Hyroad Energy가 IMC Logistics의 Fontana 야드에서 수소 연료전지 트럭 함대를 위한 현장 연료 공급 및 정비 서비스를 구축했다. 창고 기반 인프라 모델을 시범 운영하여 영배출 운송의 채택 가능성을 검증하고 있다.",
+   "collected_at": "2026-10-12T01:04:12Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "Hyroad Energy",
+    "IMC Logistics",
+    "Fontana",
+    "연료전지트럭"
+   ]
+  },
+  {
+   "id": "dec2fe747cb2c50a",
+   "title": "Hydrogen Infrastructure: Castilla y León Plans Four Refueling Stations by 2028",
+   "url": "http://www.hydrogenfuelnews.com/hydrogen-infrastructure-castilla-y-le-n-plans-four-refueling-stations-by-2028/8576849/",
+   "source": "Hydrogen Fuel News",
+   "published_at": "2026-10-09T22:14:20Z",
+   "category": "프로젝트·계약",
+   "region": "해외",
+   "chain": [
+    "수소생산",
+    "운송·저장",
+    "활용"
+   ],
+   "importance": "중",
+   "summary": "H2CYL이 스페인 Castilla y León 지역의 Burgos, Valladolid, Salamanca, León에 2028년까지 4개 수소 충전소 구축을 계획하고 있다. 녹색 수소 생산부터 저장, 모빌리티까지 통합한 지역 기반 수소 생태계 조성을 목표로 한다.",
+   "collected_at": "2026-10-12T01:04:12Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "H2CYL",
+    "Castilla y León",
+    "수소충전소",
+    "2028년"
+   ]
+  },
+  {
+   "id": "fbbc4f5a72a53aac",
+   "title": "Bumhan Fuel Cell Unveils Korea’s First 10 kW‐Class Cascade SOFC with 60.8% Efficiency",
+   "url": "http://www.hydrogenfuelnews.com/bumhan-fuel-cell-unveils-korea-s-first-10-kw-class-cascade-sofc-with-60-8-effici/8576848/",
+   "source": "Hydrogen Fuel News",
+   "published_at": "2026-10-09T22:13:59Z",
+   "category": "기술",
+   "region": "국내",
+   "chain": [
+    "활용"
+   ],
+   "importance": "중",
+   "summary": "Bumhan Fuel Cell이 KETEP 지원 연구개발로 국내 최초 10 kW급 캐스케이드 SOFC 시스템을 개발하여 60.8% 효율을 달성했다. 고효율 연료전지 기술의 국내 실현으로 수소 활용 분야의 경쟁력을 강화했다.",
+   "collected_at": "2026-10-12T01:04:12Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "Bumhan Fuel Cell",
+    "SOFC",
+    "KETEP",
+    "한국"
+   ]
+  },
+  {
+   "id": "3bea4f3e9a8fc7ea",
+   "title": "Halide Ligand Choice Boosts Photocatalytic Hydrogen Production Performance",
+   "url": "http://www.hydrogenfuelnews.com/halide-ligand-choice-boosts-photocatalytic-hydrogen-production-performance/8576847/",
+   "source": "Hydrogen Fuel News",
+   "published_at": "2026-10-09T22:12:01Z",
+   "category": "기술",
+   "region": "해외",
+   "chain": [
+    "수소생산"
+   ],
+   "importance": "하",
+   "summary": "EPFL의 LIMNO 팀이 할라이드 리간드 선택을 통해 광촉매 수소 생산 성능을 개선했다. 요오드화 백금 전구체가 유기반도체 나노입자에서 수소 진화 반응을 향상시켜 백금 사용량 감소 가능성을 제시했다.",
+   "collected_at": "2026-10-12T01:04:12Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "EPFL",
+    "광촉매",
+    "백금",
+    "나노입자"
+   ]
+  },
   {
    "id": "1de24308de121c4c",
    "title": "Wallbox Launches New Pulsar Max, Bringing Enhanced Connectivity and Future-Ready Charging",
@@ -149,6 +421,24 @@
    ]
   },
   {
+   "id": "365bd7abc2a04752",
+   "title": "Octopus Fleet Launches FleetBoost to Slash Public Charging Costs for Commercial EVs",
+   "url": "https://fuelcellsworks.com/2026/10/07/electric/octopus-fleet-launches-fleetboost-to-slash-public-charging-costs-for-commercial-evs",
+   "source": "FuelCellsWorks",
+   "published_at": "2026-10-09T14:56:20Z",
+   "category": "시장·가격",
+   "region": "해외",
+   "chain": [],
+   "importance": "하",
+   "summary": "상용 전기차의 공공 충전 비용 절감을 위한 플랫폼 서비스 출시 소식이다. 수소·암모니아·CCUS 산업과는 무관하다.",
+   "collected_at": "2026-10-12T01:03:58Z",
+   "needs_review": true,
+   "review_reason": "도메인 밖: 밸류체인 해당 없음",
+   "tags": [
+    "OctopusFleet"
+   ]
+  },
+  {
    "id": "826772ab289062a0",
    "title": "DESFA Takes FID on 145Km Hydrogen-Ready Pipeline to Patras",
    "url": "https://fuelcellsworks.com/2026/10/06/h2/desfa-takes-fid-on-145km-hydrogen-ready-pipeline-to-patras",
@@ -213,6 +503,27 @@
     "RIST",
     "Ferro-H₂",
     "그린철강"
+   ]
+  },
+  {
+   "id": "699d962f5f957e68",
+   "title": "UK Govt Invests $1M In Carbon Credits By Climeworks",
+   "url": "https://carbonherald.com/uk-govt-invests-1m-in-carbon-credits-by-climeworks/?utm_source=rss&utm_medium=rss&utm_campaign=uk-govt-invests-1m-in-carbon-credits-by-climeworks",
+   "source": "Carbon Herald",
+   "published_at": "2026-10-09T14:23:40Z",
+   "category": "투자·금융",
+   "region": "해외",
+   "chain": [],
+   "importance": "하",
+   "summary": "영국 과학·혁신·기술부(DSTI)가 Climeworks의 탄소 제거 크레딧에 약 78만 파운드 규모의 투자를 실행했다. 이는 탄소 제거 사업에 대한 정부 지원의 일환이다.",
+   "collected_at": "2026-10-12T01:04:12Z",
+   "needs_review": true,
+   "review_reason": "도메인 밖: 밸류체인 해당 없음",
+   "tags": [
+    "Climeworks",
+    "영국",
+    "탄소제거",
+    "탄소크레딧"
    ]
   },
   {
@@ -367,6 +678,48 @@
    ]
   },
   {
+   "id": "eeb812fffbf5d612",
+   "title": "Gevo Sells $70 Million In Clean Fuel Tax Credits As Carbon Capture Adds Value To Ethanol",
+   "url": "https://carbonherald.com/gevo-sells-70-million-in-clean-fuel-tax-credits-as-carbon-capture-adds-value-to-ethanol/?utm_source=rss&utm_medium=rss&utm_campaign=gevo-sells-70-million-in-clean-fuel-tax-credits-as-carbon-capture-adds-value-to-ethanol",
+   "source": "Carbon Herald",
+   "published_at": "2026-10-09T13:11:33Z",
+   "category": "투자·금융",
+   "region": "해외",
+   "chain": [],
+   "importance": "하",
+   "summary": "Gevo가 청정 연료 세금 공제 7천만 달러 규모를 판매했으며, 이는 탄소 포집이 저탄소 연료 생산 경제성을 지원할 수 있음을 시사한다. 탄소 포집 기술의 상업화 경로를 제시했다.",
+   "collected_at": "2026-10-12T01:04:12Z",
+   "needs_review": true,
+   "review_reason": "도메인 밖: 밸류체인 해당 없음",
+   "tags": [
+    "Gevo",
+    "탄소포집",
+    "세금공제",
+    "에탄올"
+   ]
+  },
+  {
+   "id": "dcd99d2f5c306258",
+   "title": "New RMI Report Outlines Roadmap To Lower Carbon Removal Costs",
+   "url": "https://carbonherald.com/new-rmi-report-outlines-roadmap-to-lower-carbon-removal-costs/?utm_source=rss&utm_medium=rss&utm_campaign=new-rmi-report-outlines-roadmap-to-lower-carbon-removal-costs",
+   "source": "Carbon Herald",
+   "published_at": "2026-10-09T13:01:20Z",
+   "category": "정책·규제",
+   "region": "해외",
+   "chain": [],
+   "importance": "하",
+   "summary": "비영리 청정에너지 기관 RMI이 탄소 제거 기술(CDR)의 비용 절감을 위한 로드맵을 담은 'The New Frontiers Report'를 발간했다. 이는 탄소 제거 산업의 경제성 개선 방향을 제시하는 정책 연구다.",
+   "collected_at": "2026-10-12T01:04:12Z",
+   "needs_review": true,
+   "review_reason": "도메인 밖: 밸류체인 해당 없음",
+   "tags": [
+    "RMI",
+    "탄소제거",
+    "CDR",
+    "비용절감"
+   ]
+  },
+  {
    "id": "61d8464e064f9d42",
    "title": "KAPSOM Completes Equipment Shipment for 5,000-Tonne Australian Green Ammonia Plant",
    "url": "https://fuelcellsworks.com/2026/10/09/clean-energy/kapsom-completes-equipment-shipment-for-5-000-tonne-australian-green-ammonia-plant",
@@ -386,6 +739,28 @@
     "KAPSOM",
     "호주",
     "그린암모니아"
+   ]
+  },
+  {
+   "id": "9a9b1d75da4c2383",
+   "title": "NGK Deploys Honeycomb Structure Ceramics For Direct Air Capture At Project Brighton",
+   "url": "https://carbonherald.com/ngk-deploys-honeycomb-structure-ceramics-for-direct-air-capture-at-project-brighton/?utm_source=rss&utm_medium=rss&utm_campaign=ngk-deploys-honeycomb-structure-ceramics-for-direct-air-capture-at-project-brighton",
+   "source": "Carbon Herald",
+   "published_at": "2026-10-09T12:45:02Z",
+   "category": "기술",
+   "region": "해외",
+   "chain": [
+    "CCUS"
+   ],
+   "importance": "중",
+   "summary": "NGK Corporation이 직접공기포집(DAC) 프로젝트에 벌집 구조 세라믹스를 설치하여 운영 중이다. 이는 CCUS 기술 실증 단계의 진행 사례로 의미가 있다.",
+   "collected_at": "2026-10-12T01:04:20Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "NGK",
+    "DAC",
+    "Project Brighton"
    ]
   },
   {
@@ -434,6 +809,108 @@
    ]
   },
   {
+   "id": "33cf9019fccb59c4",
+   "title": "BURN Unlocks 5.2M CORSIA-Eligible Carbon Credits In Nigeria",
+   "url": "https://carbonherald.com/burn-unlocks-5-2m-corsia-eligible-carbon-credits-in-nigeria/?utm_source=rss&utm_medium=rss&utm_campaign=burn-unlocks-5-2m-corsia-eligible-carbon-credits-in-nigeria",
+   "source": "Carbon Herald",
+   "published_at": "2026-10-09T12:29:03Z",
+   "category": "정책·규제",
+   "region": "해외",
+   "chain": [],
+   "importance": "하",
+   "summary": "BURN이 파리협정 제6.2조 하에서 나이지리아의 탄소크레딧 승인을 획득했다. 수소·암모니아·CCUS와 무관한 탄소시장 뉴스이다.",
+   "collected_at": "2026-10-12T01:04:20Z",
+   "needs_review": true,
+   "review_reason": "도메인 밖: 밸류체인 해당 없음",
+   "tags": [
+    "BURN",
+    "CORSIA",
+    "Nigeria"
+   ]
+  },
+  {
+   "id": "ac7fd40c0e1ad62b",
+   "title": "Eni’s Liverpool Bay CCS Reaches 50% Completion With Douglas Platform Offshore Install",
+   "url": "https://carbonherald.com/enis-liverpool-bay-ccs-reaches-50-completion-with-douglas-platform-offshore-install/?utm_source=rss&utm_medium=rss&utm_campaign=enis-liverpool-bay-ccs-reaches-50-completion-with-douglas-platform-offshore-install",
+   "source": "Carbon Herald",
+   "published_at": "2026-10-09T12:11:00Z",
+   "category": "프로젝트·계약",
+   "region": "해외",
+   "chain": [
+    "CCUS"
+   ],
+   "importance": "중",
+   "summary": "Eni와 BlackRock의 합작사인 Eni CCUS Holding이 Liverpool Bay CCS 프로젝트를 50% 완성했으며 Douglas Platform을 해상 설치했다. 대규모 CCUS 인프라 프로젝트의 진행 상황을 보여준다.",
+   "collected_at": "2026-10-12T01:04:20Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "Eni",
+    "Liverpool Bay",
+    "CCS"
+   ]
+  },
+  {
+   "id": "5ef8b118a712bd16",
+   "title": "Amazon Adds Sustainable Aviation Fuel Credits To Carbon-Inset Program",
+   "url": "https://carbonherald.com/amazon-adds-sustainable-aviation-fuel-credits-to-carbon-inset-program/?utm_source=rss&utm_medium=rss&utm_campaign=amazon-adds-sustainable-aviation-fuel-credits-to-carbon-inset-program",
+   "source": "Carbon Herald",
+   "published_at": "2026-10-09T11:50:57Z",
+   "category": "시장·가격",
+   "region": "해외",
+   "chain": [],
+   "importance": "하",
+   "summary": "Amazon이 탄소상쇄 프로그램을 지속가능항공연료(SAF)로 확대했다. 수소·암모니아·CCUS와 무관한 탄소시장 뉴스이다.",
+   "collected_at": "2026-10-12T01:04:20Z",
+   "needs_review": true,
+   "review_reason": "도메인 밖: 밸류체인 해당 없음",
+   "tags": [
+    "Amazon",
+    "SAF",
+    "Carbon Offset"
+   ]
+  },
+  {
+   "id": "67dc92ef86269c9a",
+   "title": "Chile Unlocks Global Carbon Credits For Local Tax Relief, Clears Pipeline For Japanese Deals",
+   "url": "https://carbonherald.com/chile-unlocks-global-carbon-credits-for-local-tax-relief-clears-pipeline-for-japanese-deals/?utm_source=rss&utm_medium=rss&utm_campaign=chile-unlocks-global-carbon-credits-for-local-tax-relief-clears-pipeline-for-japanese-deals",
+   "source": "Carbon Herald",
+   "published_at": "2026-10-09T11:49:48Z",
+   "category": "정책·규제",
+   "region": "해외",
+   "chain": [],
+   "importance": "하",
+   "summary": "칠레가 탄소크레딧 시장 규제를 정비하여 일본과의 거래 파이프라인을 확대했다. 수소·암모니아·CCUS와 무관한 정책 뉴스이다.",
+   "collected_at": "2026-10-12T01:04:20Z",
+   "needs_review": true,
+   "review_reason": "도메인 밖: 밸류체인 해당 없음",
+   "tags": [
+    "Chile",
+    "Carbon Market",
+    "Japan"
+   ]
+  },
+  {
+   "id": "306cef3a629699ac",
+   "title": "Microsoft And Relae Release New Framework For High-Quality Improved Forest Management",
+   "url": "https://carbonherald.com/microsoft-and-relae-release-new-framework-for-high-quality-improved-forest-management/?utm_source=rss&utm_medium=rss&utm_campaign=microsoft-and-relae-release-new-framework-for-high-quality-improved-forest-management",
+   "source": "Carbon Herald",
+   "published_at": "2026-10-09T11:18:41Z",
+   "category": "기술",
+   "region": "해외",
+   "chain": [],
+   "importance": "하",
+   "summary": "Microsoft와 Relae가 산림관리 개선에 관한 새로운 프레임워크를 발표했다. 수소·암모니아·CCUS와 무관한 탄소감축 기술 뉴스이다.",
+   "collected_at": "2026-10-12T01:04:20Z",
+   "needs_review": true,
+   "review_reason": "도메인 밖: 밸류체인 해당 없음",
+   "tags": [
+    "Microsoft",
+    "Relae",
+    "Forest Management"
+   ]
+  },
+  {
    "id": "c27a1cf5cdd5219e",
    "title": "WHE 2026, ‘투자 가능한 수소 프로젝트’ 해법 찾는다",
    "url": "https://www.energydaily.co.kr/news/articleView.html?idxno=203941",
@@ -453,6 +930,26 @@
     "WHE 2026",
     "청정수소",
     "사업성"
+   ]
+  },
+  {
+   "id": "159288ff5de3dfd7",
+   "title": "Gold Standard Expands Carbon Finance Eligibility For Renewable Energy Projects",
+   "url": "https://carbonherald.com/gold-standard-expands-carbon-finance-eligibility-for-renewable-energy-projects/?utm_source=rss&utm_medium=rss&utm_campaign=gold-standard-expands-carbon-finance-eligibility-for-renewable-energy-projects",
+   "source": "Carbon Herald",
+   "published_at": "2026-10-09T10:47:15Z",
+   "category": "정책·규제",
+   "region": "해외",
+   "chain": [],
+   "importance": "하",
+   "summary": "Gold Standard이 재생에너지 프로젝트의 탄소금융 접근성을 확대하는 새로운 방법론을 도입했다. 수소·암모니아·CCUS와 무관한 탄소시장 정책 뉴스이다.",
+   "collected_at": "2026-10-12T01:04:20Z",
+   "needs_review": true,
+   "review_reason": "도메인 밖: 밸류체인 해당 없음",
+   "tags": [
+    "Gold Standard",
+    "Carbon Finance",
+    "Renewable Energy"
    ]
   },
   {
