@@ -1,7 +1,814 @@
 {
- "generated_at": "2026-10-12T01:04:20Z",
- "count": 655,
+ "generated_at": "2026-10-13T02:53:20Z",
+ "count": 692,
  "items": [
+  {
+   "id": "b2be89e8ab9d0981",
+   "title": "LS머트리얼즈, 美 데이터센터 전력 시장 진입… 국내 UC업계 최대 물량 수주",
+   "url": "https://www.electimes.com/news/articleView.html?idxno=373336",
+   "source": "전기신문",
+   "published_at": "2026-10-13T11:08:26Z",
+   "category": "프로젝트·계약",
+   "region": "해외",
+   "chain": [
+    "활용"
+   ],
+   "importance": "상",
+   "summary": "LS머트리얼즈가 미국 수소연료전지 기업에 약 690억 원 규모의 AI 데이터센터용 울트라캐패시터 공급 계약을 체결했다. 국내 UC 분야 역대 최대 규모이며 2027년부터 인도될 예정이다. 이는 한국 기업이 글로벌 빅테크 전력 인프라 공급망에 본격 진입하는 사례다.",
+   "collected_at": "2026-10-13T02:52:53Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "LS머트리얼즈",
+    "울트라캐패시터",
+    "AI 데이터센터",
+    "수소연료전지"
+   ]
+  },
+  {
+   "id": "d114cdbe3526936a",
+   "title": "울산 탄소중립 특화 지식산업센터, 건설사업관리 PQ 5개 업체 통과",
+   "url": "https://www.electimes.com/news/articleView.html?idxno=373267",
+   "source": "전기신문",
+   "published_at": "2026-10-13T11:00:00Z",
+   "category": "프로젝트·계약",
+   "region": "국내",
+   "chain": [
+    "수소생산",
+    "암모니아"
+   ],
+   "importance": "중",
+   "summary": "울산에 탄소중립 특화 지식산업센터 건립사업의 건설사업관리 용역 PQ에서 5개 공동수급체가 모두 적격 판정을 받았다. 센터는 수소·저탄소에너지 분야 중소기업과 스타트업 입주를 지원할 예정이다. 사업이 시공 단계로 진행되면서 국내 수소산업 인프라 구축이 가속화되고 있다.",
+   "collected_at": "2026-10-13T02:52:53Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "울산",
+    "탄소중립",
+    "지식산업센터",
+    "스타트업"
+   ]
+  },
+  {
+   "id": "29b69d448524d10d",
+   "title": "H2OK, 플라즈마·광촉매 융합 수소 생산기술 개발",
+   "url": "https://www.gasnews.com/news/articleView.html?idxno=127142",
+   "source": "가스신문",
+   "published_at": "2026-10-13T10:37:26Z",
+   "category": "기술",
+   "region": "국내",
+   "chain": [
+    "수소생산"
+   ],
+   "importance": "중",
+   "summary": "H2OK이 플라즈마와 광촉매를 융합한 하이브리드 수소 생산기술의 시제품 공인시험을 완료했으며, 1kg 생산에 24kWh의 전력이 소요됨을 입증했다. 상용화 단계로 진입하며 투자 파트너 확보에 나설 계획으로, 경제적 수소 생산의 가능성을 제시한다.",
+   "collected_at": "2026-10-13T02:52:35Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "H2OK",
+    "플라즈마",
+    "광촉매",
+    "수소생산기술"
+   ]
+  },
+  {
+   "id": "ef5e13c633a0f904",
+   "title": "가스안전公-독일 인증기관, 수소용품 해외인증 전략적 협업",
+   "url": "http://www.e2news.com/news/articleView.html?idxno=335018",
+   "source": "이투뉴스",
+   "published_at": "2026-10-13T09:51:15Z",
+   "category": "정책·규제",
+   "region": "국내",
+   "chain": [
+    "수소생산"
+   ],
+   "importance": "하",
+   "summary": "한국가스안전공사와 독일 TÜV SÜD가 수소용품 분야 교류 협력을 위한 업무협약을 체결했다. 공인시험소 등록을 기념하는 행사가 열렸으며 수소용품 및 수소충전소 성능평가 분야의 협력을 논의했다. 양 기관의 협력 강화를 선언하는 행사성 뉘스다.",
+   "collected_at": "2026-10-13T02:52:53Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "한국가스안전공사",
+    "TÜV SÜD",
+    "MOU",
+    "수소용품"
+   ]
+  },
+  {
+   "id": "0b8f6402a6a61f93",
+   "title": "켄텍, 한국전력기술에 액화수소 플랜트 원천기술 이전",
+   "url": "https://www.todayenergy.kr/news/articleView.html?idxno=304083",
+   "source": "투데이에너지",
+   "published_at": "2026-10-13T09:29:06Z",
+   "category": "투자·금융",
+   "region": "국내",
+   "chain": [
+    "운송·저장"
+   ],
+   "importance": "상",
+   "summary": "켄텍이 액화수소 플랜트 엔지니어링 원천기술을 한국전력기술에 5억원 규모로 기술이전하며 개교 이래 최대 규모 계약을 체결했다. 생산·저장·이송·공급 설비의 통합 엔지니어링 노하우 사업화로 액화수소 인프라 구축 가속화가 예상된다.",
+   "collected_at": "2026-10-13T02:52:35Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "켄텍",
+    "한국전력기술",
+    "액화수소플랜트",
+    "기술이전"
+   ]
+  },
+  {
+   "id": "f88c186414590a0f",
+   "title": "LS ELECTRIC, 빅테크 데이터센터에 1853억원 규모 배전솔루션 공급한다",
+   "url": "https://www.energydaily.co.kr/news/articleView.html?idxno=203976",
+   "source": "에너지데일리",
+   "published_at": "2026-10-13T09:10:29Z",
+   "category": "프로젝트·계약",
+   "region": "해외",
+   "chain": [
+    "활용"
+   ],
+   "importance": "상",
+   "summary": "LS ELECTRIC이 블룸에너지와 함께 약 1853억 원 규모의 수배전반 및 배전용 변압기 공급 계약을 체결했다. 미국 펜실베니아에 건설되는 빅테크 데이터센터의 연료전지 기반 온사이트 발전 프로젝트에 납입된다. 북미 AI 데이터센터 전력 인프라 사업에서 한국 기업들의 수주가 빠르게 확대되고 있다.",
+   "collected_at": "2026-10-13T02:52:53Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "LS ELECTRIC",
+    "블룸에너지",
+    "데이터센터",
+    "연료전지"
+   ]
+  },
+  {
+   "id": "e378056a1e644527",
+   "title": "류젠궈 화북전력대학 교수 “중국 청정연료와 한국 소재·부품 연결해 수소 협력 넓혀야”",
+   "url": "https://www.h2news.kr/news/articleView.html?idxno=14280",
+   "source": "수소신문",
+   "published_at": "2026-10-13T08:55:00Z",
+   "category": "프로젝트·계약",
+   "region": "해외",
+   "chain": [
+    "수소생산"
+   ],
+   "importance": "중",
+   "summary": "류젠궈 교수는 중국의 그린수소 경제성 확보를 위해 한국의 소재·부품과 투자가 필요하다고 제시했다. 중국 수전해 산업의 기술 현황을 이해하면 국내 기업의 협력 접점을 찾을 수 있으며, 이는 양국의 수소산업 연계 발전에 의미가 있다.",
+   "collected_at": "2026-10-13T02:52:35Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "류젠궈",
+    "화북전력대학",
+    "중국",
+    "수소협력"
+   ]
+  },
+  {
+   "id": "7eb086c65d183e2d",
+   "title": "군 수소충전 인프라 구축 빨라지나…허가·검사체계 ‘군 특례’ 추진",
+   "url": "https://www.energydaily.co.kr/news/articleView.html?idxno=203970",
+   "source": "에너지데일리",
+   "published_at": "2026-10-13T05:00:00Z",
+   "category": "정책·규제",
+   "region": "국내",
+   "chain": [
+    "수소생산",
+    "운송·저장"
+   ],
+   "importance": "중",
+   "summary": "군부대의 수소 제조·저장·충전시설에 대해 일반 민간시설과 차별화된 허가·검사체계를 적용하는 법 개정이 추진된다. 군의 보안과 특수성을 반영하면서도 안전성은 유지하는 방식이다. 개정 시 군용 수소연료 기반 차량과 장비 도입 시 충전인프라 구축 제약이 완화될 전망이다.",
+   "collected_at": "2026-10-13T02:52:53Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "한국가스안전공사",
+    "군부대",
+    "수소충전",
+    "허가체계"
+   ]
+  },
+  {
+   "id": "e9bd46fc6ab6055b",
+   "title": "[국정감사] 차규근 “용인 국가산단 LNG 발전소 수소 혼소 실현 의문”",
+   "url": "https://www.todayenergy.kr/news/articleView.html?idxno=304076",
+   "source": "투데이에너지",
+   "published_at": "2026-10-12T17:30:48Z",
+   "category": "정책·규제",
+   "region": "국내",
+   "chain": [
+    "활용"
+   ],
+   "importance": "중",
+   "summary": "국정감사에서 차규근 의원이 용인 국가산단 LNG 발전소의 수소 혼소 실현 가능성에 의문을 제기했다. 2026년부터 2041년까지 14GW 이상의 전력수요 발생이 예상되는 가운데, 수소 혼소 계획의 추진 과제를 점검하고 있다.",
+   "collected_at": "2026-10-13T02:52:35Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "용인국가산단",
+    "수소혼소",
+    "LNG발전소",
+    "국정감사"
+   ]
+  },
+  {
+   "id": "2e1fdb9e23aa0eb0",
+   "title": "가스안전공사, 獨 TÜV SÜD와 손잡고 수소용품 ‘해외인증 장벽’ 낮춘다",
+   "url": "https://www.energydaily.co.kr/news/articleView.html?idxno=203957",
+   "source": "에너지데일리",
+   "published_at": "2026-10-12T16:25:48Z",
+   "category": "정책·규제",
+   "region": "국내",
+   "chain": [
+    "수소생산"
+   ],
+   "importance": "중",
+   "summary": "한국가스안전공사 수소용품검사인증센터가 독일 TÜV SÜD의 공인시험소로 등록되었다. 이는 국내 수소기업의 해외시장 진출 시 시험·인증 부담을 줄일 수 있는 기반이다. 국내 시험 인프라와 글로벌 인증기관의 경험을 연계해 해외 인증 취득 지원을 강화한다.",
+   "collected_at": "2026-10-13T02:52:53Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "한국가스안전공사",
+    "TÜV SÜD",
+    "수소용품",
+    "국제인증"
+   ]
+  },
+  {
+   "id": "20ef8fc4ccfbfdde",
+   "title": "현대로템, 이집트 수소전기트램 구축 가속도",
+   "url": "https://www.todayenergy.kr/news/articleView.html?idxno=304069",
+   "source": "투데이에너지",
+   "published_at": "2026-10-12T16:13:06Z",
+   "category": "프로젝트·계약",
+   "region": "해외",
+   "chain": [
+    "활용"
+   ],
+   "importance": "상",
+   "summary": "현대로템이 이집트 터널청과 신행정수도 수소전기트램 시스템 구축을 위한 양해각서를 체결했다. 이는 중동 지역의 대규모 수소 운송·활용 프로젝트로, 현대로템의 해외 수소사업 확대의 중요한 계약이다.",
+   "collected_at": "2026-10-13T02:52:35Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "현대로템",
+    "이집트",
+    "수소전기트램",
+    "신행정수도"
+   ]
+  },
+  {
+   "id": "fcdbadb236099f6a",
+   "title": "FuelCell Energy Appoints John Dansby to Lead Manufacturing Scale-Up",
+   "url": "https://fuelcellsworks.com/2026/10/12/electrolyzer/fuelcell-energy-appoints-john-dansby-to-lead-manufacturing-scale-up",
+   "source": "FuelCellsWorks",
+   "published_at": "2026-10-12T16:11:19Z",
+   "category": "프로젝트·계약",
+   "region": "해외",
+   "chain": [],
+   "importance": "하",
+   "summary": "FuelCell Energy가 John Dansby를 제조 확대를 주도할 리더로 임명했다는 인사 발표이다. 구체적인 사업 내용이 제시되지 않아 세부 판단이 어렵다. 회사의 인사 소식을 전하는 일반적인 보도다.",
+   "collected_at": "2026-10-13T02:52:53Z",
+   "needs_review": true,
+   "review_reason": "도메인 밖: 밸류체인 해당 없음",
+   "tags": [
+    "FuelCell Energy",
+    "John Dansby",
+    "제조",
+    "리더십"
+   ]
+  },
+  {
+   "id": "810c691055b8615e",
+   "title": "NaTran Advances 820Km Hy-Fen Hydrogen Pipeline Toward 2032 Start",
+   "url": "https://fuelcellsworks.com/2026/10/11/h2/natran-advances-820km-hy-fen-hydrogen-pipeline-toward-2032-start",
+   "source": "FuelCellsWorks",
+   "published_at": "2026-10-12T15:49:31Z",
+   "category": "프로젝트·계약",
+   "region": "해외",
+   "chain": [
+    "수소생산",
+    "운송·저장"
+   ],
+   "importance": "중",
+   "summary": "NaTran의 Hy-Fen 수소 파이프라인 프로젝트가 820km 구간을 진행 중이며 2032년 운영 개시를 목표로 하고 있다. 유럽의 수소 인프라 구축이 실질적으로 추진되고 있음을 보여주는 사례다.",
+   "collected_at": "2026-10-13T02:53:02Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "NaTran",
+    "Hy-Fen",
+    "파이프라인"
+   ]
+  },
+  {
+   "id": "39c1d541996d0b0d",
+   "title": "China, EU Strike Deal to Halve Chinese Hybrid Exports",
+   "url": "https://fuelcellsworks.com/2026/10/10/electric/china-eu-strike-deal-to-halve-chinese-hybrid-exports",
+   "source": "FuelCellsWorks",
+   "published_at": "2026-10-12T15:48:42Z",
+   "category": "정책·규제",
+   "region": "해외",
+   "chain": [],
+   "importance": "하",
+   "summary": "중국과 EU가 중국산 하이브리드 자동차 수출을 반으로 줄이기로 합의. 수소 및 암모니아 산업과 직접 무관한 무역 협상.",
+   "collected_at": "2026-10-13T02:53:12Z",
+   "needs_review": true,
+   "review_reason": "도메인 밖: 밸류체인 해당 없음",
+   "tags": [
+    "중국",
+    "EU"
+   ]
+  },
+  {
+   "id": "69317e5a44131b4b",
+   "title": "Scania Puts Five Hydrogen Fuel-Cell Trucks Into Real-World Service in Switzerland",
+   "url": "https://fuelcellsworks.com/2026/10/10/fuel-cells/scania-puts-five-hydrogen-fuel-cell-trucks-into-real-world-service-in-switzerland",
+   "source": "FuelCellsWorks",
+   "published_at": "2026-10-12T15:40:49Z",
+   "category": "프로젝트·계약",
+   "region": "해외",
+   "chain": [
+    "활용"
+   ],
+   "importance": "중",
+   "summary": "Scania가 수소 연료전지 트럭 5대를 스위스에서 실제 운영 서비스에 투입했다. 수소 상용차의 실증 단계가 진행 중임을 의미한다.",
+   "collected_at": "2026-10-13T02:53:02Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "Scania",
+    "스위스",
+    "수소트럭"
+   ]
+  },
+  {
+   "id": "8b180d13319cb3d6",
+   "title": "China’s Hydrogen Revolution: From Gas to Clean Energy",
+   "url": "https://fuelcellsworks.com/2026/10/11/h2/china-s-hydrogen-revolution-from-gas-to-clean-energy",
+   "source": "FuelCellsWorks",
+   "published_at": "2026-10-12T15:37:02Z",
+   "category": "시장·가격",
+   "region": "해외",
+   "chain": [
+    "수소생산"
+   ],
+   "importance": "하",
+   "summary": "중국의 수소 에너지 전환에 대한 일반적인 소개 기사로 보인다. 구체적인 프로젝트나 정책 내용이 제목에 드러나지 않는다.",
+   "collected_at": "2026-10-13T02:53:02Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "중국",
+    "수소"
+   ]
+  },
+  {
+   "id": "2be8d4d61b2b4695",
+   "title": "가스안전공사, 독일 TÜV SÜD와 수소 분야 협력 강화",
+   "url": "https://www.energy-news.co.kr/news/articleView.html?idxno=228885",
+   "source": "에너지신문",
+   "published_at": "2026-10-12T15:33:08Z",
+   "category": "정책·규제",
+   "region": "국내",
+   "chain": [
+    "수소생산"
+   ],
+   "importance": "중",
+   "summary": "한국가스안전공사가 독일 TÜV SÜD와 업무협약을 체결하고 공인시험소 등록을 완료했다. 이를 통해 국내 수소용품 기업의 해외 인증 취득과 글로벌 시장 진출 지원을 강화하게 된다.",
+   "collected_at": "2026-10-13T02:52:35Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "한국가스안전공사",
+    "TÜV SÜD",
+    "수소용품인증",
+    "국제협력"
+   ]
+  },
+  {
+   "id": "83361485eb9902c7",
+   "title": "Bloom Energy to Announce Third Quarter 2026 Financial Results on October 22, 2026",
+   "url": "https://fuelcellsworks.com/2026/10/12/electrolyzer/bloom-energy-to-announce-third-quarter-2026-financial-results-on-october-22-2026",
+   "source": "FuelCellsWorks",
+   "published_at": "2026-10-12T15:32:01Z",
+   "category": "투자·금융",
+   "region": "해외",
+   "chain": [],
+   "importance": "하",
+   "summary": "Bloom Energy의 2026년 3분기 재무 결과 발표 공지로, 수소·암모니아·CCUS와 직접적인 관련이 없는 기업 공지사항이다.",
+   "collected_at": "2026-10-13T02:53:02Z",
+   "needs_review": true,
+   "review_reason": "도메인 밖: 밸류체인 해당 없음",
+   "tags": [
+    "Bloom Energy"
+   ]
+  },
+  {
+   "id": "1226fb926861eb9a",
+   "title": "After a Year in Service, a Hydrogen Truck and Its Local Ecosystem Head to Technotrans",
+   "url": "https://fuelcellsworks.com/2026/10/10/fuel-cells/after-a-year-in-service-a-hydrogen-truck-and-its-local-ecosystem-head-to-technotrans",
+   "source": "FuelCellsWorks",
+   "published_at": "2026-10-12T15:13:50Z",
+   "category": "프로젝트·계약",
+   "region": "해외",
+   "chain": [
+    "활용"
+   ],
+   "importance": "하",
+   "summary": "수소 트럭의 1년 운영 사례와 지역 생태계 관련 행사 소개로, 단순 홍보성 내용으로 판단된다.",
+   "collected_at": "2026-10-13T02:53:02Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "수소트럭",
+    "Technotrans"
+   ]
+  },
+  {
+   "id": "58635148d13fa97a",
+   "title": "Hydrogen Technology World Expo 2026: EKPO Applies Fuel Cell Technology to Energy-Intensive Special-Purpose Vehicles",
+   "url": "https://fuelcellsworks.com/2026/10/12/fuel-cells/hydrogen-technology-world-expo-2026-ekpo-applies-fuel-cell-technology-to-energy-intensive-special-purpose-vehicles",
+   "source": "FuelCellsWorks",
+   "published_at": "2026-10-12T15:06:48Z",
+   "category": "기술",
+   "region": "해외",
+   "chain": [
+    "활용"
+   ],
+   "importance": "하",
+   "summary": "EKPO의 연료전지 기술이 특수 목적 차량에 적용되는 사례를 소개하는 행사 관련 기사다. 기술 실증 수준의 내용이다.",
+   "collected_at": "2026-10-13T02:53:02Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "EKPO",
+    "연료전지",
+    "2026년"
+   ]
+  },
+  {
+   "id": "bab4dc761c574905",
+   "title": "Tesla Renames 'Full Self-Driving' To 'Assisted Driving' In Europe as It Chases Clearance for Software",
+   "url": "https://fuelcellsworks.com/2026/10/10/electric/tesla-renames-full-self-driving-to-assisted-driving-in-europe-as-it-chases-clearance-for-software",
+   "source": "FuelCellsWorks",
+   "published_at": "2026-10-12T15:00:02Z",
+   "category": "정책·규제",
+   "region": "해외",
+   "chain": [],
+   "importance": "하",
+   "summary": "Tesla가 유럽에서 '완전 자동주행' 기능의 명칭을 '보조 주행'으로 변경. 소프트웨어 승인 절차 진행 중. 수소 및 암모니아 산업과 무관.",
+   "collected_at": "2026-10-13T02:53:12Z",
+   "needs_review": true,
+   "review_reason": "도메인 밖: 밸류체인 해당 없음",
+   "tags": [
+    "Tesla",
+    "유럽"
+   ]
+  },
+  {
+   "id": "d8b376c1a0068e79",
+   "title": "Pyrenees Hydrogen Projects Map 800 Companies and Plot a Cross-Border Corridor for Heavy Transport",
+   "url": "https://fuelcellsworks.com/2026/10/10/h2/pyrenees-hydrogen-projects-map-800-companies-and-plot-a-cross-border-corridor-for-heavy-transport",
+   "source": "FuelCellsWorks",
+   "published_at": "2026-10-12T14:58:20Z",
+   "category": "프로젝트·계약",
+   "region": "해외",
+   "chain": [
+    "수소생산",
+    "활용"
+   ],
+   "importance": "중",
+   "summary": "피레네 지역의 수소 프로젝트들이 800개 기업을 연계하고 국경 간 중운송 회랑을 구축 중이다. 유럽의 수소 산업 생태계 확대를 보여주는 사례다.",
+   "collected_at": "2026-10-13T02:53:02Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "Pyrenees",
+    "피레네",
+    "수소회랑"
+   ]
+  },
+  {
+   "id": "2a5d9e251cc09795",
+   "title": "Former Stegra CTO Joins Smoltek to Commercialize PEM Electrolyser Technology",
+   "url": "https://fuelcellsworks.com/2026/10/12/electrolyzer/former-stegra-cto-joins-smoltek-to-commercialize-pem-electrolyser-technology",
+   "source": "FuelCellsWorks",
+   "published_at": "2026-10-12T14:48:11Z",
+   "category": "기술",
+   "region": "해외",
+   "chain": [
+    "수소생산"
+   ],
+   "importance": "중",
+   "summary": "Stegra의 전직 CTO가 Smoltek에 합류하여 PEM 전해조 기술 상용화를 추진한다. 핵심 인력 이동을 통한 수소생산 기술 발전이 진행 중이다.",
+   "collected_at": "2026-10-13T02:53:02Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "Smoltek",
+    "PEM전해조",
+    "Stegra"
+   ]
+  },
+  {
+   "id": "ba52fb46d858fbba",
+   "title": "Handelsblatt: EU Commission Carries Main Blame for Europe's Stalled Hydrogen Market",
+   "url": "https://fuelcellsworks.com/2026/10/10/h2/handelsblatt-eu-commission-carries-main-blame-for-europe-s-stalled-hydrogen-market",
+   "source": "FuelCellsWorks",
+   "published_at": "2026-10-12T14:42:46Z",
+   "category": "정책·규제",
+   "region": "해외",
+   "chain": [],
+   "importance": "하",
+   "summary": "EU Commission이 유럽의 정체된 수소 시장에 대한 주요 책임을 지고 있다는 보도. 구체적인 내용이 제시되지 않아 정책 평가의 방향만 드러남.",
+   "collected_at": "2026-10-13T02:53:12Z",
+   "needs_review": true,
+   "review_reason": "도메인 밖: 밸류체인 해당 없음",
+   "tags": [
+    "EU",
+    "수소시장"
+   ]
+  },
+  {
+   "id": "d2fa9b3f149cf455",
+   "title": "SARCO's Green Hydrogen and Ammonia MoU With UAE's Go Energy Expires Without Deal",
+   "url": "https://fuelcellsworks.com/2026/10/12/green-hydrogen/sarco-s-green-hydrogen-and-ammonia-mou-with-uae-s-go-energy-expires-without-deal",
+   "source": "FuelCellsWorks",
+   "published_at": "2026-10-12T14:39:29Z",
+   "category": "프로젝트·계약",
+   "region": "해외",
+   "chain": [
+    "수소생산",
+    "암모니아"
+   ],
+   "importance": "중",
+   "summary": "SARCO가 UAE의 Go Energy와 체결한 그린 수소 및 암모니아 양해각서(MoU)가 만료되었으나 최종 계약으로 진행되지 못함. 중동에서의 그린 암모니아 프로젝트 추진 시도가 실패로 돌아갔음을 의미.",
+   "collected_at": "2026-10-13T02:53:12Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "SARCO",
+    "Go Energy",
+    "UAE"
+   ]
+  },
+  {
+   "id": "20d7c8026415c2e6",
+   "title": "Dunia Uses AI Self-Driving Lab to Speed Hydrogen Catalyst Discovery",
+   "url": "https://fuelcellsworks.com/2026/10/12/h2/dunia-uses-ai-self-driving-lab-to-speed-hydrogen-catalyst-discovery",
+   "source": "FuelCellsWorks",
+   "published_at": "2026-10-12T14:31:23Z",
+   "category": "기술",
+   "region": "해외",
+   "chain": [
+    "수소생산"
+   ],
+   "importance": "중",
+   "summary": "Dunia가 AI 자동화 실험실을 활용해 수소 촉매 개발 속도를 높이고 있음. 자동화된 연구 방식으로 촉매 개발 효율을 개선하려는 기술 혁신 사례.",
+   "collected_at": "2026-10-13T02:53:12Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "Dunia",
+    "AI",
+    "수소촉매"
+   ]
+  },
+  {
+   "id": "c66b281c17c6e0a4",
+   "title": "Fraunhofer IMM to Show 25 kW Diesel Reformer for Fuel Cell Power at Hamburg Expo",
+   "url": "https://fuelcellsworks.com/2026/10/12/fuel-cells/fraunhofer-imm-to-show-25-kw-diesel-reformer-for-fuel-cell-power-at-hamburg-expo",
+   "source": "FuelCellsWorks",
+   "published_at": "2026-10-12T14:17:08Z",
+   "category": "기술",
+   "region": "해외",
+   "chain": [
+    "수소생산"
+   ],
+   "importance": "하",
+   "summary": "Fraunhofer IMM이 Hamburg Expo에서 25kW급 디젤 개질기 기술을 선보일 예정. 수소 생산 기술의 전시 및 홍보 행사.",
+   "collected_at": "2026-10-13T02:53:12Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "Fraunhofer IMM",
+    "Hamburg Expo"
+   ]
+  },
+  {
+   "id": "ed275587bbb7a909",
+   "title": "HRS Cuts Capital Raise to €3.13M After Investor Withdrawal but Extends Cash Runway to February",
+   "url": "https://fuelcellsworks.com/2026/10/12/h2/hrs-cuts-capital-raise-to-3-13m-after-investor-withdrawal-but-extends-cash-runway-to-february",
+   "source": "FuelCellsWorks",
+   "published_at": "2026-10-12T14:01:35Z",
+   "category": "투자·금융",
+   "region": "해외",
+   "chain": [
+    "수소생산"
+   ],
+   "importance": "중",
+   "summary": "수소 충전소 기업 HRS가 투자자 철수로 인해 자금 조달 규모를 €5M에서 €3.13M으로 축소하지만, 현금 활주로를 2월까지 연장함. 자금 조달 어려움에도 불구하고 사업 지속 시도.",
+   "collected_at": "2026-10-13T02:53:12Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "HRS"
+   ]
+  },
+  {
+   "id": "fb359ee3096f877f",
+   "title": "NEG8 Carbon Earns International Recognition For Direct Air Capture Tech",
+   "url": "https://carbonherald.com/neg8-carbon-earns-international-recognition-for-direct-air-capture-tech/?utm_source=rss&utm_medium=rss&utm_campaign=neg8-carbon-earns-international-recognition-for-direct-air-capture-tech",
+   "source": "Carbon Herald",
+   "published_at": "2026-10-12T13:39:34Z",
+   "category": "기술",
+   "region": "해외",
+   "chain": [
+    "CCUS"
+   ],
+   "importance": "하",
+   "summary": "아일랜드 기업 NEG8 Carbon이 직접공기포집(DAC) 기술로 국제상을 수상함. CCUS 기술 개발의 선례 제시.",
+   "collected_at": "2026-10-13T02:53:12Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "NEG8 Carbon",
+    "DAC"
+   ]
+  },
+  {
+   "id": "6a37511ecdd42184",
+   "title": "EU’s Carbon Removal Push Opens New Opportunities In Emerging Markets",
+   "url": "https://carbonherald.com/eus-carbon-removal-push-opens-new-opportunities-emerging-markets/?utm_source=rss&utm_medium=rss&utm_campaign=eus-carbon-removal-push-opens-new-opportunities-emerging-markets",
+   "source": "Carbon Herald",
+   "published_at": "2026-10-12T13:31:50Z",
+   "category": "정책·규제",
+   "region": "해외",
+   "chain": [],
+   "importance": "하",
+   "summary": "EU의 탄소제거 정책이 신흥시장의 기회를 확대하고 있으며, BioFlux와 Global South CDR Coalition이 관련 행사를 개최한다. 탄소제거 산업의 글로벌 확산 추세를 보여주는 사안이다.",
+   "collected_at": "2026-10-13T02:53:20Z",
+   "needs_review": true,
+   "review_reason": "도메인 밖: 밸류체인 해당 없음",
+   "tags": [
+    "EU",
+    "BioFlux",
+    "탄소제거"
+   ]
+  },
+  {
+   "id": "de2a7eb84df11c6f",
+   "title": "댄 서튼 신톨렌 대표 “지열 부족한 韓? 원전 있다”…수소 2弗 벽 깬 기업의 해법",
+   "url": "https://www.electimes.com/news/articleView.html?idxno=373298",
+   "source": "전기신문",
+   "published_at": "2026-10-12T13:08:31Z",
+   "category": "기술",
+   "region": "해외",
+   "chain": [
+    "수소생산"
+   ],
+   "importance": "중",
+   "summary": "신톨렌에너지의 댄 서튼 대표가 지열과 고온 수전해 결합을 통해 청정수소의 2달러 벽을 넘을 수 있다고 제시했다. 아이슬란드에서는 이 방식으로 kg당 1.75달러의 생산비를 달성했다. 한국은 지열 대신 원전을 활용한 같은 개념 적용을 검토하고 있다.",
+   "collected_at": "2026-10-13T02:52:53Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "신톨렌에너지",
+    "고온 수전해",
+    "원전",
+    "청정수소"
+   ]
+  },
+  {
+   "id": "0486622d0a31fed6",
+   "title": "EU Unveils €120M Horizon Europe Package For CO2 Storage, DAC, And CCUS Clusters",
+   "url": "https://carbonherald.com/eu-unveils-e120m-horizon-europe-package-for-co2-storage-dac-and-ccus-clusters/?utm_source=rss&utm_medium=rss&utm_campaign=eu-unveils-e120m-horizon-europe-package-for-co2-storage-dac-and-ccus-clusters",
+   "source": "Carbon Herald",
+   "published_at": "2026-10-12T12:36:04Z",
+   "category": "투자·금융",
+   "region": "해외",
+   "chain": [
+    "CCUS"
+   ],
+   "importance": "상",
+   "summary": "유럽위원회가 산업용 탄소관리(ICM) 기술 발전을 위해 약 1억 2천만 유로를 Horizon Europe 프로그램을 통해 할당했다. CO2 저장, DAC, CCUS 클러스터 조성에 대한 대규모 공식 투자 결정이다.",
+   "collected_at": "2026-10-13T02:53:20Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "EU",
+    "Horizon Europe",
+    "CCUS"
+   ]
+  },
+  {
+   "id": "7129dd839bb409d8",
+   "title": "New wind for hydrogen-electric shipping as GMI-PowerCell collaboration expands to four bulk carriers",
+   "url": "https://offshore-energy.biz/2026/10/12/new-wind-for-hydrogen-electric-shipping-as-gmi-powercell-collaboration-expands-to-four-bulk-carriers",
+   "source": "Offshore Energy",
+   "published_at": "2026-10-12T12:26:22Z",
+   "category": "프로젝트·계약",
+   "region": "해외",
+   "chain": [
+    "활용"
+   ],
+   "importance": "중",
+   "summary": "PowerCell이 GMI에 수소연료전지 시스템을 추가로 2척의 벌크선에 공급하기로 계약하여, 총 4척 규모의 주문으로 확대되었다. 해운 탈탄소화 부문에서 수소 연료전지 기술의 실제 적용이 확대되고 있다.",
+   "collected_at": "2026-10-13T02:53:20Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "PowerCell",
+    "GMI",
+    "수소연료전지"
+   ]
+  },
+  {
+   "id": "ccdb33fef8743358",
+   "title": "돌아온 청년들, 지방에서 내일을 열다",
+   "url": "https://www.h2news.kr/news/articleView.html?idxno=14309",
+   "source": "수소신문",
+   "published_at": "2026-10-12T12:08:01Z",
+   "category": "정책·규제",
+   "region": "국내",
+   "chain": [],
+   "importance": "하",
+   "summary": "강원 삼척시가 석탄산업 중심에서 수소산업을 성장동력으로 전환하고 있으며, 지역의 청년 창업과 일자리 창출에 기여하고 있다. 이는 지역경제 회복의 사례를 다루는 홍보성 기사이다.",
+   "collected_at": "2026-10-13T02:52:35Z",
+   "needs_review": true,
+   "review_reason": "도메인 밖: 밸류체인 해당 없음",
+   "tags": [
+    "삼척시",
+    "수소산업",
+    "지역경제",
+    "청년"
+   ]
+  },
+  {
+   "id": "283167a05577d6e4",
+   "title": "IMO Adopts Assessment Frameworks For Marine Carbon Removal",
+   "url": "https://carbonherald.com/imo-adopts-assessment-frameworks-for-marine-carbon-removal/?utm_source=rss&utm_medium=rss&utm_campaign=imo-adopts-assessment-frameworks-for-marine-carbon-removal",
+   "source": "Carbon Herald",
+   "published_at": "2026-10-12T09:08:26Z",
+   "category": "정책·규제",
+   "region": "해외",
+   "chain": [],
+   "importance": "하",
+   "summary": "국제해사기구(IMO)가 해양 탄소제거에 대한 평가 프레임워크를 채택했다. 국제해상 탄소제거 사업의 규제 기준 수립 움직임이다.",
+   "collected_at": "2026-10-13T02:53:20Z",
+   "needs_review": true,
+   "review_reason": "도메인 밖: 밸류체인 해당 없음",
+   "tags": [
+    "IMO",
+    "해양탄소제거"
+   ]
+  },
+  {
+   "id": "ddc08eb6b2f45647",
+   "title": "수소경제 주목되는 기술·제품 93. 3M의 액화수소 선박용 소재 기술",
+   "url": "https://www.h2news.kr/news/articleView.html?idxno=14286",
+   "source": "수소신문",
+   "published_at": "2026-10-12T08:55:00Z",
+   "category": "기술",
+   "region": "국내",
+   "chain": [
+    "운송·저장"
+   ],
+   "importance": "중",
+   "summary": "3M의 액화수소 선박용 소재 기술이 영하 253℃의 극저온 조건에서 탱크 기밀성을 유지하는 핵심 과제를 해결한다. 접착·실링 기술의 개발로 액화수소 해상운송의 기술적 장애물을 극복하는 데 기여한다.",
+   "collected_at": "2026-10-13T02:52:35Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "3M",
+    "액화수소",
+    "선박용소재",
+    "열절연기술"
+   ]
+  },
+  {
+   "id": "8db1e670661ac937",
+   "title": "Member Webinar | De-Risking CCS Well Construction: CRA’s Model for CAPEX Flexibility",
+   "url": "https://www.globalccsinstitute.com/member-webinar-de-risking-ccs-well-construction-cras-model-for-capex-flexibility/",
+   "source": "Global CCS Institute",
+   "published_at": "2026-10-12T08:52:41Z",
+   "category": "기술",
+   "region": "해외",
+   "chain": [
+    "CCUS"
+   ],
+   "importance": "중",
+   "summary": "Global CCS Institute 웨비나에서 내식합금(CRA) 전문 기업이 탄소포집저장(CCS) 프로젝트의 우물 설계 및 재료 솔루션을 소개했다. CCS 인프라 구축 시 핵심 기술요소인 우물 건설의 비용 유연성 방안을 다룬 사안이다.",
+   "collected_at": "2026-10-13T02:53:20Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "CRA",
+    "Global CCS Institute",
+    "CCS"
+   ]
+  },
   {
    "id": "0afcb193732577a1",
    "title": "[시장 전망] 자기 전류 센서, 2032년까지 42억 달러 규모로 급성장 예상",
