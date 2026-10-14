@@ -1,7 +1,614 @@
 {
- "generated_at": "2026-10-13T02:53:20Z",
- "count": 692,
+ "generated_at": "2026-10-14T00:57:07Z",
+ "count": 739,
  "items": [
+  {
+   "id": "772be0345bf5455e",
+   "title": "CNG·수소버스 부적합 1,351대 적발",
+   "url": "https://www.gasnews.com/news/articleView.html?idxno=127158",
+   "source": "가스신문",
+   "published_at": "2026-10-14T09:45:56Z",
+   "category": "정책·규제",
+   "region": "국내",
+   "chain": [
+    "운송·저장"
+   ],
+   "importance": "중",
+   "summary": "한국교통안전공단이 CNG·수소버스 2만여 대에 대한 하절기 특별안전점검을 실시해 1,351대의 부적합을 적발했다. 연료주입구 관련 부적합이 44.3%를 차지했으며 안전관리 강화의 필요성이 지적되고 있다.",
+   "collected_at": "2026-10-14T00:56:10Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "교통안전공단",
+    "수소버스",
+    "안전점검"
+   ]
+  },
+  {
+   "id": "c5a8d405f3c3d2b4",
+   "title": "레고, 플라스틱 블록 생산에 그린수소 기반 e-메탄올 쓴다",
+   "url": "https://www.h2news.kr/news/articleView.html?idxno=14308",
+   "source": "수소신문",
+   "published_at": "2026-10-14T08:55:00Z",
+   "category": "기술",
+   "region": "해외",
+   "chain": [
+    "수소생산",
+    "활용"
+   ],
+   "importance": "중",
+   "summary": "레고그룹이 그린수소 기반 e-메탄올을 이용한 플라스틱 부품 생산을 시작했으며, 90종 이상의 부품에 적용 중이다. 이는 산업용 e-메탄올의 상용화 사례로서 수소 기반 화학원료의 실제 활용 가능성을 보여준다.",
+   "collected_at": "2026-10-14T00:56:10Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "레고",
+    "e-메탄올",
+    "그린수소"
+   ]
+  },
+  {
+   "id": "737b6bf3376e4fa4",
+   "title": "물과 햇빛으로 수소 만드는 광전극 수명 100배 이상 늘렸다",
+   "url": "https://www.electimes.com/news/articleView.html?idxno=373385",
+   "source": "전기신문",
+   "published_at": "2026-10-14T08:35:37Z",
+   "category": "기술",
+   "region": "국내",
+   "chain": [
+    "수소생산"
+   ],
+   "importance": "중",
+   "summary": "UNIST와 성균관대 연구팀이 유기 광전극의 내구성을 중성 용액에서 기존 대비 100배 이상 향상시키는 데 성공했다. 이 기술은 햇빛으로 물에서 수소를 생산하는 방식으로, 대량 생산 가능성이 높아 수소생산 기술의 상용화 가능성을 높인다.",
+   "collected_at": "2026-10-14T00:56:23Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "UNIST",
+    "조한희",
+    "광전극"
+   ]
+  },
+  {
+   "id": "62c48e410f7e8777",
+   "title": "충남도, 보령 석탄화력 폐지 대응 수소도시 만든다",
+   "url": "https://www.todayenergy.kr/news/articleView.html?idxno=304130",
+   "source": "투데이에너지",
+   "published_at": "2026-10-14T07:53:41Z",
+   "category": "정책·규제",
+   "region": "국내",
+   "chain": [
+    "수소생산",
+    "활용"
+   ],
+   "importance": "중",
+   "summary": "충남도가 보령의 석탄화력발전소 폐지에 대응하여 수소산업 육성을 주요 정책으로 추진하고 있다. 지역경제 충격 최소화와 함께 교통망 확충, 해양관광 활성화를 병행하는 종합 발전 전략을 수립했다.",
+   "collected_at": "2026-10-14T00:56:10Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "충남도",
+    "보령",
+    "수소도시"
+   ]
+  },
+  {
+   "id": "80f3c53309eaa482",
+   "title": "가스안전공사-독일 TÜV SÜD, 수소 분야 협력 '업무협약' 체결",
+   "url": "https://www.todayenergy.kr/news/articleView.html?idxno=304128",
+   "source": "투데이에너지",
+   "published_at": "2026-10-14T07:14:07Z",
+   "category": "프로젝트·계약",
+   "region": "국내",
+   "chain": [
+    "수소생산"
+   ],
+   "importance": "중",
+   "summary": "한국가스안전공사가 독일의 글로벌 시험·인증기관 TÜV SÜD와 수소 분야 협력 업무협약을 체결했다. 이는 국내 수소기업의 기술 경쟁력 강화와 수소용품의 수출 지원을 목표로 하는 협력 체계 확대의 일환이다.",
+   "collected_at": "2026-10-14T00:56:23Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "한국가스안전공사",
+    "TÜV SÜD",
+    "수소용품"
+   ]
+  },
+  {
+   "id": "867b9217c3b03af7",
+   "title": "“GS칼텍스, 탄소포집을 쉽고 친숙하게 전달했다”",
+   "url": "https://www.energydaily.co.kr/news/articleView.html?idxno=203997",
+   "source": "에너지데일리",
+   "published_at": "2026-10-13T16:57:33Z",
+   "category": "시장·가격",
+   "region": "국내",
+   "chain": [
+    "CCUS"
+   ],
+   "importance": "하",
+   "summary": "GS칼텍스의 CCUS 기술 홍보 캠페인 'CCU-S'가 런던국제광고제에서 커뮤니케이션 부문 은상과 창의전략 부문 동상을 수상했다. 이는 마케팅 성과로, 기술 개발이나 사업 진전과는 무관한 홍보성 기사이다.",
+   "collected_at": "2026-10-14T00:56:23Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "GS칼텍스",
+    "CCU-S",
+    "런던국제광고제"
+   ]
+  },
+  {
+   "id": "88d14a9d8e1d4af6",
+   "title": "LS Materials Wins $50M Order for Ultracapacitors Used in Hydrogen Fuel-Cell Data Centres",
+   "url": "https://fuelcellsworks.com/2026/10/13/clean-technology/ls-materials-wins-51-5m-order-for-ultracapacitors-used-in-hydrogen-fuel-cell-data-centres",
+   "source": "FuelCellsWorks",
+   "published_at": "2026-10-13T16:30:17Z",
+   "category": "프로젝트·계약",
+   "region": "해외",
+   "chain": [],
+   "importance": "하",
+   "summary": "LS머트리얼즈가 미국 수소연료전지 기업에 울트라캐패시터를 공급하는 계약 체결 소식이다. 금액과 납기 등 구체적 내용은 기사 발췌에서 제공되지 않았다.",
+   "collected_at": "2026-10-14T00:56:23Z",
+   "needs_review": true,
+   "review_reason": "도메인 밖: 밸류체인 해당 없음",
+   "tags": [
+    "LS머트리얼즈",
+    "울트라캐패시터"
+   ]
+  },
+  {
+   "id": "48e77ba39ece11cc",
+   "title": "Hydrogen Storage: Fraunhofer Turns to Lasers to Make Rock Caverns Leak-Proof",
+   "url": "https://fuelcellsworks.com/2026/10/12/h2/hydrogen-storage-fraunhofer-turns-to-lasers-to-make-rock-caverns-leak-proof",
+   "source": "FuelCellsWorks",
+   "published_at": "2026-10-13T16:27:23Z",
+   "category": "기술",
+   "region": "해외",
+   "chain": [
+    "운송·저장"
+   ],
+   "importance": "중",
+   "summary": "프라운호퍼 연구소가 레이저 기술을 활용해 암석 동굴의 수소 저장 시설 누출 문제를 해결하는 방법을 개발 중이다. 수소 저장의 안정성을 높이는 기술 실증으로 의미가 있다.",
+   "collected_at": "2026-10-14T00:56:33Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "Fraunhofer",
+    "수소저장",
+    "레이저",
+    "암석동굴"
+   ]
+  },
+  {
+   "id": "ecf7dddee00f7929",
+   "title": "Daejeon Adds 50 More Hydrogen Vehicle Subsidies After 2026 Quota Sells Out Early",
+   "url": "https://fuelcellsworks.com/2026/10/11/fuel-cells/daejeon-adds-50-more-hydrogen-vehicle-subsidies-after-2026-quota-sells-out-early",
+   "source": "FuelCellsWorks",
+   "published_at": "2026-10-13T16:09:43Z",
+   "category": "정책·규제",
+   "region": "국내",
+   "chain": [
+    "활용"
+   ],
+   "importance": "중",
+   "summary": "대전시가 2026년 할당량이 조기 소진되자 수소 차량 보조금 50대를 추가 지원하기로 결정했다. 수소 자동차 보급 확대를 위한 지원 정책 동향을 보여준다.",
+   "collected_at": "2026-10-14T00:56:33Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "대전",
+    "수소자동차",
+    "보조금",
+    "2026"
+   ]
+  },
+  {
+   "id": "b3a0a9b230e2a7c0",
+   "title": "Mott MacDonald Appointed to Support East Coast Hydrogen Network Development",
+   "url": "https://fuelcellsworks.com/2026/10/08/h2/mott-macdonald-appointed-to-support-east-coast-hydrogen-network-development",
+   "source": "FuelCellsWorks",
+   "published_at": "2026-10-13T16:03:11Z",
+   "category": "프로젝트·계약",
+   "region": "해외",
+   "chain": [
+    "운송·저장"
+   ],
+   "importance": "중",
+   "summary": "Mott MacDonald가 영국 동부 지역의 수소 네트워크 개발 지원 업체로 선정되었다. 대형 인프라 프로젝트의 진행 단계를 나타내는 사례다.",
+   "collected_at": "2026-10-14T00:56:33Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "Mott MacDonald",
+    "East Coast Hydrogen Network",
+    "영국"
+   ]
+  },
+  {
+   "id": "5bd3d58686f6546a",
+   "title": "Magallanes Commission Gives Favourable Ruling on Río Verde Hydrogen Port Concession",
+   "url": "https://fuelcellsworks.com/2026/10/13/h2/magallanes-commission-gives-favourable-ruling-on-rio-verde-hydrogen-port-concession",
+   "source": "FuelCellsWorks",
+   "published_at": "2026-10-13T15:57:01Z",
+   "category": "정책·규제",
+   "region": "해외",
+   "chain": [
+    "활용"
+   ],
+   "importance": "중",
+   "summary": "마젤라네스 위원회가 리오 베르데 수소 항만 입찰에 긍정적 판정을 내렸다. 칠레 지역의 수소 수출 인프라 사업이 규제 절차를 진행 중임을 의미한다.",
+   "collected_at": "2026-10-14T00:56:33Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "Magallanes",
+    "Río Verde",
+    "칠레",
+    "수소항만"
+   ]
+  },
+  {
+   "id": "1ac8f5a184f8dc82",
+   "title": "Hy-Hybrid Energy Wins a Scotland Prestige Award 2026",
+   "url": "https://fuelcellsworks.com/2026/10/12/h2/hy-hybrid-energy-wins-a-scotland-prestige-award-2026",
+   "source": "FuelCellsWorks",
+   "published_at": "2026-10-13T15:52:01Z",
+   "category": "기술",
+   "region": "해외",
+   "chain": [],
+   "importance": "하",
+   "summary": "Hy-Hybrid Energy가 스코틀랜드 프레스티지 어워드 2026에서 수상했다. 회사의 기술 인정을 보여주는 소식이지만 구체적인 사업 영향은 제한적이다.",
+   "collected_at": "2026-10-14T00:56:33Z",
+   "needs_review": true,
+   "review_reason": "도메인 밖: 밸류체인 해당 없음",
+   "tags": [
+    "Hy-Hybrid Energy",
+    "Scotland",
+    "Award"
+   ]
+  },
+  {
+   "id": "825cb74257aad9a4",
+   "title": "Stellantis to Build Low-Cost EVs in Pomigliano Using Platform Developed With Leapmotor",
+   "url": "https://fuelcellsworks.com/2026/10/12/electric/stellantis-to-build-low-cost-evs-in-pomigliano-using-platform-developed-with-leapmotor",
+   "source": "FuelCellsWorks",
+   "published_at": "2026-10-13T15:46:42Z",
+   "category": "프로젝트·계약",
+   "region": "해외",
+   "chain": [],
+   "importance": "하",
+   "summary": "Stellantis가 Pomigliano에서 Leapmotor와 공동 개발한 플랫폼을 사용해 저비용 전기차를 생산하기로 했다. 수소·암모니아와 무관한 전기차 제조 소식이다.",
+   "collected_at": "2026-10-14T00:56:44Z",
+   "needs_review": true,
+   "review_reason": "도메인 밖: 밸류체인 해당 없음",
+   "tags": [
+    "Stellantis",
+    "Leapmotor",
+    "Pomigliano"
+   ]
+  },
+  {
+   "id": "2d65dae56b042c35",
+   "title": "Commercial Liquid Hydrogen Infrastructure Advances with New Gas-Handling System",
+   "url": "https://fuelcellsworks.com/2026/10/07/h2/lh-bog-compressor-selected-for-use-at-kawasaki-lh-terminal",
+   "source": "FuelCellsWorks",
+   "published_at": "2026-10-13T15:41:34Z",
+   "category": "기술",
+   "region": "해외",
+   "chain": [
+    "운송·저장"
+   ],
+   "importance": "중",
+   "summary": "액체 수소 인프라 분야에서 새로운 가스 처리 시스템이 개발되어 상용화가 진전되고 있다. 수소 운송의 기술적 진전을 보여주는 사례다.",
+   "collected_at": "2026-10-14T00:56:33Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "액체수소",
+    "인프라",
+    "가스처리시스템"
+   ]
+  },
+  {
+   "id": "a42a1cbd1862d689",
+   "title": "H2Accelerate Calls for Combined European Funding for Hydrogen Trucks and Refuelling Stations",
+   "url": "https://fuelcellsworks.com/2026/10/13/h2/h2accelerate-calls-for-combined-european-funding-for-hydrogen-trucks-and-refuelling-stations",
+   "source": "FuelCellsWorks",
+   "published_at": "2026-10-13T15:36:11Z",
+   "category": "정책·규제",
+   "region": "해외",
+   "chain": [
+    "활용",
+    "운송·저장"
+   ],
+   "importance": "중",
+   "summary": "H2Accelerate가 유럽 차원의 통합 펀딩을 요청해 수소 트럭과 충전소 개발을 촉진할 것을 촉구했다. 수소 운송 인프라 확충을 위한 정책 제안이다.",
+   "collected_at": "2026-10-14T00:56:33Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "H2Accelerate",
+    "유럽",
+    "수소트럭",
+    "충전소"
+   ]
+  },
+  {
+   "id": "4aa1c5cd56845a26",
+   "title": "LS일렉트릭, 美 데이터센터 현장 발전사업 배전설비 공급",
+   "url": "https://www.energy-news.co.kr/news/articleView.html?idxno=228906",
+   "source": "에너지신문",
+   "published_at": "2026-10-13T15:33:39Z",
+   "category": "프로젝트·계약",
+   "region": "해외",
+   "chain": [],
+   "importance": "중",
+   "summary": "LS일렉트릭이 미국 펜실베이니아의 데이터센터 연료전지 기반 현장발전 프로젝트에 1억 3,845만 달러 규모의 수배전설비를 공급하는 계약을 체결했다. 2027년 4월부터 7월까지 납품할 예정이다.",
+   "collected_at": "2026-10-14T00:56:10Z",
+   "needs_review": true,
+   "review_reason": "도메인 밖: 밸류체인 해당 없음",
+   "tags": [
+    "LS일렉트릭",
+    "블룸에너지",
+    "미국"
+   ]
+  },
+  {
+   "id": "7d3a885737cfe897",
+   "title": "Nyrstar Budel Pilots Sustainable Hydrogen",
+   "url": "https://fuelcellsworks.com/2026/10/12/h2/nyrstar-budel-pilots-sustainable-hydrogen",
+   "source": "FuelCellsWorks",
+   "published_at": "2026-10-13T15:25:00Z",
+   "category": "프로젝트·계약",
+   "region": "해외",
+   "chain": [
+    "수소생산"
+   ],
+   "importance": "중",
+   "summary": "Nyrstar Budel이 지속가능한 수소 생산 파일럿 프로젝트를 진행 중이다. 기존 산업 시설에서의 수소 생산 기술 실증 사례다.",
+   "collected_at": "2026-10-14T00:56:33Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "Nyrstar Budel",
+    "지속가능수소",
+    "파일럿"
+   ]
+  },
+  {
+   "id": "da39ccb6b33b34df",
+   "title": "Impact Coatings Selected as Winning Bidder in Romanian Public Tender with INLINECOATER™ IC2000",
+   "url": "https://fuelcellsworks.com/2026/10/12/fuel-cells/cell-impact-announces-acceleration-of-previously-communicated-order-from-us-customer-f28285425",
+   "source": "FuelCellsWorks",
+   "published_at": "2026-10-13T15:14:08Z",
+   "category": "프로젝트·계약",
+   "region": "해외",
+   "chain": [
+    "수소생산"
+   ],
+   "importance": "중",
+   "summary": "Impact Coatings가 루마니아의 공개 입찰에서 INLINECOATER™ IC2000 기술로 우선협상자로 선정되었다. 코팅 기술을 통한 수소 관련 장비 공급 계약으로 보인다.",
+   "collected_at": "2026-10-14T00:56:44Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "Impact Coatings",
+    "루마니아",
+    "IC2000"
+   ]
+  },
+  {
+   "id": "3f6e7cdce330c869",
+   "title": "Chinese Electrolyser Maker Guofu Ships First Unit to Egypt for Food Industry Use",
+   "url": "https://fuelcellsworks.com/2026/10/13/electrolyzer/chinese-electrolyser-maker-guofu-ships-first-unit-to-egypt-for-food-industry-use",
+   "source": "FuelCellsWorks",
+   "published_at": "2026-10-13T15:06:17Z",
+   "category": "프로젝트·계약",
+   "region": "해외",
+   "chain": [
+    "수소생산"
+   ],
+   "importance": "중",
+   "summary": "중국의 전기분해 장비 제조업체 Guofu가 이집트의 식품산업용으로 첫 번째 전기분해 장비를 납품했다. 이는 아프리카 지역 수소 생산 설비 공급 확대를 의미한다.",
+   "collected_at": "2026-10-14T00:56:44Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "Guofu",
+    "이집트",
+    "식품산업"
+   ]
+  },
+  {
+   "id": "aee2dbafde1d0884",
+   "title": "LS일렉트릭, 블룸에너지 연료전지 데이터센터 수주액 5억 달러 돌파",
+   "url": "http://www.e2news.com/news/articleView.html?idxno=335032",
+   "source": "이투뉴스",
+   "published_at": "2026-10-13T14:49:52Z",
+   "category": "프로젝트·계약",
+   "region": "해외",
+   "chain": [],
+   "importance": "중",
+   "summary": "LS일렉트릭이 블룸에너지 연료전지 기반 데이터센터 프로젝트에 1억 3845만 달러 규모 전력기자재를 공급하기로 계약했다. 미국 펜실베니아주 프로젝트로 내년 4월부터 7월까지 공급될 예정이며, 지난 1년 6개월간 블룸에너지 누적 수주액이 5억 달러에 달한다.",
+   "collected_at": "2026-10-14T00:56:23Z",
+   "needs_review": true,
+   "review_reason": "도메인 밖: 밸류체인 해당 없음",
+   "tags": [
+    "LS일렉트릭",
+    "블룸에너지",
+    "펜실베니아"
+   ]
+  },
+  {
+   "id": "6e4f6d636f83af78",
+   "title": "Saudi Arabia Signs Clean Hydrogen Cooperation Deals with Cyprus and Mauritius",
+   "url": "https://fuelcellsworks.com/2026/10/13/h2/saudi-arabia-signs-clean-hydrogen-cooperation-deals-with-cyprus-and-mauritius",
+   "source": "FuelCellsWorks",
+   "published_at": "2026-10-13T14:42:34Z",
+   "category": "정책·규제",
+   "region": "해외",
+   "chain": [
+    "수소생산"
+   ],
+   "importance": "중",
+   "summary": "사우디아라비아가 키프로스와 모리타니아와 청정수소 협력 협정을 체결했다. 중동 국가의 수소 수출 전략 확대 움직임이다.",
+   "collected_at": "2026-10-14T00:56:44Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "사우디아라비아",
+    "키프로스",
+    "모리타니아"
+   ]
+  },
+  {
+   "id": "3abc62d247955564",
+   "title": "Hyundai Hydrogen Truck Completes Two-Week Waste Collection Trial in France on One Fill Per Day",
+   "url": "https://fuelcellsworks.com/2026/10/12/fuel-cells/hyundai-hydrogen-truck-completes-two-week-waste-collection-trial-in-france-on-one-fill-per-day",
+   "source": "FuelCellsWorks",
+   "published_at": "2026-10-13T13:56:30Z",
+   "category": "프로젝트·계약",
+   "region": "해외",
+   "chain": [
+    "활용"
+   ],
+   "importance": "중",
+   "summary": "현대 수소 트럭이 프랑스에서 2주간 폐기물 수거 실증을 완료하여 1회 충전으로 일일 운영이 가능함을 입증했다. 유럽에서의 수소 상용차 실증이 활발히 진행 중이다.",
+   "collected_at": "2026-10-14T00:56:44Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "현대",
+    "프랑스",
+    "폐기물 수거"
+   ]
+  },
+  {
+   "id": "9dd5d155bafa8ef9",
+   "title": "GS칼텍스 ‘CCU-S’ 캠페인, 런던국제광고제 2관왕",
+   "url": "http://www.e2news.com/news/articleView.html?idxno=335030",
+   "source": "이투뉴스",
+   "published_at": "2026-10-13T13:56:03Z",
+   "category": "시장·가격",
+   "region": "국내",
+   "chain": [
+    "CCUS"
+   ],
+   "importance": "하",
+   "summary": "GS칼텍스의 'CCU-S' 캠페인이 런던국제광고제에서 인정받았다. CCUS 기술을 일반인 눈높이에서 전달한 커뮤니케이션 전략으로 평가받은 마케팅 사례이다.",
+   "collected_at": "2026-10-14T00:56:23Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "GS칼텍스",
+    "CCUS",
+    "런던국제광고제"
+   ]
+  },
+  {
+   "id": "232dedd50fbf2246",
+   "title": "EnergyPathways Raises £1.75 Million [$2.27M] for MESH Asset Acquisitions",
+   "url": "https://fuelcellsworks.com/2026/10/13/h2/energypathways-raises-1-75-million-2-27m-for-mesh-asset-acquisitions",
+   "source": "FuelCellsWorks",
+   "published_at": "2026-10-13T13:51:24Z",
+   "category": "투자·금융",
+   "region": "해외",
+   "chain": [
+    "운송·저장"
+   ],
+   "importance": "중",
+   "summary": "EnergyPathways가 MESH 자산 인수를 위해 175만 파운드의 자금을 조달했다. 운송·저장 인프라 관련 자산 확대를 추진하고 있다.",
+   "collected_at": "2026-10-14T00:56:44Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "EnergyPathways",
+    "MESH"
+   ]
+  },
+  {
+   "id": "9580c2bbbbfdf0c7",
+   "title": "SunHydrogen, Inc. Provides Austin Pilot Plant Update And Reports 12.3% Solar To Hydrogen Efficiency In Small Scale Lab Testing",
+   "url": "https://fuelcellsworks.com/2026/10/13/green-hydrogen/sunhydrogen-inc-provides-austin-pilot-plant-update-and-reports-12-3-percent-solar-to-hydrogen-efficiency-in-small-scale-lab-testing",
+   "source": "FuelCellsWorks",
+   "published_at": "2026-10-13T13:09:21Z",
+   "category": "기술",
+   "region": "해외",
+   "chain": [
+    "수소생산"
+   ],
+   "importance": "중",
+   "summary": "SunHydrogen이 태양광 수소 생산 기술에서 소규모 실험실 테스트에서 12.3% 효율을 달성했으며, Austin 파일럿 플랜트 업데이트를 공개했다. 태양광 직접 분해 기술의 상용화 진전이다.",
+   "collected_at": "2026-10-14T00:56:44Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "SunHydrogen",
+    "Austin",
+    "태양광수소"
+   ]
+  },
+  {
+   "id": "d1deb17fd5bdde4f",
+   "title": "India's NTPC Seeks Green Ammonia Buyers in Japan, South Korea and Germany for Pudimadaka Hydrogen Hub",
+   "url": "https://fuelcellsworks.com/2026/10/13/h2/india-s-ntpc-seeks-green-ammonia-buyers-in-japan-south-korea-and-germa",
+   "source": "FuelCellsWorks",
+   "published_at": "2026-10-13T13:04:37Z",
+   "category": "프로젝트·계약",
+   "region": "해외",
+   "chain": [
+    "암모니아"
+   ],
+   "importance": "상",
+   "summary": "인도의 NTPC가 Pudimadaka 수소허브에서 생산하는 그린 암모니아의 일본, 한국, 독일 구매자 모집을 진행 중이다. 인도발 그린 암모니아 수출 비즈니스 본격화를 의미한다.",
+   "collected_at": "2026-10-14T00:56:44Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "NTPC",
+    "Pudimadaka",
+    "그린암모니아"
+   ]
+  },
+  {
+   "id": "da7e47d0dd0b02ff",
+   "title": "LS머트리얼즈, 美 수소연료전지 기업에 '울트라캐패시터' 공급한다",
+   "url": "https://www.energydaily.co.kr/news/articleView.html?idxno=203982",
+   "source": "에너지데일리",
+   "published_at": "2026-10-13T12:12:09Z",
+   "category": "프로젝트·계약",
+   "region": "해외",
+   "chain": [],
+   "importance": "중",
+   "summary": "LS머트리얼즈가 미국 수소연료전지 기업에 5150만 달러 규모의 울트라캐패시터를 공급하는 계약을 체결했다. 이는 지난해 매출의 2.4배 규모로 업계 최대 수출 계약이며, 2027년 4월부터 1년간 납품될 예정이다.",
+   "collected_at": "2026-10-14T00:56:23Z",
+   "needs_review": true,
+   "review_reason": "도메인 밖: 밸류체인 해당 없음",
+   "tags": [
+    "LS머트리얼즈",
+    "울트라캐패시터",
+    "미국"
+   ]
+  },
+  {
+   "id": "fa7f279c63c3d78b",
+   "title": "LS머트리얼즈, 업계 최대 울트라슈퍼커패시터 수출 계약",
+   "url": "http://www.e2news.com/news/articleView.html?idxno=335029",
+   "source": "이투뉴스",
+   "published_at": "2026-10-13T12:00:00Z",
+   "category": "프로젝트·계약",
+   "region": "해외",
+   "chain": [],
+   "importance": "중",
+   "summary": "LS머트리얼즈가 미국 수소연료전지 기업을 고객으로 5150만 달러 규모의 울트라캐패시터 수출 계약을 체결했다. AI 데이터센터 전력 인프라 시장 진출의 계약으로 내년 4월부터 1년간 순차 공급 예정이다.",
+   "collected_at": "2026-10-14T00:56:23Z",
+   "needs_review": true,
+   "review_reason": "도메인 밖: 밸류체인 해당 없음",
+   "tags": [
+    "LS머트리얼즈",
+    "울트라캐패시터",
+    "AI데이터센터"
+   ]
+  },
   {
    "id": "b2be89e8ab9d0981",
    "title": "LS머트리얼즈, 美 데이터센터 전력 시장 진입… 국내 UC업계 최대 물량 수주",
@@ -73,6 +680,28 @@
    ]
   },
   {
+   "id": "6614724e1045ab76",
+   "title": "LS머트리얼즈, 미국 수소연료전지 기업에 690억 규모 UC 공급",
+   "url": "https://www.gasnews.com/news/articleView.html?idxno=127146",
+   "source": "가스신문",
+   "published_at": "2026-10-13T09:55:30Z",
+   "category": "프로젝트·계약",
+   "region": "해외",
+   "chain": [
+    "활용"
+   ],
+   "importance": "상",
+   "summary": "LS머트리얼즈가 미국 수소연료전지 기업에 5,150만 달러(약 690억원) 규모의 울트라캐패시터를 공급하는 계약을 체결했다. 이는 국내 울트라캐패시터 업계 역대 최대 규모의 수출이며 AI데이터센터 전력 인프라 시장 진출을 의미한다.",
+   "collected_at": "2026-10-14T00:56:10Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "LS머트리얼즈",
+    "울트라캐패시터",
+    "미국"
+   ]
+  },
+  {
    "id": "ef5e13c633a0f904",
    "title": "가스안전公-독일 인증기관, 수소용품 해외인증 전략적 협업",
    "url": "http://www.e2news.com/news/articleView.html?idxno=335018",
@@ -93,6 +722,273 @@
     "TÜV SÜD",
     "MOU",
     "수소용품"
+   ]
+  },
+  {
+   "id": "8955dfbb2e8945e1",
+   "title": "Green Hydrogen – From Molecules to Meals: INERATEC Delivers First Commercial Batch of e-Wax for Food Applications",
+   "url": "https://hydrogen-central.com/green-hydrogen-from-molecules-to-meals-ineratec-delivers-first-commercial-batch-of-e-wax-for-food-applications/",
+   "source": "Hydrogen Central",
+   "published_at": "2026-10-13T09:47:39Z",
+   "category": "기술",
+   "region": "해외",
+   "chain": [
+    "활용"
+   ],
+   "importance": "중",
+   "summary": "INERATEC가 수소 기반 합성 왁스(e-Wax)의 첫 상업용 배치를 식품 응용 분야에 공급했다. 이는 그린 수소 기술이 실제 식품 산업에 적용되는 단계로 진입했음을 의미한다.",
+   "collected_at": "2026-10-14T00:56:56Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "INERATEC",
+    "e-Wax",
+    "식품응용"
+   ]
+  },
+  {
+   "id": "af0f2c135e3da7e8",
+   "title": "Thyssenkrupp – hydrogen subsidiary consolidates assembly in Portugal",
+   "url": "https://hydrogen-central.com/thyssenkrupp-hydrogen-subsidiary-consolidates-assembly-in-portugal/",
+   "source": "Hydrogen Central",
+   "published_at": "2026-10-13T09:46:54Z",
+   "category": "프로젝트·계약",
+   "region": "해외",
+   "chain": [
+    "수소생산"
+   ],
+   "importance": "중",
+   "summary": "Thyssenkrupp의 수소 자회사 Nucera가 포르투갈에서 전해조 셀 조립 작업을 통합하고 있다. 전해조 셀 조립 시간 단축을 목표로 운영을 재정비하는 중이다.",
+   "collected_at": "2026-10-14T00:56:56Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "Thyssenkrupp",
+    "Nucera",
+    "포르투갈"
+   ]
+  },
+  {
+   "id": "570e05bf0a65f48d",
+   "title": "PAJARITO POWDER RAMPS UP PRODUCTION TO SUPPORT NEW FUEL CELL VEHICLE",
+   "url": "https://hydrogen-central.com/pajarito-powder-ramps-up-production-to-support-new-fuel-cell-vehicle/",
+   "source": "Hydrogen Central",
+   "published_at": "2026-10-13T09:45:10Z",
+   "category": "프로젝트·계약",
+   "region": "해외",
+   "chain": [
+    "활용"
+   ],
+   "importance": "중",
+   "summary": "Pajarito Powder가 신규 연료전지 자동차를 지원하기 위해 생산을 확대하고 있다. 연료전지 차량의 상용화 확대에 필요한 소재 공급 역량을 강화하는 움직임이다.",
+   "collected_at": "2026-10-14T00:56:56Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "Pajarito Powder",
+    "연료전지",
+    "자동차"
+   ]
+  },
+  {
+   "id": "e11f5dd56b29be0a",
+   "title": "Enagás joins the capital of digHy to enhance its renewable hydrogen plant software.",
+   "url": "https://hydrogen-central.com/enagas-joins-the-capital-of-dighy-to-enhance-its-renewable-hydrogen-plant-software/",
+   "source": "Hydrogen Central",
+   "published_at": "2026-10-13T09:44:53Z",
+   "category": "투자·금융",
+   "region": "해외",
+   "chain": [
+    "수소생산"
+   ],
+   "importance": "중",
+   "summary": "Enagás가 재생 수소 플랜트 소프트웨어 개선을 위해 digHy에 자본 참여했다. 수소 플랜트의 디지털화 및 최적화 솔루션 개발에 협력하는 전략적 투자다.",
+   "collected_at": "2026-10-14T00:56:56Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "Enagás",
+    "digHy",
+    "소프트웨어"
+   ]
+  },
+  {
+   "id": "4c25a137683b525b",
+   "title": "The University of Malaga (UMA) launches the first university micro-credential in hydrogen technologies",
+   "url": "https://hydrogen-central.com/the-university-of-malaga-uma-launches-the-first-university-micro-credential-in-hydrogen-technologies/",
+   "source": "Hydrogen Central",
+   "published_at": "2026-10-13T09:42:52Z",
+   "category": "기술",
+   "region": "해외",
+   "chain": [],
+   "importance": "하",
+   "summary": "말라가 대학교가 수소 기술 분야의 첫 대학 마이크로 자격증을 출시했다. 수소 산업 인력 양성을 위한 교육 프로그램 구축이다.",
+   "collected_at": "2026-10-14T00:56:56Z",
+   "needs_review": true,
+   "review_reason": "도메인 밖: 밸류체인 해당 없음",
+   "tags": [
+    "말라가대학교",
+    "마이크로자격증"
+   ]
+  },
+  {
+   "id": "bcd321c7f71b8ff3",
+   "title": "AVL, Shell and Fraunhofer IKTS Join Forces to Develop Solid Oxide Co-electrolysis-Based Power-To-Liquids Technology for Synthetic Aviation Fuel",
+   "url": "https://hydrogen-central.com/avl-shell-and-fraunhofer-ikts-join-forces-to-develop-solid-oxide-co-electrolysis-based-power-to-liquids-technology-for-synthetic-aviation-fuel/",
+   "source": "Hydrogen Central",
+   "published_at": "2026-10-13T09:42:41Z",
+   "category": "기술",
+   "region": "해외",
+   "chain": [
+    "수소생산",
+    "활용"
+   ],
+   "importance": "상",
+   "summary": "AVL, Shell, Fraunhofer IKTS가 고체산화물 공전해 기반 Power-to-Liquids 기술으로 합성 항공유를 개발하기로 협력했다. 항공 부문의 탈탄소화를 위한 핵심 기술 개발 프로젝트로 산업적 의미가 크다.",
+   "collected_at": "2026-10-14T00:56:56Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "Shell",
+    "AVL",
+    "Fraunhofer IKTS",
+    "합성항공유"
+   ]
+  },
+  {
+   "id": "a73248862ad8bbb4",
+   "title": "Fit Energy to Repurpose Former Mining Lands into a Fuel Cell Power Generation, Technology & Data Center Project in Newport Township",
+   "url": "https://hydrogen-central.com/fit-energy-to-repurpose-former-mining-lands-into-a-fuel-cell-power-generation-technology-data-center-project-in-newport-township/",
+   "source": "Hydrogen Central",
+   "published_at": "2026-10-13T09:40:17Z",
+   "category": "프로젝트·계약",
+   "region": "해외",
+   "chain": [
+    "활용"
+   ],
+   "importance": "중",
+   "summary": "Fit Energy가 폐광지를 연료전지 발전, 기술 및 데이터 센터 프로젝트로 재개발하고 있다. 구 광산 부지의 친환경 재활용 사례로 지역사회 가치 창출을 도모하고 있다.",
+   "collected_at": "2026-10-14T00:56:56Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "Fit Energy",
+    "Newport Township",
+    "폐광지재개발"
+   ]
+  },
+  {
+   "id": "54ad97b61f719fa0",
+   "title": "Intelligent Energy launches mobile hydrogen fuel cell power unit to replace diesel generators",
+   "url": "https://hydrogen-central.com/intelligent-energy-launches-mobile-hydrogen-fuel-cell-power-unit-to-replace-diesel-generators/",
+   "source": "Hydrogen Central",
+   "published_at": "2026-10-13T09:39:55Z",
+   "category": "기술",
+   "region": "해외",
+   "chain": [
+    "활용"
+   ],
+   "importance": "중",
+   "summary": "Intelligent Energy가 디젤 발전기를 대체하는 모바일 수소 연료전지 전원 장치 IE-GRID 4를 출시했다. 이동식 청정 에너지 솔루션으로 건설, 광산 등 현장 전력 공급 용도 시장 진출이 의미가 있다.",
+   "collected_at": "2026-10-14T00:56:56Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "Intelligent Energy",
+    "IE-GRID 4",
+    "모바일발전"
+   ]
+  },
+  {
+   "id": "2e96fbe8daf3abc9",
+   "title": "[전문가 기고] 수소 전주기 안전기술 개발 현황 세계 수소 안전기술 선도하는 국가로 자리매김 중추적 역할 수행 최선",
+   "url": "https://www.gasnews.com/news/articleView.html?idxno=127135",
+   "source": "가스신문",
+   "published_at": "2026-10-13T09:39:40Z",
+   "category": "기술",
+   "region": "국내",
+   "chain": [
+    "수소생산",
+    "운송·저장",
+    "활용"
+   ],
+   "importance": "중",
+   "summary": "한국가스안전공사 가스안전연구원이 수소 생산부터 활용까지 전주기 안전기술 개발을 추진하고 있다. 수소 생태계 조성을 위해 저장·운송·공급 전 과정의 안전성 확보를 핵심 과제로 삼고 있다.",
+   "collected_at": "2026-10-14T00:56:10Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "한국가스안전공사",
+    "수소안전기술",
+    "전주기"
+   ]
+  },
+  {
+   "id": "1f9b9f0ab9aebd94",
+   "title": "Cosmo Energy Group and Iwatani to Jointly Advance Hydrogen Business at Chiba Refinery Establishing a Supply Chain Utilizing an Existing Hydrogen Production Plant and a New Liquefied Hydrogen Plant",
+   "url": "https://hydrogen-central.com/cosmo-energy-group-and-iwatani-to-jointly-advance-hydrogen-business-at-chiba-refinery-establishing-a-supply-chain-utilizing-an-existing-hydrogen-production-plant-and-a-new-liquefied-hydrogen-plant/",
+   "source": "Hydrogen Central",
+   "published_at": "2026-10-13T09:39:24Z",
+   "category": "프로젝트·계약",
+   "region": "해외",
+   "chain": [
+    "수소생산",
+    "운송·저장"
+   ],
+   "importance": "중",
+   "summary": "Cosmo Energy Group과 Iwatani가 일본 치바 정유소에서 기존 수소생산설비와 신규 액화수소설비를 활용한 공동 사업을 추진한다. 액화수소 공급망 구축을 통해 수소 활용 확대를 목표로 한다.",
+   "collected_at": "2026-10-14T00:57:07Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "Cosmo Energy Group",
+    "Iwatani",
+    "Chiba",
+    "액화수소"
+   ]
+  },
+  {
+   "id": "67861daff980b799",
+   "title": "Perpetual Next and Lhyfe to explore renewable hydrogen supply for biomethanol facility in Delfzijl, the Netherlands",
+   "url": "https://hydrogen-central.com/perpetual-next-and-lhyfe-to-explore-renewable-hydrogen-supply-for-biomethanol-facility-in-delfzijl-the-netherlands/",
+   "source": "Hydrogen Central",
+   "published_at": "2026-10-13T09:39:04Z",
+   "category": "프로젝트·계약",
+   "region": "해외",
+   "chain": [
+    "수소생산",
+    "활용"
+   ],
+   "importance": "중",
+   "summary": "Perpetual Next와 Lhyfe가 네덜란드 Delfzijl의 바이오메탄올 시설에 재생 수소 공급을 위한 협력을 탐색 중이다. 해운 산업의 탄소감축 솔루션으로 바이오메탄올을 연료로 활용하는 방안을 검토한다.",
+   "collected_at": "2026-10-14T00:57:07Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "Perpetual Next",
+    "Lhyfe",
+    "Delfzijl",
+    "바이오메탄올"
+   ]
+  },
+  {
+   "id": "ad5dcd0a8fba2d45",
+   "title": "[2026년 가스기술사 제언] ⑩ AI와 가스안전관리, 경험의 안전에 지능을 더하다 AI시대, 가스안전관리에 대한 패러다임이 변한다",
+   "url": "https://www.gasnews.com/news/articleView.html?idxno=127134",
+   "source": "가스신문",
+   "published_at": "2026-10-13T09:30:30Z",
+   "category": "정책·규제",
+   "region": "국내",
+   "chain": [],
+   "importance": "하",
+   "summary": "2026년 가스기술사 제언 기고문으로 AI시대 가스안전관리 패러다임 변화와 산업별 안전관리 방안을 다룬 컬럼 시리즈이다. 수소생산 단가 절감 등 관련 주제가 포함되어 있다.",
+   "collected_at": "2026-10-14T00:56:10Z",
+   "needs_review": true,
+   "review_reason": "도메인 밖: 밸류체인 해당 없음",
+   "tags": [
+    "가스기술사",
+    "AI",
+    "안전관리"
    ]
   },
   {
@@ -139,6 +1035,29 @@
     "블룸에너지",
     "데이터센터",
     "연료전지"
+   ]
+  },
+  {
+   "id": "d3928b731020378b",
+   "title": "도쿄가스, e-메탄 도시가스 배관망 주입 추진",
+   "url": "https://www.gasnews.com/news/articleView.html?idxno=127140",
+   "source": "가스신문",
+   "published_at": "2026-10-13T09:03:07Z",
+   "category": "프로젝트·계약",
+   "region": "해외",
+   "chain": [
+    "수소생산",
+    "CCUS"
+   ],
+   "importance": "중",
+   "summary": "도쿄가스와 타쿠마가 청소공장 배기가스에서 회수한 CO₂와 그린수소를 활용해 e-메탄을 생산하고 도시가스 배관망에 주입하는 사업을 추진 중이다. 도쿄도의 공모사업에 선정되어 타당성 조사가 진행되고 있다.",
+   "collected_at": "2026-10-14T00:56:10Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "도쿄가스",
+    "e-메탄",
+    "CCUS"
    ]
   },
   {
@@ -402,6 +1321,30 @@
    "review_reason": "도메인 밖: 밸류체인 해당 없음",
    "tags": [
     "Bloom Energy"
+   ]
+  },
+  {
+   "id": "10ec42bf05aabade",
+   "title": "Chile inaugurates first heavy-duty hydrogen refueling station at Quilicura",
+   "url": "http://www.hydrogenfuelnews.com/chile-inaugurates-first-heavy-duty-hydrogen-refueling-station-at-quilicura/8576863/",
+   "source": "Hydrogen Fuel News",
+   "published_at": "2026-10-12T15:14:35Z",
+   "category": "프로젝트·계약",
+   "region": "해외",
+   "chain": [
+    "수소생산",
+    "운송·저장"
+   ],
+   "importance": "중",
+   "summary": "칠레 Quilicura에서 첫 번째 대형 수소 충전소가 개소되었으며, 현장 그린수소 생산과 Corfo 지원 Hidrohaul 프로그램 하의 2대 트럭 파일럿이 연계된다. 칠레의 수소 모빌리티 확대를 위한 초기 기반이 조성되고 있다.",
+   "collected_at": "2026-10-14T00:57:07Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "Walmart Chile",
+    "Copec",
+    "Quilicura",
+    "Hidrohaul"
    ]
   },
   {
@@ -826,6 +1769,99 @@
    "tags": [
     "자기전류센서",
     "마켓앤마케츠"
+   ]
+  },
+  {
+   "id": "0dc7b1c2e5d376a1",
+   "title": "Hydrogen storage in focus as EU CEO urges binding targets",
+   "url": "http://www.hydrogenfuelnews.com/hydrogen-storage-in-focus-as-eu-ceo-urges-binding-targets/8576860/",
+   "source": "Hydrogen Fuel News",
+   "published_at": "2026-10-12T02:08:28Z",
+   "category": "정책·규제",
+   "region": "해외",
+   "chain": [
+    "수소생산",
+    "운송·저장"
+   ],
+   "importance": "중",
+   "summary": "Hydrogen Europe의 CEO가 EU에 수소 저장 의무 목표 도입을 촉구하고 있다. 전해조, 파이프라인, 저장고의 동시 발전을 위한 명확한 신호 필요성을 강조하고 있다.",
+   "collected_at": "2026-10-14T00:57:07Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "Hydrogen Europe",
+    "EU",
+    "수소 저장",
+    "REPowerEU"
+   ]
+  },
+  {
+   "id": "ad00a526f952e45c",
+   "title": "France Proposes IRICC to Drive Renewable Hydrogen Demand with €80/GJ Penalty",
+   "url": "http://www.hydrogenfuelnews.com/hydrogen-news-france-proposes-iricc-to-drive-renewable-hydrogen-demand-with-80-g/8576859/",
+   "source": "Hydrogen Fuel News",
+   "published_at": "2026-10-12T02:07:30Z",
+   "category": "정책·규제",
+   "region": "해외",
+   "chain": [
+    "수소생산"
+   ],
+   "importance": "상",
+   "summary": "프랑스가 TIRUERT를 대체할 IRICC 메커니즘을 제안하며 재생 수소 쿼터와 €80/GJ 페널티를 디지털 레지스트리로 관리할 예정이다. RED III 준수와 국가 수소 목표 달성을 위한 제도적 프레임워크가 확정되고 있다.",
+   "collected_at": "2026-10-14T00:57:07Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "France",
+    "IRICC",
+    "TIRUERT",
+    "RED III"
+   ]
+  },
+  {
+   "id": "514f5b04b8ae81c7",
+   "title": "Enagás Emprende Invests in digHy’s Renewable-Hydrogen Project Design Software",
+   "url": "http://www.hydrogenfuelnews.com/green-hydrogen-production-enag-s-emprende-invests-in-dighy-s-renewable-hydrogen-/8576858/",
+   "source": "Hydrogen Fuel News",
+   "published_at": "2026-10-11T13:28:55Z",
+   "category": "투자·금융",
+   "region": "해외",
+   "chain": [
+    "수소생산"
+   ],
+   "importance": "하",
+   "summary": "Enagás Emprende가 digHy의 재생 수소 및 Power-to-X 프로젝트 설계·시뮬레이션 SaaS 플랫폼 개발을 지원하기 위해 지분 투자자가 되었다. 수소 프로젝트 개발 도구 생태계 확충이 진행 중이다.",
+   "collected_at": "2026-10-14T00:57:07Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "Enagás Emprende",
+    "digHy",
+    "SaaS",
+    "Power-to-X"
+   ]
+  },
+  {
+   "id": "1762e50c4bafe7f3",
+   "title": "Green Hydrogen Production from Waste Wood Demonstrated in Black Forest Pilot",
+   "url": "http://www.hydrogenfuelnews.com/green-hydrogen-production-from-waste-wood-demonstrated-in-black-forest-pilot/8576857/",
+   "source": "Hydrogen Fuel News",
+   "published_at": "2026-10-11T13:08:28Z",
+   "category": "기술",
+   "region": "해외",
+   "chain": [
+    "수소생산"
+   ],
+   "importance": "중",
+   "summary": "H2Wood–BlackForest 프로젝트가 폐목재에서 수소와 부산물을 생산하는 파일럿을 GROHE Technology에서 시연했다. 독일의 바이오수소 로드맵 수립에 기여하는 기술 실증 사례다.",
+   "collected_at": "2026-10-14T00:57:07Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "H2Wood",
+    "Black Forest",
+    "Germany",
+    "바이오수소"
    ]
   },
   {
