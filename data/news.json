@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-17T00:11:54Z",
- "count": 837,
+ "generated_at": "2026-10-17T23:49:03Z",
+ "count": 838,
  "items": [
   {
    "id": "2a51e30f9c92a2f4",
@@ -129,6 +129,24 @@
     "BUKO Transport BV",
     "MAN",
     "네덜란드"
+   ]
+  },
+  {
+   "id": "5020062a5bc7d79b",
+   "title": "Michelin Is Launching Michelin Ev Charge, an Innovative Solution Designed to Help Fleets Control and Reduce Their Electric Charging Costs",
+   "url": "https://fuelcellsworks.com/2026/10/14/electric/michelin-is-launching-michelin-ev-charge-an-innovative-solution-designed-to-help-fleets-control-and-reduce-their-electric-charging-costs",
+   "source": "FuelCellsWorks",
+   "published_at": "2026-10-16T15:14:20Z",
+   "category": "시장·가격",
+   "region": "해외",
+   "chain": [],
+   "importance": "하",
+   "summary": "미쉐린이 전기차 충전 비용 관리 솔루션을 출시했다. 이는 수소·암모니아·CCUS 산업과 무관한 전기차 충전 관련 뉴스다.",
+   "collected_at": "2026-10-17T23:49:03Z",
+   "needs_review": true,
+   "review_reason": "도메인 밖: 밸류체인 해당 없음",
+   "tags": [
+    "미쉐린"
    ]
   },
   {
