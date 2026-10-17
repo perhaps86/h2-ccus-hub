@@ -1,7 +1,626 @@
 {
- "generated_at": "2026-10-16T00:08:20Z",
- "count": 805,
+ "generated_at": "2026-10-17T00:11:54Z",
+ "count": 837,
  "items": [
+  {
+   "id": "2a51e30f9c92a2f4",
+   "title": "“바이오메탄·바이오수소, 산업별 활용 방식 달라야”",
+   "url": "https://www.energy-news.co.kr/news/articleView.html?idxno=229033",
+   "source": "에너지신문",
+   "published_at": "2026-10-16T19:00:00Z",
+   "category": "정책·규제",
+   "region": "국내",
+   "chain": [
+    "수소생산",
+    "활용"
+   ],
+   "importance": "중",
+   "summary": "바이오메탄과 바이오수소의 활용을 산업별 특성에 맞춰 차별화해야 한다는 주장이 제기됐다. 열원 용도 산업은 바이오메탄 직접 사용이, 반도체와 정유·석유화학은 바이오수소 전환이 필요하며, 이를 위해 수소발전 입찰 평가기준 개선과 새로운 사업모델 개발이 요구된다.",
+   "collected_at": "2026-10-17T00:11:20Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "바이오수소",
+    "바이오메탄",
+    "산업정책"
+   ]
+  },
+  {
+   "id": "d0f04d241f85d120",
+   "title": "RVK Uses First Hydrogen-Powered School Bus in Germany",
+   "url": "https://fuelcellsworks.com/2026/10/15/fuel-cells/rvk-uses-first-hydrogen-powered-school-bus-in-germany",
+   "source": "FuelCellsWorks",
+   "published_at": "2026-10-16T15:59:40Z",
+   "category": "프로젝트·계약",
+   "region": "해외",
+   "chain": [
+    "활용"
+   ],
+   "importance": "하",
+   "summary": "독일의 RVK가 수소 연료전지 학교 버스를 최초로 운영한다는 소식이다. 버스 운영을 통한 실증 프로젝트로 볼 수 있다.",
+   "collected_at": "2026-10-17T00:11:20Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "RVK",
+    "독일",
+    "연료전지버스"
+   ]
+  },
+  {
+   "id": "02ae20618d92f468",
+   "title": "EnergyPathways Plans to Market Hydrogen and Graphite as Early as 2029",
+   "url": "https://fuelcellsworks.com/2026/10/16/h2/energypathways-plans-to-market-hydrogen-and-graphite-as-early-as-2029",
+   "source": "FuelCellsWorks",
+   "published_at": "2026-10-16T15:47:21Z",
+   "category": "프로젝트·계약",
+   "region": "해외",
+   "chain": [
+    "활용"
+   ],
+   "importance": "중",
+   "summary": "EnergyPathways가 수소와 흑연을 2029년부터 상용화 계획을 발표했다. 수소 생산 및 판매를 포함한 사업 전개 시점이 구체화되었다.",
+   "collected_at": "2026-10-17T00:11:20Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "EnergyPathways",
+    "수소",
+    "흑연"
+   ]
+  },
+  {
+   "id": "4e9bcc46a56143c8",
+   "title": "Switzerland Nearly Doubles Electric Truck Charging Fund to CHF40m [$47.7M]",
+   "url": "https://fuelcellsworks.com/2026/10/14/electric/switzerland-nearly-doubles-electric-truck-charging-fund-to-chf40m-47-7m",
+   "source": "FuelCellsWorks",
+   "published_at": "2026-10-16T15:37:42Z",
+   "category": "정책·규제",
+   "region": "해외",
+   "chain": [],
+   "importance": "하",
+   "summary": "스위스가 전기 트럭 충전 인프라 기금을 4,000만 스위스 프랑으로 거의 두 배 확대했다. 수소·암모니아와 무관한 전기차 충전 정책 뉴스다.",
+   "collected_at": "2026-10-17T00:11:41Z",
+   "needs_review": true,
+   "review_reason": "도메인 밖: 밸류체인 해당 없음",
+   "tags": [
+    "스위스",
+    "전기 트럭",
+    "충전 인프라"
+   ]
+  },
+  {
+   "id": "be9a1c80f66f725a",
+   "title": "Bloom Energy SOFC System to Support AOI Taiwan Expansion",
+   "url": "https://fuelcellsworks.com/2026/10/15/clean-energy/bloom-energy-sofc-system-to-support-aoi-taiwan-expansion",
+   "source": "FuelCellsWorks",
+   "published_at": "2026-10-16T15:36:17Z",
+   "category": "프로젝트·계약",
+   "region": "해외",
+   "chain": [
+    "활용"
+   ],
+   "importance": "중",
+   "summary": "Bloom Energy의 고체산화물연료전지(SOFC) 시스템이 대만의 AOI 확장 사업에 적용된다. SOFC 기술을 통한 수소 활용 프로젝트 진행으로 기업 간 계약이 체결되었다.",
+   "collected_at": "2026-10-17T00:11:20Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "Bloom Energy",
+    "AOI Taiwan",
+    "SOFC"
+   ]
+  },
+  {
+   "id": "1b35405d0cdae86b",
+   "title": "First for BUKO Transport BV: First MAN eTGX 6X2 Tractor in the Netherlands",
+   "url": "https://fuelcellsworks.com/2026/10/16/electric/first-for-buko-transport-bv-first-man-etgx-6x2-tractor-in-the-netherlands",
+   "source": "FuelCellsWorks",
+   "published_at": "2026-10-16T15:29:38Z",
+   "category": "프로젝트·계약",
+   "region": "해외",
+   "chain": [],
+   "importance": "하",
+   "summary": "네덜란드 운송업체 BUKO Transport BV가 MAN 전기 트랙터를 도입했다. 수소·암모니아·CCUS와 무관한 전기차 사업 뉴스다.",
+   "collected_at": "2026-10-17T00:11:41Z",
+   "needs_review": true,
+   "review_reason": "도메인 밖: 밸류체인 해당 없음",
+   "tags": [
+    "BUKO Transport BV",
+    "MAN",
+    "네덜란드"
+   ]
+  },
+  {
+   "id": "08c451432fb812fa",
+   "title": "KENTECH Licenses Liquid Hydrogen Plant Design Know-How to KEPCO E&C in Record ₩500 Million Deal",
+   "url": "https://fuelcellsworks.com/2026/10/13/h2/kentech-licenses-liquid-hydrogen-plant-design-know-how-to-kepco-e-and-c-in-record-500-million-deal",
+   "source": "FuelCellsWorks",
+   "published_at": "2026-10-16T15:13:58Z",
+   "category": "프로젝트·계약",
+   "region": "국내",
+   "chain": [
+    "수소생산"
+   ],
+   "importance": "중",
+   "summary": "KENTECH가 액화수소 플랜트 설계 기술을 KEPCO E&C에 라이선싱하는 계약을 체결했다. 500억 원 규모의 기술이전 거래로, 국내 액화수소 생산 기술의 상용화를 앞당길 수 있는 성과다.",
+   "collected_at": "2026-10-17T00:11:31Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "KENTECH",
+    "KEPCO E&C",
+    "액화수소"
+   ]
+  },
+  {
+   "id": "63b37d0ae0712d6d",
+   "title": "Kawasaki and TBG Complete World-First 6-Inch Liquid Hydrogen Loading Arm",
+   "url": "https://fuelcellsworks.com/2026/10/15/h2/kawasaki-and-tbg-complete-world-first-6-inch-liquid-hydrogen-loading-arm",
+   "source": "FuelCellsWorks",
+   "published_at": "2026-10-16T15:08:31Z",
+   "category": "기술",
+   "region": "해외",
+   "chain": [
+    "수소생산",
+    "운송·저장"
+   ],
+   "importance": "중",
+   "summary": "카와사키와 TBG가 세계 최초의 6인치 액화수소 로딩암을 완성했다. 액화수소 운송 인프라의 표준화를 진전시킬 수 있는 기술 성과다.",
+   "collected_at": "2026-10-17T00:11:31Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "Kawasaki",
+    "TBG",
+    "액화수소"
+   ]
+  },
+  {
+   "id": "ab739ebc30a4262d",
+   "title": "German Consortium Scales Bipolar Plate Production for Fuel Cells and Electrolysers",
+   "url": "https://fuelcellsworks.com/2026/10/10/fuel-cells/german-consortium-scales-bipolar-plate-production-for-fuel-cells-and-electrolysers",
+   "source": "FuelCellsWorks",
+   "published_at": "2026-10-16T14:48:42Z",
+   "category": "기술",
+   "region": "해외",
+   "chain": [
+    "수소생산"
+   ],
+   "importance": "중",
+   "summary": "독일 컨소시엄이 연료전지 및 전해조용 양극판 생산을 확대하고 있다. 수소 생산 기반이 되는 전해조 핵심부품의 대량 생산 체계 구축이 진행 중이다.",
+   "collected_at": "2026-10-17T00:11:31Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "양극판",
+    "전해조",
+    "독일"
+   ]
+  },
+  {
+   "id": "061e476bc4948d0c",
+   "title": "HYDGEN Opens 20MW Electrolyser Manufacturing Facility in Mangaluru",
+   "url": "https://fuelcellsworks.com/2026/10/16/electrolyzer/hydgen-opens-20mw-electrolyser-manufacturing-facility-in-mangaluru",
+   "source": "FuelCellsWorks",
+   "published_at": "2026-10-16T14:41:56Z",
+   "category": "프로젝트·계약",
+   "region": "해외",
+   "chain": [
+    "수소생산"
+   ],
+   "importance": "중",
+   "summary": "HYDGEN이 인도 망갈루루에 20MW 규모의 전해조 제조 시설을 개설했다. 인도의 녹색수소 생산 역량 확충에 기여하는 프로젝트다.",
+   "collected_at": "2026-10-17T00:11:31Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "HYDGEN",
+    "망갈루루",
+    "전해조"
+   ]
+  },
+  {
+   "id": "1e4e16f9ab464c59",
+   "title": "Bharat Petroleum Corporation Ltd Wins Green Hydrogen Project of the Year - India at Asian Oil & Gas Awards 2026",
+   "url": "https://fuelcellsworks.com/2026/10/16/h2/bharat-petroleum-corporation-ltd-wins-green-hydrogen-project-of-the-year-india-at-asian-oil-and-gas-awards-2026",
+   "source": "FuelCellsWorks",
+   "published_at": "2026-10-16T14:30:58Z",
+   "category": "시장·가격",
+   "region": "해외",
+   "chain": [
+    "수소생산"
+   ],
+   "importance": "하",
+   "summary": "인도의 바라트석유공사(BPCL)가 2026 아시안 오일앤가스 어워드에서 녹색수소 프로젝트 우수상을 수상했다. 기업의 녹색수소 사업에 대한 업계 인정 사례다.",
+   "collected_at": "2026-10-17T00:11:31Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "BPCL",
+    "아시안 오일앤가스",
+    "녹색수소"
+   ]
+  },
+  {
+   "id": "c0273ab9060a3bb1",
+   "title": "Poland, Taiwan Sign MoU for Hydrogen Energy Development, Industrial Exchange",
+   "url": "https://fuelcellsworks.com/2026/10/16/h2/poland-taiwan-sign-mou-for-hydrogen-energy-development-industrial-exchange",
+   "source": "FuelCellsWorks",
+   "published_at": "2026-10-16T14:23:34Z",
+   "category": "정책·규제",
+   "region": "해외",
+   "chain": [
+    "수소생산"
+   ],
+   "importance": "중",
+   "summary": "폴란드와 대만이 수소 에너지 개발 및 산업 교류를 위한 양해각서를 체결했다. 양국의 수소 협력 체계 구축으로 수소 수급망 확대를 도모하고 있다.",
+   "collected_at": "2026-10-17T00:11:31Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "폴란드",
+    "대만",
+    "수소 에너지"
+   ]
+  },
+  {
+   "id": "8db9c726ee23c2c5",
+   "title": "Chubut Sets 2035 Green Hydrogen Plan With 13GW Wind Target and New Industries",
+   "url": "https://fuelcellsworks.com/2026/10/16/h2/chubut-sets-2035-green-hydrogen-plan-with-13gw-wind-target-and-new-industries",
+   "source": "FuelCellsWorks",
+   "published_at": "2026-10-16T14:15:15Z",
+   "category": "정책·규제",
+   "region": "해외",
+   "chain": [
+    "수소생산"
+   ],
+   "importance": "중",
+   "summary": "아르헨티나 추부트 주가 2035년 녹색수소 계획을 수립했으며, 13GW의 풍력 발전을 목표로 설정했다. 재생에너지 기반 수소 생산 확대를 통한 산업 육성 전략이다.",
+   "collected_at": "2026-10-17T00:11:31Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "추부트",
+    "2035년",
+    "풍력·녹색수소"
+   ]
+  },
+  {
+   "id": "ec115d0d82872f21",
+   "title": "New CATF Tool Enables Users To Evaluate Biomass Carbon Removal Protocols",
+   "url": "https://carbonherald.com/new-catf-tool-enables-users-to-evaluate-biomass-carbon-removal-protocols/?utm_source=rss&utm_medium=rss&utm_campaign=new-catf-tool-enables-users-to-evaluate-biomass-carbon-removal-protocols",
+   "source": "Carbon Herald",
+   "published_at": "2026-10-16T13:58:13Z",
+   "category": "기술",
+   "region": "해외",
+   "chain": [
+    "CCUS"
+   ],
+   "importance": "하",
+   "summary": "Clean Air Task Force(CATF)가 바이오매스 기반 탄소 제거 프로토콜을 평가할 수 있는 새로운 도구를 출시했다. CCUS 관련 평가 도구 개발의 진행 사례다.",
+   "collected_at": "2026-10-17T00:11:41Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "CATF",
+    "바이오매스 탄소 제거",
+    "평가 도구"
+   ]
+  },
+  {
+   "id": "69dde3829160551a",
+   "title": "China Shenhua Coal-to-Hydrogen Unit Runs 230 Days Without Maintenance Stop",
+   "url": "https://fuelcellsworks.com/2026/10/16/h2/china-shenhua-coal-to-hydrogen-unit-runs-230-days-without-maintenance-stop",
+   "source": "FuelCellsWorks",
+   "published_at": "2026-10-16T13:52:37Z",
+   "category": "기술",
+   "region": "해외",
+   "chain": [
+    "수소생산"
+   ],
+   "importance": "중",
+   "summary": "중국 선화가 석탄 개질 수소 생산 장치를 230일간 연속 가동했다. 석탄 기반 수소 생산 기술의 안정성과 내구성을 입증하는 성과다.",
+   "collected_at": "2026-10-17T00:11:31Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "China Shenhua",
+    "석탄 개질",
+    "수소"
+   ]
+  },
+  {
+   "id": "79b2c2b245c80ac9",
+   "title": "Pure One Hydrogen Trucks to Enter NSW Council Waste Collection Trials with Solo Resource Recovery",
+   "url": "https://fuelcellsworks.com/2026/10/16/fuel-cells/pure-one-hydrogen-trucks-to-enter-nsw-council-waste-collection-trials-with-solo-resource-recovery",
+   "source": "FuelCellsWorks",
+   "published_at": "2026-10-16T13:42:38Z",
+   "category": "프로젝트·계약",
+   "region": "해외",
+   "chain": [
+    "수소생산",
+    "운송·저장"
+   ],
+   "importance": "중",
+   "summary": "Pure One의 수소 트럭이 호주 NSW 지역 폐기물 수집 업체와의 시범 사업에 진입했다. 이는 수소 연료 트럭의 실제 폐기물 수집 운영 환경에서의 실증을 의미한다.",
+   "collected_at": "2026-10-17T00:11:41Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "Pure One",
+    "Solo Resource Recovery",
+    "NSW",
+    "수소 트럭"
+   ]
+  },
+  {
+   "id": "87a83b3cb995b11f",
+   "title": "US DOE Plans Hydrogen Pipeline Blending Pilot Under Proposed Up to $60 Million Funding Programme",
+   "url": "https://fuelcellsworks.com/2026/10/16/h2/us-doe-plans-hydrogen-pipeline-blending-pilot-under-proposed-up-to-60-million-funding-programme",
+   "source": "FuelCellsWorks",
+   "published_at": "2026-10-16T13:12:11Z",
+   "category": "정책·규제",
+   "region": "해외",
+   "chain": [
+    "수소생산",
+    "운송·저장"
+   ],
+   "importance": "중",
+   "summary": "미국 에너지부(DOE)가 수소-천연가스 혼합 파이프라인 시범 사업에 최대 6,000만 달러 규모의 자금 지원을 계획 중이다. 기존 가스 인프라를 활용한 수소 운송 경로 개척의 정책적 추진으로 볼 수 있다.",
+   "collected_at": "2026-10-17T00:11:41Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "US DOE",
+    "수소 파이프라인",
+    "혼합 운송"
+   ]
+  },
+  {
+   "id": "cdc62f436d846fdb",
+   "title": "Greentech Hydrogen Closes First Tranche of C$895,000 Private Placement",
+   "url": "https://fuelcellsworks.com/2026/10/16/h2/greentech-hydrogen-closes-first-tranche-of-c-895-000-private-placement",
+   "source": "FuelCellsWorks",
+   "published_at": "2026-10-16T13:03:44Z",
+   "category": "투자·금융",
+   "region": "해외",
+   "chain": [
+    "수소생산"
+   ],
+   "importance": "하",
+   "summary": "캐나다의 Greentech Hydrogen이 펀딩 라운드의 첫 번째 트렌치로 약 89.5만 캐나다 달러를 조달했다. 초기 자금 조성 단계의 민간 투자 사례다.",
+   "collected_at": "2026-10-17T00:11:41Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "Greentech Hydrogen",
+    "캐나다",
+    "자금 조달"
+   ]
+  },
+  {
+   "id": "3bc3e42f4439f8d8",
+   "title": "전기안전공사 에너지저장연구센터, K-배터리 경쟁력 강화 거점 도약",
+   "url": "https://www.electimes.com/news/articleView.html?idxno=373428",
+   "source": "전기신문",
+   "published_at": "2026-10-16T13:00:00Z",
+   "category": "기술",
+   "region": "국내",
+   "chain": [
+    "운송·저장"
+   ],
+   "importance": "하",
+   "summary": "전기안전공사 에너지저장연구센터가 ESS 안전관리의 초점을 화재 예방에서 성능 검증과 산업 경쟁력 강화로 확대하고 있다. 전북 완주군 봉동읍 센터에는 태양광·ESS·수소연료전지 실증시설이 구축되어 있으나, 수소·암모니아·CCUS와의 직접적 연관성은 제한적이다.",
+   "collected_at": "2026-10-17T00:11:20Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "전기안전공사",
+    "ESS",
+    "에너지저장"
+   ]
+  },
+  {
+   "id": "e30d3d80c98e8eb1",
+   "title": "ADB and Japan Back AM Green’s 1.1-Million-Tonne Green Ammonia Plant with $100M Loan",
+   "url": "https://fuelcellsworks.com/2026/10/16/energy-innovation/adb-and-japan-back-am-green-s-1-1-million-tonne-green-ammonia-plant-with-100m-loan",
+   "source": "FuelCellsWorks",
+   "published_at": "2026-10-16T12:32:07Z",
+   "category": "투자·금융",
+   "region": "해외",
+   "chain": [
+    "암모니아"
+   ],
+   "importance": "상",
+   "summary": "아시아개발은행(ADB)과 일본이 AM Green의 110만 톤 규모 그린 암모니아 생산 시설에 1억 달러 대출을 지원하기로 결정했다. 대규모 암모니아 생산 프로젝트의 자금 조달 확보로 사업 추진이 가시화되었다.",
+   "collected_at": "2026-10-17T00:11:41Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "AM Green",
+    "ADB",
+    "그린 암모니아",
+    "인도"
+   ]
+  },
+  {
+   "id": "e37197a099b400d4",
+   "title": "CSIRO Scientists Are Carving A Path For CO2 Mineralization In Australia",
+   "url": "https://carbonherald.com/csiro-scientists-are-carving-a-path-for-co2-mineralization-in-australia/?utm_source=rss&utm_medium=rss&utm_campaign=csiro-scientists-are-carving-a-path-for-co2-mineralization-in-australia",
+   "source": "Carbon Herald",
+   "published_at": "2026-10-16T12:15:46Z",
+   "category": "기술",
+   "region": "해외",
+   "chain": [
+    "CCUS"
+   ],
+   "importance": "중",
+   "summary": "호주 국립 과학 기관 CSIRO가 CO2 광물화 기술 개발을 위한 근거 자료를 수집 중이다. 호주에서 CCUS 기술의 상용화 가능성을 검토하는 단계로 평가된다.",
+   "collected_at": "2026-10-17T00:11:41Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "CSIRO",
+    "호주",
+    "CO2 광물화"
+   ]
+  },
+  {
+   "id": "db336a89ffb2127e",
+   "title": "INPEX Secures Landmark Offshore Carbon Storage Approval In Australia",
+   "url": "https://carbonherald.com/inpex-secures-landmark-offshore-carbon-storage-approval-in-australia/?utm_source=rss&utm_medium=rss&utm_campaign=inpex-secures-landmark-offshore-carbon-storage-approval-in-australia",
+   "source": "Carbon Herald",
+   "published_at": "2026-10-16T11:38:49Z",
+   "category": "정책·규제",
+   "region": "해외",
+   "chain": [
+    "CCUS"
+   ],
+   "importance": "상",
+   "summary": "호주 정부가 보나파르트 분지의 웨스트 페론 지질 구조를 공식적으로 탄소 저장소로 지정했다. INPEX의 해상 탄소 저장 프로젝트가 정부 승인을 확보함으로써 사업 실행 가능성이 높아졌다.",
+   "collected_at": "2026-10-17T00:11:54Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "INPEX",
+    "호주",
+    "웨스트 페론"
+   ]
+  },
+  {
+   "id": "c81b7597c66659de",
+   "title": "GIST, 친환경 태양광 수소 생산용 고효율 광전극 개발",
+   "url": "https://www.todayenergy.kr/news/articleView.html?idxno=304264",
+   "source": "투데이에너지",
+   "published_at": "2026-10-16T11:15:06Z",
+   "category": "기술",
+   "region": "국내",
+   "chain": [
+    "수소생산"
+   ],
+   "importance": "중",
+   "summary": "DGIST와 국민대 연구팀이 물 기반 저전압 공정으로 태양광 수소 생산용 고효율 광전극을 개발했으며, 광전류 성능을 10배 이상 향상시켰다. 나노결정 표면을 친수성 분자로 개질하고 수계 전기영동증착 공정을 적용한 기술이다.",
+   "collected_at": "2026-10-17T00:11:20Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "DGIST",
+    "태양광수소",
+    "광전극",
+    "나노결정"
+   ]
+  },
+  {
+   "id": "0aae16e79ded9298",
+   "title": "Wood Mackenzie: Global CO2 Transport Market To Reach $211B By 2060",
+   "url": "https://carbonherald.com/wood-mackenzie-global-co2-transport-market-to-reach-211b-by-2060/?utm_source=rss&utm_medium=rss&utm_campaign=wood-mackenzie-global-co2-transport-market-to-reach-211b-by-2060",
+   "source": "Carbon Herald",
+   "published_at": "2026-10-16T11:13:41Z",
+   "category": "시장·가격",
+   "region": "해외",
+   "chain": [
+    "CCUS",
+    "운송·저장"
+   ],
+   "importance": "중",
+   "summary": "우드 맥켄지에 따르면 글로벌 CO2 운송 인프라 투자가 2060년까지 2,110억 달러에 달할 것으로 예측된다. CCUS 가치사슬의 운송·저장 부문이 시장 규모 측면에서 주목할 만한 성장 잠재력을 보유하고 있음을 시사한다.",
+   "collected_at": "2026-10-17T00:11:54Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "목재맥켄지",
+    "CO2 운송",
+    "시장전망"
+   ]
+  },
+  {
+   "id": "ffdb32a7bc02b204",
+   "title": "수전해 확대 또 다른 변수 ‘물’...유럽 사례로 본 과제",
+   "url": "https://www.h2news.kr/news/articleView.html?idxno=14310",
+   "source": "수소신문",
+   "published_at": "2026-10-16T09:20:53Z",
+   "category": "기술",
+   "region": "국내",
+   "chain": [
+    "수소생산"
+   ],
+   "importance": "중",
+   "summary": "정부의 K-GX 전략에 따라 수전해 기술 국산화와 대규모 실증을 추진하는 가운데, 원료수 확보와 수처리 비용, 생산시설 입지에 따른 환경 영향 등 수자원 관리가 함께 검토해야 할 과제로 대두되고 있다. 2028~2034년 50MW급 국산 수전해 플랜트 R&D와 2030년부터 생산 실증단지 구축을 계획 중이다.",
+   "collected_at": "2026-10-17T00:11:20Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "K-GX",
+    "수전해",
+    "수자원관리"
+   ]
+  },
+  {
+   "id": "3fddcc30b353ced0",
+   "title": "DGIST, 친환경 태양광 수소 생산 기술 개발",
+   "url": "https://www.gasnews.com/news/articleView.html?idxno=127196",
+   "source": "가스신문",
+   "published_at": "2026-10-16T09:10:00Z",
+   "category": "기술",
+   "region": "국내",
+   "chain": [
+    "수소생산"
+   ],
+   "importance": "중",
+   "summary": "DGIST와 국민대 연구팀이 태양광을 이용한 수소 생산에서 기존 TiO2 소재의 한계를 극복하기 위해 은·비스무트계 나노소재를 결합한 고효율 광전극을 개발했다. 저전압 공정으로 친환경 수소 생산이 가능해져 실용화 가능성이 높아졌다.",
+   "collected_at": "2026-10-17T00:11:20Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "DGIST",
+    "국민대학교",
+    "태양광수소",
+    "광전극"
+   ]
+  },
+  {
+   "id": "de551007c055a6a4",
+   "title": "Climate-Vulnerable Countries Launch Handbook To Attract Carbon Finance",
+   "url": "https://carbonherald.com/climate-vulnerable-countries-launch-handbook-to-attract-carbon-finance/?utm_source=rss&utm_medium=rss&utm_campaign=climate-vulnerable-countries-launch-handbook-to-attract-carbon-finance",
+   "source": "Carbon Herald",
+   "published_at": "2026-10-16T08:51:58Z",
+   "category": "정책·규제",
+   "region": "해외",
+   "chain": [],
+   "importance": "하",
+   "summary": "기후변화 취약국들이 탄소금융 유치를 위한 핸드북을 출범했다. 탄소금융 지원 체계 구축에 관한 가이드라인으로, 정책 홍보성 성격이 강하다.",
+   "collected_at": "2026-10-17T00:11:54Z",
+   "needs_review": true,
+   "review_reason": "도메인 밖: 밸류체인 해당 없음",
+   "tags": [
+    "CVF-V20",
+    "탄소금융",
+    "기후변화"
+   ]
+  },
+  {
+   "id": "a73a41c32168d770",
+   "title": "Frontier Strikes $12 Million Deal With 44.01 To Turn CO2 Into Rock In UAE",
+   "url": "https://carbonherald.com/frontier-strikes-12-million-deal-with-44-01-to-turn-co2-into-rock-in-uae/?utm_source=rss&utm_medium=rss&utm_campaign=frontier-strikes-12-million-deal-with-44-01-to-turn-co2-into-rock-in-uae",
+   "source": "Carbon Herald",
+   "published_at": "2026-10-15T20:05:27Z",
+   "category": "투자·금융",
+   "region": "해외",
+   "chain": [
+    "CCUS"
+   ],
+   "importance": "중",
+   "summary": "프론티어가 UAE의 44.01과 1,170만 달러 규모의 탄소 제거 오프테이크 계약을 체결했다. CO2를 암석으로 전환하는 탄소 제거 기술의 상업화 단계 진입을 의미한다.",
+   "collected_at": "2026-10-17T00:11:54Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "Frontier",
+    "44.01",
+    "UAE"
+   ]
+  },
   {
    "id": "a069a0176baa9841",
    "title": "Lombardy's First Open-Market Hydrogen Valley Opens on Former Paper Mill Site",
@@ -251,6 +870,26 @@
    ]
   },
   {
+   "id": "cf61f6959c94bda9",
+   "title": "CarbonFarm Secures Nearly $8M In Funding To Tackle Methane Emissions From Rice Cultivation",
+   "url": "https://carbonherald.com/carbonfarm-secures-nearly-8m-in-funding-to-tackle-methane-emissions-from-rice-cultivation/?utm_source=rss&utm_medium=rss&utm_campaign=carbonfarm-secures-nearly-8m-in-funding-to-tackle-methane-emissions-from-rice-cultivation",
+   "source": "Carbon Herald",
+   "published_at": "2026-10-15T14:13:56Z",
+   "category": "투자·금융",
+   "region": "해외",
+   "chain": [],
+   "importance": "하",
+   "summary": "파리 기반 기후기술 스타트업 카본팜이 벼 재배 메탄 배출 저감을 위해 약 800만 달러를 유치했다. 농업 메탄 감축 기술로, 수소·암모니아·CCUS 산업과 직접 연관성이 없다.",
+   "collected_at": "2026-10-17T00:11:54Z",
+   "needs_review": true,
+   "review_reason": "도메인 밖: 밸류체인 해당 없음",
+   "tags": [
+    "CarbonFarm",
+    "메탄",
+    "파리"
+   ]
+  },
+  {
    "id": "17ada537aa5a0818",
    "title": "JERA Invests in Bill Gates-Backed Koloma to Explore Natural Hydrogen as Future Energy Source",
    "url": "https://fuelcellsworks.com/2026/10/15/green-hydrogen/jera-invests-in-bill-gates-backed-koloma-to-explore-natural-hydrogen-as-future-energy-source",
@@ -340,6 +979,29 @@
    ]
   },
   {
+   "id": "09450aa01c523542",
+   "title": "Cheshire East Council Unanimously Rejects $6.6B Peak Cluster CO2 Pipeline",
+   "url": "https://carbonherald.com/cheshire-east-council-unanimously-rejects-6-6b-peak-cluster-co2-pipeline/?utm_source=rss&utm_medium=rss&utm_campaign=cheshire-east-council-unanimously-rejects-6-6b-peak-cluster-co2-pipeline",
+   "source": "Carbon Herald",
+   "published_at": "2026-10-15T13:01:08Z",
+   "category": "정책·규제",
+   "region": "해외",
+   "chain": [
+    "CCUS",
+    "운송·저장"
+   ],
+   "importance": "중",
+   "summary": "영국 체셔이스트 카운슬이 50억 파운드 규모의 피크 클러스터 CO2 파이프라인 사업에 공식적으로 반대했다. 지역 사회의 승인 거부로 인해 영국의 주요 CCUS 인프라 프로젝트 실행에 장애가 발생했다.",
+   "collected_at": "2026-10-17T00:11:54Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "Cheshire East",
+    "Peak Cluster",
+    "CO2 파이프라인"
+   ]
+  },
+  {
    "id": "27e3a8f32e69c7af",
    "title": "IEEFA: Australia Must Look Beyond China for Green Hydrogen-Based Iron Exports",
    "url": "https://fuelcellsworks.com/2026/10/15/h2/ieefa-australia-must-look-beyond-china-for-green-iron-exports",
@@ -426,6 +1088,28 @@
    ]
   },
   {
+   "id": "45df5ebef4764d8c",
+   "title": "University Of Houston Demonstrates 90% Carbon Capture Efficiency To Address AI Energy Demand",
+   "url": "https://carbonherald.com/university-of-houston-demonstrates-90-carbon-capture-efficiency-to-address-ai-energy-demand/?utm_source=rss&utm_medium=rss&utm_campaign=university-of-houston-demonstrates-90-carbon-capture-efficiency-to-address-ai-energy-demand",
+   "source": "Carbon Herald",
+   "published_at": "2026-10-15T12:05:09Z",
+   "category": "기술",
+   "region": "해외",
+   "chain": [
+    "CCUS"
+   ],
+   "importance": "중",
+   "summary": "휴스턴 대학 연구진이 90% 탄소 포집 효율을 달성한 용기식 탄소 포집 시스템을 개발했다. AI 에너지 수요 증가로 인한 배출량 감축 기술로, CCUS 효율성 개선 사례이다.",
+   "collected_at": "2026-10-17T00:11:54Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "휴스턴 대학",
+    "탄소 포집",
+    "90%"
+   ]
+  },
+  {
    "id": "805a933f92ab9193",
    "title": "TS, 하절기 CNG·수소 버스 안전점검… 연료주입구 부적합 44.3%",
    "url": "https://www.todayenergy.kr/news/articleView.html?idxno=304207",
@@ -444,6 +1128,28 @@
    "tags": [
     "한국교통안전공단",
     "수소버스"
+   ]
+  },
+  {
+   "id": "07ec8aab8bdb9e70",
+   "title": "Gevo Signs First Multi-Year Carbon Removal Credit Supply Deal",
+   "url": "https://carbonherald.com/gevo-signs-first-multi-year-carbon-removal-credit-supply-deal/?utm_source=rss&utm_medium=rss&utm_campaign=gevo-signs-first-multi-year-carbon-removal-credit-supply-deal",
+   "source": "Carbon Herald",
+   "published_at": "2026-10-15T09:38:24Z",
+   "category": "투자·금융",
+   "region": "해외",
+   "chain": [
+    "CCUS"
+   ],
+   "importance": "중",
+   "summary": "재생연료 기업 지보(NASDAQ: GEVO)가 탄소 관리 플랫폼 CEEZER와 3년간의 탄소 제거 신용 공급 계약을 체결했다. 탄소 제거 신용 시장의 다년계약 거래 사례로, 장기 사업 안정성 확보를 의미한다.",
+   "collected_at": "2026-10-17T00:11:54Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "Gevo",
+    "CEEZER",
+    "탄소 제거"
    ]
   },
   {
