@@ -1,7 +1,75 @@
 {
- "generated_at": "2026-10-17T23:49:03Z",
- "count": 838,
+ "generated_at": "2026-10-18T23:57:53Z",
+ "count": 849,
  "items": [
+  {
+   "id": "0e33fec8bed44108",
+   "title": "-수소 생산부터 충전 로봇까지…WHE 혁신기술 14개사 본선 진출",
+   "url": "https://www.energydaily.co.kr/news/articleView.html?idxno=204151",
+   "source": "에너지데일리",
+   "published_at": "2026-10-19T07:32:08Z",
+   "category": "기술",
+   "region": "국내",
+   "chain": [
+    "수소생산",
+    "운송·저장",
+    "활용"
+   ],
+   "importance": "중",
+   "summary": "World Hydrogen Expo 2026에서 수소 생산 효율화, 초고압 압축기, 연료전지, 충전 로봇 등 14개 기업의 기술이 경쟁한다. 생산부터 활용까지 산업 전반의 기술 수준을 보여주는 행사로, 기술적 성과가 실제 수요와 사업으로 이어지는지가 관건이다.",
+   "collected_at": "2026-10-18T23:57:47Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "World Hydrogen Expo 2026",
+    "한국수소연합",
+    "수소충전"
+   ]
+  },
+  {
+   "id": "4261ff108f81e592",
+   "title": "Cryo-Adsorption with MOFs May Extend Liquid Hydrogen Storage to 221 Days",
+   "url": "http://www.hydrogenfuelnews.com/cryo-adsorption-with-mofs-may-extend-liquid-hydrogen-storage-to-221-days/8576904/",
+   "source": "Hydrogen Fuel News",
+   "published_at": "2026-10-17T12:18:46Z",
+   "category": "기술",
+   "region": "해외",
+   "chain": [
+    "운송·저장"
+   ],
+   "importance": "중",
+   "summary": "UNIST 연구팀이 금속유기골격체(IRMOF-20)를 이용해 액화수소의 진공단열 저장 기간을 64일에서 221일로 연장하는 기술을 모델링했다. 수소의 장기 보관 성능 97%를 유지하면서 저장 기간을 획기적으로 늘릴 수 있는 기술이다.",
+   "collected_at": "2026-10-18T23:57:47Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "UNIST",
+    "IRMOF-20",
+    "액화수소저장"
+   ]
+  },
+  {
+   "id": "2af4d85caf49aa0f",
+   "title": "France Advances Natural Hydrogen Exploration with 3.7 km PTH-2 Well in Lorraine",
+   "url": "http://www.hydrogenfuelnews.com/france-advances-natural-hydrogen-exploration-with-3-7-km-pth-2-well-in-lorraine/8576902/",
+   "source": "Hydrogen Fuel News",
+   "published_at": "2026-10-16T23:09:38Z",
+   "category": "프로젝트·계약",
+   "region": "해외",
+   "chain": [
+    "수소생산"
+   ],
+   "importance": "중",
+   "summary": "FDE가 프랑스 로렌 지역에서 자연수소 탐사 시추공 PTH-2를 3,655m까지 천공했으며, 용해 수소 농도가 최대 49.6%에 달하는 결과를 기록했다. 다음 단계로 유량 테스트와 자원 인증이 진행될 예정이다.",
+   "collected_at": "2026-10-18T23:57:47Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "FDE",
+    "Lorraine",
+    "자연수소"
+   ]
+  },
   {
    "id": "2a51e30f9c92a2f4",
    "title": "“바이오메탄·바이오수소, 산업별 활용 방식 달라야”",
@@ -553,6 +621,74 @@
    ]
   },
   {
+   "id": "9f4789ffcb56b7e9",
+   "title": "EWE and VERBUND launch 500 MW green hydrogen project in Nordenham",
+   "url": "http://www.hydrogenfuelnews.com/ewe-and-verbund-launch-500-mw-green-hydrogen-project-in-nordenham/8576901/",
+   "source": "Hydrogen Fuel News",
+   "published_at": "2026-10-16T10:15:24Z",
+   "category": "프로젝트·계약",
+   "region": "해외",
+   "chain": [
+    "수소생산",
+    "운송·저장"
+   ],
+   "importance": "중",
+   "summary": "EWE AG와 VERBUND AG가 독일 노르덴함에 500MW 규모의 그린수소 전해조를 건설하기로 합의했으며, 연간 50,000톤 생산을 목표로 독일 수소 핵심 네트워크에 직접 연결할 계획이다. 유럽의 수소 인프라 구축을 위한 주요 프로젝트이다.",
+   "collected_at": "2026-10-18T23:57:47Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "EWE",
+    "VERBUND",
+    "Nordenham",
+    "그린수소"
+   ]
+  },
+  {
+   "id": "f221b875b03f5e8c",
+   "title": "Hydrogen production expansion unlikely to strain Europe’s freshwater supplies",
+   "url": "http://www.hydrogenfuelnews.com/hydrogen-production-expansion-unlikely-to-strain-europe-s-freshwater-supplies/8576900/",
+   "source": "Hydrogen Fuel News",
+   "published_at": "2026-10-16T10:13:10Z",
+   "category": "시장·가격",
+   "region": "해외",
+   "chain": [
+    "수소생산"
+   ],
+   "importance": "하",
+   "summary": "JRC 연구에 따르면 유럽의 수소 생산 확대가 대부분의 지역 담수 공급에 제한적 압력만 미칠 것으로 예상되지만, 남유럽은 기후변화 시나리오에서 지역적 위험에 노출될 수 있다. 수소 산업 확대의 환경 영향 평가 연구로 의미가 있다.",
+   "collected_at": "2026-10-18T23:57:47Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "JRC",
+    "유럽",
+    "담수공급"
+   ]
+  },
+  {
+   "id": "ff52fb09ed605e9c",
+   "title": "Hydrogen Infrastructure: Wyoming Study Charts US Pipeline Costs and Emissions",
+   "url": "http://www.hydrogenfuelnews.com/hydrogen-infrastructure-wyoming-study-charts-us-pipeline-costs-and-emissions/8576898/",
+   "source": "Hydrogen Fuel News",
+   "published_at": "2026-10-16T10:09:42Z",
+   "category": "기술",
+   "region": "해외",
+   "chain": [
+    "운송·저장"
+   ],
+   "importance": "중",
+   "summary": "와이오밍 대학교 연구팀이 미국 수소 파이프라인 비용 모델이 건설비를 과소평가했으며, 신규 파이프라인과 전용 파이프라인 간 지역별 비용과 배출량 편차가 있음을 밝혔다. 미국의 수소 인프라 구축 계획 수립에 기초가 될 실증 데이터이다.",
+   "collected_at": "2026-10-18T23:57:47Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "University of Wyoming",
+    "미국",
+    "파이프라인비용"
+   ]
+  },
+  {
    "id": "ffdb32a7bc02b204",
    "title": "수전해 확대 또 다른 변수 ‘물’...유럽 사례로 본 과제",
    "url": "https://www.h2news.kr/news/articleView.html?idxno=14310",
@@ -615,6 +751,29 @@
     "CVF-V20",
     "탄소금융",
     "기후변화"
+   ]
+  },
+  {
+   "id": "ffc96f5f9fdfaaba",
+   "title": "AEP to Invest $4B in 702 MW Bloom Energy Fuel Cell Plant for Google in Wyoming",
+   "url": "http://www.hydrogenfuelnews.com/aep-to-invest-4b-in-702-mw-bloom-energy-fuel-cell-plant-for-google-in-wyoming/8576896/",
+   "source": "Hydrogen Fuel News",
+   "published_at": "2026-10-15T21:09:12Z",
+   "category": "투자·금융",
+   "region": "해외",
+   "chain": [
+    "활용"
+   ],
+   "importance": "상",
+   "summary": "AEP가 블룸 에너지의 702MW 연료전지 발전소 건설에 40억 달러를 투자하여 구글에 20년간 전력을 공급하기로 계약했으며, 탄소 포집을 목표로 설정했다. 대규모 기업 간 장기 전력 구매 계약(PPA)으로 연료전지 활용 확대를 보여주는 사안이다.",
+   "collected_at": "2026-10-18T23:57:47Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "AEP",
+    "Bloom Energy",
+    "Google",
+    "Wyoming"
    ]
   },
   {
@@ -1193,6 +1352,100 @@
     "액화수소센터",
     "규제자유특구",
     "동해시"
+   ]
+  },
+  {
+   "id": "de0288ea57600822",
+   "title": "Hydrogen Production Potential Indicated by Philippine Native Hydrogen Survey",
+   "url": "http://www.hydrogenfuelnews.com/hydrogen-production-potential-indicated-by-philippine-native-hydrogen-survey/8576895/",
+   "source": "Hydrogen Fuel News",
+   "published_at": "2026-10-15T08:14:30Z",
+   "category": "프로젝트·계약",
+   "region": "해외",
+   "chain": [
+    "수소생산"
+   ],
+   "importance": "중",
+   "summary": "Koloma가 필리핀 판가시난에서 수행한 지진파 및 항공 측량에서 자연수소의 지구물리학적 징후를 발견했으며, 필리핀이 DOE 광구 계약 체계 하에서 자연수소 탐사를 주도하고 있다. 아시아 태평양 지역의 자연수소 개발 잠재력을 보여주는 사례이다.",
+   "collected_at": "2026-10-18T23:57:47Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "Koloma",
+    "Pangasinan",
+    "필리핀",
+    "자연수소"
+   ]
+  },
+  {
+   "id": "cef092b1ecede826",
+   "title": "Green Hydrogen Production Advances with 2.5 MW Electrolyzer Launch in Navarra",
+   "url": "http://www.hydrogenfuelnews.com/green-hydrogen-production-advances-with-2-5-mw-electrolyzer-launch-in-navarra/8576894/",
+   "source": "Hydrogen Fuel News",
+   "published_at": "2026-10-15T08:10:21Z",
+   "category": "기술",
+   "region": "해외",
+   "chain": [
+    "수소생산"
+   ],
+   "importance": "중",
+   "summary": "Nordex Electrolyzers가 스페인 나바라에서 설계·시험한 2.5MW 고압 알칼리 전해조 NX2500을 출시했다. 이는 그린수소 생산 설비의 국내 제조 이정표를 나타낸다.",
+   "collected_at": "2026-10-18T23:57:53Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "Nordex Electrolyzers",
+    "나바라",
+    "NX2500",
+    "전해조"
+   ]
+  },
+  {
+   "id": "ddec0a0d3e42e38e",
+   "title": "India’s Green Hydrogen Production Stumbles on Standards Gaps, BCG Warns",
+   "url": "http://www.hydrogenfuelnews.com/india-s-green-hydrogen-production-stumbles-on-standards-gaps-bcg-warns/8576892/",
+   "source": "Hydrogen Fuel News",
+   "published_at": "2026-10-15T08:09:22Z",
+   "category": "정책·규제",
+   "region": "해외",
+   "chain": [
+    "수소생산",
+    "운송·저장",
+    "활용"
+   ],
+   "importance": "중",
+   "summary": "BCG와 인도 신재생에너지부(MNRE)가 그린수소 생산·운송·저장·활용 관련 20개 부문 166개 표준을 검토한 결과 23개 표준 격차를 발견했다. 이는 인도의 수소 산업 표준화 체계 정비의 필요성을 지적한 것이다.",
+   "collected_at": "2026-10-18T23:57:53Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "BCG",
+    "MNRE",
+    "인도",
+    "표준화"
+   ]
+  },
+  {
+   "id": "cfeb621ce1d447e7",
+   "title": "GeoPura secures offtake from Bradford’s 35 MW green hydrogen electrolyser",
+   "url": "http://www.hydrogenfuelnews.com/geopura-secures-offtake-from-bradford-s-35-mw-green-hydrogen-electrolyser/8576891/",
+   "source": "Hydrogen Fuel News",
+   "published_at": "2026-10-15T08:09:00Z",
+   "category": "프로젝트·계약",
+   "region": "해외",
+   "chain": [
+    "수소생산"
+   ],
+   "importance": "중",
+   "summary": "GeoPura가 영국 브래드포드의 Hygen Energy 35MW 전해조에서 15년간 생산량의 15~20%를 구매하는 계약을 체결했다. 정부 보조금으로 뒷받침되는 이 거래는 GeoPura의 수소전력설비 공급을 확보하는 계약이다.",
+   "collected_at": "2026-10-18T23:57:53Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "GeoPura",
+    "Hygen Energy",
+    "Bradford",
+    "전해조"
    ]
   },
   {
