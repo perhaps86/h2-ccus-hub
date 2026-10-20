@@ -1,7 +1,737 @@
 {
- "generated_at": "2026-10-18T23:57:53Z",
- "count": 849,
+ "generated_at": "2026-10-20T00:57:24Z",
+ "count": 882,
  "items": [
+  {
+   "id": "2f62fc1a08f09d92",
+   "title": "수도권 전력수요 잡는다···SK이터닉스, 연료전지 가동",
+   "url": "https://www.energy-news.co.kr/news/articleView.html?idxno=229080",
+   "source": "에너지신문",
+   "published_at": "2026-10-20T08:43:27Z",
+   "category": "프로젝트·계약",
+   "region": "국내",
+   "chain": [
+    "활용"
+   ],
+   "importance": "중",
+   "summary": "SK이터닉스가 경기도 이천과 파주에 구축한 연료전지 발전소 2개 시설(총 18.8MW)의 상업운전을 개시했고, 11월 파주 2호 가동으로 총 28MW 규모 클러스터를 완성할 예정이다. 총 1594억원 투입한 분산전원 프로젝트로 수도권 전력수요에 대응한다.",
+   "collected_at": "2026-10-20T00:56:45Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "SK이터닉스",
+    "이천에코파크",
+    "파주에코파크"
+   ]
+  },
+  {
+   "id": "35928886b8cdcec5",
+   "title": "[초점]일반수소발전 입찰시장 개편과 남겨진 숙제 전년 대비 입찰물량 28.5% 감소···배출권 사후정산·환경기여도 강화",
+   "url": "https://www.gasnews.com/news/articleView.html?idxno=127241",
+   "source": "가스신문",
+   "published_at": "2026-10-20T08:00:00Z",
+   "category": "정책·규제",
+   "region": "국내",
+   "chain": [
+    "수소생산",
+    "활용",
+    "CCUS"
+   ],
+   "importance": "상",
+   "summary": "2026년 일반수소발전 입찰시장 개편으로 입찰물량이 전년 대비 28.5% 감소하는 가운데, 정부가 환경기여도 평가 강화 및 CCUS 평가항목 신설 등 제도 개선에 나섰다. 배출권 사후정산 체계 도입 등으로 수소발전사업의 경제성 판단 기준이 변화하고 있다.",
+   "collected_at": "2026-10-20T00:56:45Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "일반수소발전입찰",
+    "CCUS",
+    "배출권정산"
+   ]
+  },
+  {
+   "id": "10878675cb59c055",
+   "title": "Hydrogen in Germany: Berlin Plans Green Gas Quota With Triple Credit for Renewable H₂",
+   "url": "https://fuelcellsworks.com/2026/10/19/h2/hydrogen-in-germany-berlin-plans-green-gas-quota-with-triple-credit-for-renewable-h",
+   "source": "FuelCellsWorks",
+   "published_at": "2026-10-19T18:04:24Z",
+   "category": "정책·규제",
+   "region": "해외",
+   "chain": [
+    "수소생산"
+   ],
+   "importance": "상",
+   "summary": "독일 베를린이 재생에너지 수소에 대한 3배 크레딧을 포함한 녹색가스 쿼터 정책을 계획하고 있다. 이는 청정수소 도입 확대를 위한 제도적 지원으로 시장 활성화에 영향을 미칠 수 있다.",
+   "collected_at": "2026-10-20T00:56:57Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "독일",
+    "베를린",
+    "정책"
+   ]
+  },
+  {
+   "id": "e17874b0c9ad8adb",
+   "title": "Fuel Cell and Hydrogen News Highlights From China: Oct 10-Oct. 16, 2026",
+   "url": "https://fuelcellsworks.com/2026/10/18/clean-energy/fuel-cell-and-hydrogen-news-highlights-from-china-oct-10-oct-16-2026",
+   "source": "FuelCellsWorks",
+   "published_at": "2026-10-19T18:00:42Z",
+   "category": "시장·가격",
+   "region": "해외",
+   "chain": [
+    "수소생산"
+   ],
+   "importance": "중",
+   "summary": "중국 수소산업 동향을 종합 보도하는 주간 뉴스 하이라이트이다. 구체적 내용은 발췌에 포함되지 않았다.",
+   "collected_at": "2026-10-20T00:56:57Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "중국"
+   ]
+  },
+  {
+   "id": "b05c69719ee36438",
+   "title": "Honda Mobile Power Pack E: Wins Sustainability & Circular Economy Excellence Award",
+   "url": "https://fuelcellsworks.com/2026/10/18/battery/honda-mobile-power-pack-e-wins-sustainability-and-circular-economy-excellence-award",
+   "source": "FuelCellsWorks",
+   "published_at": "2026-10-19T17:47:26Z",
+   "category": "시장·가격",
+   "region": "해외",
+   "chain": [],
+   "importance": "하",
+   "summary": "혼다의 모바일 전력팩 E가 지속가능성 및 순환경제 우수상을 수상했다. 수소·암모니아·CCUS와 무관한 배터리 기술 관련 사안이다.",
+   "collected_at": "2026-10-20T00:57:21Z",
+   "needs_review": true,
+   "review_reason": "도메인 밖: 밸류체인 해당 없음",
+   "tags": [
+    "Honda"
+   ]
+  },
+  {
+   "id": "f57915220abd389a",
+   "title": "Japan: Construction Begins on Japan's Largest Hydrogen Liquefaction Plant with a Liquefaction Capacity of 50 Tons per Day",
+   "url": "https://fuelcellsworks.com/2026/10/19/green-investment/japan-construction-begins-on-japan-s-largest-hydrogen-liquefaction-plant-with-a-liquefaction-capacity-of-50-tons-per-day",
+   "source": "FuelCellsWorks",
+   "published_at": "2026-10-19T17:46:46Z",
+   "category": "프로젝트·계약",
+   "region": "해외",
+   "chain": [
+    "수소생산"
+   ],
+   "importance": "상",
+   "summary": "일본의 최대 규모 수소액화플랜트 건설이 시작되었으며, 일일 50톤의 액화 능력을 갖춘다. 일본의 수소 공급 인프라 구축에 중요한 진전이다.",
+   "collected_at": "2026-10-20T00:56:57Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "일본",
+    "액화플랜트",
+    "수소생산"
+   ]
+  },
+  {
+   "id": "2fd92a561273645b",
+   "title": "농촌 도시가스 보급 격차 여전···요금감면 사각지대도 심각",
+   "url": "https://www.energy-news.co.kr/news/articleView.html?idxno=229070",
+   "source": "에너지신문",
+   "published_at": "2026-10-19T16:22:53Z",
+   "category": "정책·규제",
+   "region": "국내",
+   "chain": [],
+   "importance": "하",
+   "summary": "전국 도시가스 보급률이 83%를 넘었지만 농촌 지역의 보급 격차와 요금감면 사각지대가 여전한 것으로 나타났다. 박희승 의원이 한국가스공사 국정감사에서 농촌 도시가스 확대와 수소충전 인프라 확충을 촉구했다.",
+   "collected_at": "2026-10-20T00:56:45Z",
+   "needs_review": true,
+   "review_reason": "도메인 밖: 밸류체인 해당 없음",
+   "tags": [
+    "한국가스공사",
+    "농촌지역",
+    "도시가스"
+   ]
+  },
+  {
+   "id": "39536bcefff4945f",
+   "title": "[국감] 도시가스 보급률 83%의 그늘…50% 미만 지역 60곳 중 49곳 ‘군’",
+   "url": "https://www.energydaily.co.kr/news/articleView.html?idxno=204184",
+   "source": "에너지데일리",
+   "published_at": "2026-10-19T16:04:03Z",
+   "category": "정책·규제",
+   "region": "국내",
+   "chain": [],
+   "importance": "하",
+   "summary": "국정감사에서 도시가스 보급의 지역 격차와 수소차 충전 인프라 부족이 지적되었다. 에너지 인프라의 지역·계층 간 격차 해소를 위한 정책 보완이 필요하다는 의견이 제기되었다.",
+   "collected_at": "2026-10-20T00:56:57Z",
+   "needs_review": true,
+   "review_reason": "도메인 밖: 밸류체인 해당 없음",
+   "tags": [
+    "도시가스",
+    "수소차",
+    "인프라"
+   ]
+  },
+  {
+   "id": "f38cf116ede20b09",
+   "title": "Chinese Electrolyser Cost Advantage Shrinks to 8% When Stacks Are Exported to Europe, IEA Finds",
+   "url": "https://fuelcellsworks.com/2026/10/19/electrolyzer/chinese-electrolyser-cost-advantage-shrinks-to-8-percent-when-stacks-are-exported-to-europe-iea-finds",
+   "source": "FuelCellsWorks",
+   "published_at": "2026-10-19T15:41:56Z",
+   "category": "시장·가격",
+   "region": "해외",
+   "chain": [
+    "수소생산"
+   ],
+   "importance": "중",
+   "summary": "IEA 분석에 따르면 중국 전해조 비용 경쟁력이 유럽 수출 시 8%로 축소되는 것으로 나타났다. 수소 생산 장비의 국제 무역에서 비용 경쟁력이 제한적임을 시사한다.",
+   "collected_at": "2026-10-20T00:56:57Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "전해조",
+    "중국",
+    "유럽"
+   ]
+  },
+  {
+   "id": "80b8b3a8155621a3",
+   "title": "Leapting Launches Autonomous Electric Forklift for Utility-Scale Solar Sites",
+   "url": "https://fuelcellsworks.com/2026/10/18/electric/leapting-launches-autonomous-electric-forklift-for-utility-scale-solar-sites",
+   "source": "FuelCellsWorks",
+   "published_at": "2026-10-19T15:41:05Z",
+   "category": "시장·가격",
+   "region": "해외",
+   "chain": [],
+   "importance": "하",
+   "summary": "리플팅이 태양광 발전소용 자율주행 전기 지게차를 출시했다. 수소·암모니아·CCUS와 무관한 전기차 기술 관련 사안이다.",
+   "collected_at": "2026-10-20T00:57:21Z",
+   "needs_review": true,
+   "review_reason": "도메인 밖: 밸류체인 해당 없음",
+   "tags": [
+    "Leapling"
+   ]
+  },
+  {
+   "id": "5f25beec58b7a835",
+   "title": "Clean Power Hydrogen Starts Remedial Research, Design Work After Electrolyzer Test Incident",
+   "url": "https://fuelcellsworks.com/2026/10/19/electrolyzer/clean-power-hydrogen-starts-remedial-research-design-work-after-electrolyzer-test-incident",
+   "source": "FuelCellsWorks",
+   "published_at": "2026-10-19T15:11:17Z",
+   "category": "기술",
+   "region": "해외",
+   "chain": [
+    "수소생산"
+   ],
+   "importance": "중",
+   "summary": "Clean Power Hydrogen가 전해조 테스트 사고 이후 시정 연구 및 설계 작업을 시작했다. 기술 안전성 향상을 위한 개선 조치가 진행 중이다.",
+   "collected_at": "2026-10-20T00:56:57Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "전해조",
+    "Clean Power Hydrogen"
+   ]
+  },
+  {
+   "id": "cfc9de5558792261",
+   "title": "China Commissions 60MW/120MWh Storage at Guohua Rudong Solar-Hydrogen Complex",
+   "url": "https://fuelcellsworks.com/2026/10/14/green-hydrogen/china-commissions-60mw-120mwh-storage-at-guohua-rudong-solar-hydrogen-complex",
+   "source": "FuelCellsWorks",
+   "published_at": "2026-10-19T14:56:29Z",
+   "category": "프로젝트·계약",
+   "region": "해외",
+   "chain": [
+    "수소생산",
+    "운송·저장"
+   ],
+   "importance": "중",
+   "summary": "중국 Guohua Rudong 태양광-수소 복합 시설에 60MW/120MWh 규모의 에너지 저장설비가 준공되었다. 태양광 발전을 수소 생산과 연계하여 간헐성을 보완하고 에너지 효율을 높이는 통합 솔루션 구축의 사례다.",
+   "collected_at": "2026-10-20T00:57:10Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "Guohua Rudong",
+    "중국",
+    "태양광-수소",
+    "에너지저장"
+   ]
+  },
+  {
+   "id": "1d168087cde2c715",
+   "title": "Germany Sets Aside €1.5Bn for Hydrogen in 2027 Carbon Contracts Auction",
+   "url": "https://fuelcellsworks.com/2026/10/19/h2/germany-sets-aside-1-5bn-for-hydrogen-in-2027-carbon-contracts-auction",
+   "source": "FuelCellsWorks",
+   "published_at": "2026-10-19T14:51:05Z",
+   "category": "정책·규제",
+   "region": "해외",
+   "chain": [
+    "수소생산"
+   ],
+   "importance": "상",
+   "summary": "독일이 2027년 탄소계약 경매(Carbon Contracts for Difference)에 15억 유로를 할당하여 수소 프로젝트 지원을 대폭 확대하기로 결정했다. 탄탄한 정부 재정 지원으로 수소 산업 육성 의지를 명확히 한 정책 결정이다.",
+   "collected_at": "2026-10-20T00:57:10Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "독일",
+    "Carbon Contracts",
+    "€1.5Bn",
+    "2027"
+   ]
+  },
+  {
+   "id": "2788533e96f84c58",
+   "title": "Energiepark Bad Lauchstädt Recognised as Second Winner of the Hydrogen TCP Awards of Excellence",
+   "url": "https://fuelcellsworks.com/2026/10/18/h2/energiepark-bad-lauchstadt-recognised-as-second-winner-of-the-hydrogen-tcp-awards-of-excellence",
+   "source": "FuelCellsWorks",
+   "published_at": "2026-10-19T14:43:33Z",
+   "category": "프로젝트·계약",
+   "region": "해외",
+   "chain": [
+    "수소생산"
+   ],
+   "importance": "중",
+   "summary": "Energiepark Bad Lauchstädt가 수소 TCP(Technology Collaboration Programme) 우수상으로 인정받았다. 국제적으로 우수한 수소 프로젝트로 평가되어 기술 신뢰도와 시장 위상이 강화된다.",
+   "collected_at": "2026-10-20T00:57:10Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "Energiepark Bad Lauchstädt",
+    "독일",
+    "Hydrogen TCP Awards",
+    "수소기술"
+   ]
+  },
+  {
+   "id": "bc4887ca75046a0d",
+   "title": "ITM Power Revenue Jumps 68% to Record £43.6M [$58.1M] as Annual Loss Nearly Halves",
+   "url": "https://fuelcellsworks.com/2026/10/19/electrolyzer/itm-power-revenue-jumps-68-percent-to-record-43-6m-58-1m-as-annual-loss-nearly-halves",
+   "source": "FuelCellsWorks",
+   "published_at": "2026-10-19T14:37:18Z",
+   "category": "투자·금융",
+   "region": "해외",
+   "chain": [
+    "수소생산"
+   ],
+   "importance": "중",
+   "summary": "ITM Power의 연간 매출이 43.6백만 파운드(5,810만 달러)로 전년 대비 68% 증가했고, 영업손실이 거의 절반 수준으로 감소했다. 수소 전해 기술 기업의 사업 확대와 수익성 개선이 본격화되고 있음을 시사한다.",
+   "collected_at": "2026-10-20T00:57:10Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "ITM Power",
+    "영국",
+    "수소전해",
+    "£43.6M"
+   ]
+  },
+  {
+   "id": "debec5b70790bfa2",
+   "title": "Aternium Completes FEED Studies for 60MW Hydrogen and Heavy Water Plant in Delaware",
+   "url": "https://fuelcellsworks.com/2026/10/19/h2/aternium-completes-feed-studies-for-60mw-hydrogen-and-heavy-water-plant-in-delaware",
+   "source": "FuelCellsWorks",
+   "published_at": "2026-10-19T14:30:31Z",
+   "category": "프로젝트·계약",
+   "region": "해외",
+   "chain": [
+    "수소생산"
+   ],
+   "importance": "중",
+   "summary": "Aternium이 미국 델라웨어 주에 60MW 수소·중수 생산 플랜트의 FEED(Front-End Engineering Design) 연구를 완료했다. 상세 엔지니어링 단계로 진입하면서 프로젝트 실현성이 한 단계 높아졌다.",
+   "collected_at": "2026-10-20T00:57:10Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "Aternium",
+    "미국 델라웨어",
+    "60MW 수소",
+    "FEED"
+   ]
+  },
+  {
+   "id": "72179a71637241fd",
+   "title": "WHE 2026, ‘H2 이노베이션 어워드’ 본선 진출 기업 발표",
+   "url": "https://www.gasnews.com/news/articleView.html?idxno=127239",
+   "source": "가스신문",
+   "published_at": "2026-10-19T14:21:00Z",
+   "category": "기술",
+   "region": "국내",
+   "chain": [
+    "수소생산",
+    "활용"
+   ],
+   "importance": "하",
+   "summary": "World Hydrogen Expo 2026의 H2 이노베이션 어워드에 본선 진출한 기업 14개사가 공개되었다. 2021년부터 매년 개최되는 이 상은 수소 혁신기술 발굴과 산업계 교류 활성화를 목표로 한다.",
+   "collected_at": "2026-10-20T00:56:45Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "WHE 2026",
+    "H2 이노베이션 어워드",
+    "한국수소연합"
+   ]
+  },
+  {
+   "id": "5c80b9a3877b5588",
+   "title": "에이이에스텍, 암모니아 전기분해 상용화 협력···호주 실증 추진",
+   "url": "https://www.gasnews.com/news/articleView.html?idxno=127225",
+   "source": "가스신문",
+   "published_at": "2026-10-19T14:20:00Z",
+   "category": "프로젝트·계약",
+   "region": "해외",
+   "chain": [
+    "암모니아",
+    "수소생산"
+   ],
+   "importance": "중",
+   "summary": "에이이에스텍이 호주의 오즈암모니아와 암모니아 전기분해 기반 수소 공급 기술의 공동개발 및 상용화를 위한 협약을 체결했다. 호주에서의 실증을 거쳐 동남아시아와 유럽 진출을 계획 중이다.",
+   "collected_at": "2026-10-20T00:56:45Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "에이이에스텍",
+    "오즈암모니아",
+    "호주"
+   ]
+  },
+  {
+   "id": "7cdcb9b664774d74",
+   "title": "China Builds Nationwide Green Hydrogen Hubs for Low-Carbon Shift",
+   "url": "https://fuelcellsworks.com/2026/10/14/fuel-cells/china-builds-nationwide-green-hydrogen-hubs-for-low-carbon-shift",
+   "source": "FuelCellsWorks",
+   "published_at": "2026-10-19T14:16:17Z",
+   "category": "정책·규제",
+   "region": "해외",
+   "chain": [
+    "수소생산"
+   ],
+   "importance": "상",
+   "summary": "중국이 전국 규모의 그린 수소 허브 네트워크를 구축하여 저탄소 전환을 추진하고 있다. 정부 차원의 대규모 인프라 투자로 수소 산업의 공급망 형성과 시장 확대가 본격화될 것으로 예상된다.",
+   "collected_at": "2026-10-20T00:57:10Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "중국",
+    "그린수소 허브",
+    "저탄소",
+    "국가전략"
+   ]
+  },
+  {
+   "id": "f7230217430aed9e",
+   "title": "Greenzo Energy Raises ₹130 Crore ($14M) in Latest Round, Valuation Reaches ₹1,030 Crore",
+   "url": "https://fuelcellsworks.com/2026/10/19/electrolyzer/greenzo-energy-raises-130-crore-14m-in-latest-round-valuation-reaches-1-030-crore",
+   "source": "FuelCellsWorks",
+   "published_at": "2026-10-19T14:03:23Z",
+   "category": "투자·금융",
+   "region": "해외",
+   "chain": [
+    "수소생산"
+   ],
+   "importance": "중",
+   "summary": "인도의 Greenzo Energy가 1.3억 루피(1,400만 달러)를 추가 조성하여 기업가치가 103억 루피에 달했다. 인도의 수소·청정에너지 스타트업이 투자자 관심을 집중시키며 성장 모멘텀이 지속되고 있다.",
+   "collected_at": "2026-10-20T00:57:10Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "Greenzo Energy",
+    "인도",
+    "₹130 Crore",
+    "기업가치"
+   ]
+  },
+  {
+   "id": "42e6e8c76636f978",
+   "title": "Nagoya University Fuel Cell Catalyst Retains 96.9% of Active Platinum Surface After 30,000 Cycles",
+   "url": "https://fuelcellsworks.com/2026/10/13/h2/nagoya-university-fuel-cell-catalyst-retains-96-9-percent-of-active-platinum-surface-after-30-000-cycles",
+   "source": "FuelCellsWorks",
+   "published_at": "2026-10-19T13:50:05Z",
+   "category": "기술",
+   "region": "해외",
+   "chain": [
+    "수소생산",
+    "활용"
+   ],
+   "importance": "중",
+   "summary": "명고야 대학이 개발한 연료전지 촉매가 3만 사이클 후에도 백금 활성 표면의 96.9%를 유지했다. 촉매 내구성 향상으로 연료전지 성능 안정성과 수명 연장이 실현 가능함을 입증했다.",
+   "collected_at": "2026-10-20T00:57:10Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "명고야 대학",
+    "일본",
+    "연료전지 촉매",
+    "백금"
+   ]
+  },
+  {
+   "id": "dd8d71f0872365d6",
+   "title": "(파워인터뷰) 서흥원 부회장 “수소연료전지, 탄소중립 실현 동반자…산업생태계 유지 필요”",
+   "url": "https://www.electimes.com/news/articleView.html?idxno=373613",
+   "source": "전기신문",
+   "published_at": "2026-10-19T13:10:00Z",
+   "category": "기술",
+   "region": "국내",
+   "chain": [
+    "수소생산",
+    "활용"
+   ],
+   "importance": "중",
+   "summary": "수소연료전지가 분산전원으로서 탄소중립 실현의 대안으로 평가받고 있으며, 안정적 전력공급과 에너지 전환에 기여할 수 있다. 다만 청정수소 전환, 경제성 확보, 산업생태계 유지 등 과제 해결이 필수적이다.",
+   "collected_at": "2026-10-20T00:56:57Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "수소연료전지",
+    "탄소중립",
+    "에너지전환"
+   ]
+  },
+  {
+   "id": "b364a208f284517c",
+   "title": "Swiss Company Tivano Secures New Grant To Advance Carbon Removal In Africa",
+   "url": "https://carbonherald.com/swiss-company-tivano-secures-new-grant-to-advance-carbon-removal-in-africa/?utm_source=rss&utm_medium=rss&utm_campaign=swiss-company-tivano-secures-new-grant-to-advance-carbon-removal-in-africa",
+   "source": "Carbon Herald",
+   "published_at": "2026-10-19T12:57:00Z",
+   "category": "투자·금융",
+   "region": "해외",
+   "chain": [
+    "CCUS"
+   ],
+   "importance": "중",
+   "summary": "스위스 회사 티바노가 아프리카에서의 탄소제거 사업 추진을 위해 50만 스위스 프랑의 보조금을 확보했다. CCUS 기술을 통한 탄소 포집 및 제거 사업의 국제적 확대를 시사한다.",
+   "collected_at": "2026-10-20T00:57:21Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "Tivano",
+    "아프리카",
+    "탄소제거"
+   ]
+  },
+  {
+   "id": "a87ed9ca166f9e74",
+   "title": "'World’s first' commercial ship-to-ship green ammonia bunkering performed in China",
+   "url": "https://offshore-energy.biz/2026/10/19/worlds-first-commercial-ship-to-ship-green-ammonia-bunkering-performed-in-china",
+   "source": "Offshore Energy",
+   "published_at": "2026-10-19T11:11:02Z",
+   "category": "프로젝트·계약",
+   "region": "해외",
+   "chain": [
+    "암모니아",
+    "운송·저장"
+   ],
+   "importance": "상",
+   "summary": "중국이 세계 최초로 상용 선박 간 녹색암모니아 연료 공급(벙커링)을 성공적으로 수행했다. 이는 암모니아를 해운 연료로 활용하는 가치사슬에서 중요한 인프라 단계를 입증한 것으로, 향후 암모니아 기반 해운 산업의 확대 가능성을 시사한다.",
+   "collected_at": "2026-10-20T00:57:24Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "China Energy Engineering Group",
+    "그린암모니아",
+    "벙커링",
+    "해운연료"
+   ]
+  },
+  {
+   "id": "d35d35f115e93b7c",
+   "title": "전기차 10%↑·수소차 72%↓···판매 희비 엇갈려",
+   "url": "https://www.energy-news.co.kr/news/articleView.html?idxno=229041",
+   "source": "에너지신문",
+   "published_at": "2026-10-19T11:00:00Z",
+   "category": "시장·가격",
+   "region": "국내",
+   "chain": [],
+   "importance": "하",
+   "summary": "9월 국내 친환경자동차 시장에서 전기차는 10% 증가한 반면 수소차는 72% 감소했다. 전체 자동차 내수가 14.3% 감소하는 가운데 친환경차 비중은 58.8%에 달했다.",
+   "collected_at": "2026-10-20T00:56:45Z",
+   "needs_review": true,
+   "review_reason": "도메인 밖: 밸류체인 해당 없음",
+   "tags": [
+    "친환경자동차",
+    "전기차",
+    "수소차"
+   ]
+  },
+  {
+   "id": "bb0f2fc0afc5c65f",
+   "title": "Sweden Grants Nearly $1B In Funding To Three BECCS Companies",
+   "url": "https://carbonherald.com/sweden-grants-nearly-1b-in-funding-to-three-beccs-companies/?utm_source=rss&utm_medium=rss&utm_campaign=sweden-grants-nearly-1b-in-funding-to-three-beccs-companies",
+   "source": "Carbon Herald",
+   "published_at": "2026-10-19T10:54:54Z",
+   "category": "투자·금융",
+   "region": "해외",
+   "chain": [
+    "CCUS"
+   ],
+   "importance": "상",
+   "summary": "스웨덴 에너지청이 바이오에너지와 탄소포집·저장(BECCS) 기술을 개발하는 3개 기업에 약 10억 달러(93억 스웨덴 크로나)의 자금을 지원하기로 결정했다. 유럽 주요국의 CCUS 산업에 대한 정책적 지원 강화를 보여준다.",
+   "collected_at": "2026-10-20T00:57:21Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "스웨덴",
+    "BECCS",
+    "에너지청"
+   ]
+  },
+  {
+   "id": "3793df5ed8b2c7e3",
+   "title": "해양에너지 경쟁력, 공급비 낮추고 운영 신뢰성 높여야",
+   "url": "https://www.electimes.com/news/articleView.html?idxno=373548",
+   "source": "전기신문",
+   "published_at": "2026-10-19T10:32:44Z",
+   "category": "기술",
+   "region": "해외",
+   "chain": [
+    "수소생산",
+    "운송·저장"
+   ],
+   "importance": "중",
+   "summary": "해양에너지의 경쟁력 확보를 위해 수소 운송·저장 비용 절감과 해상풍력 설비 운영 신뢰성 향상이 핵심 과제로 제시되었다. 부산에서 열린 콘퍼런스에서 암모니아 활용 수소 공급, AI 기반 설비 관리 등 솔루션들이 소개되었다.",
+   "collected_at": "2026-10-20T00:56:57Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "해상풍력",
+    "암모니아",
+    "부산",
+    "운송·저장"
+   ]
+  },
+  {
+   "id": "4b72f23ad7b15dd1",
+   "title": "UK Sets Default Emissions Values Ahead Of 2027 Carbon Border Tax",
+   "url": "https://carbonherald.com/uk-sets-default-emissions-values-ahead-of-2027-carbon-border-tax/?utm_source=rss&utm_medium=rss&utm_campaign=uk-sets-default-emissions-values-ahead-of-2027-carbon-border-tax",
+   "source": "Carbon Herald",
+   "published_at": "2026-10-19T09:32:32Z",
+   "category": "정책·규제",
+   "region": "해외",
+   "chain": [
+    "CCUS"
+   ],
+   "importance": "상",
+   "summary": "영국이 2027년 시행 예정인 탄소국경조정제도(CBAM)를 위해 기본 배출값을 공시했다. 저탄소 산업으로의 전환을 유도하는 규제 체계 확립의 일환으로, CCUS 기술의 필요성을 높인다.",
+   "collected_at": "2026-10-20T00:57:21Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "영국",
+    "CBAM",
+    "2027"
+   ]
+  },
+  {
+   "id": "c188d2f492e858f2",
+   "title": "WHE 2026, ‘H2 이노베이션 어워드’ 본선 진출 기업 발표",
+   "url": "https://www.todayenergy.kr/news/articleView.html?idxno=304333",
+   "source": "투데이에너지",
+   "published_at": "2026-10-19T09:07:17Z",
+   "category": "기술",
+   "region": "국내",
+   "chain": [
+    "수소생산",
+    "활용"
+   ],
+   "importance": "하",
+   "summary": "World Hydrogen Expo 2026의 H2 이노베이션 어워드 본선 진출 기업 14개사가 공개되었다. 한국수소연합과 한국산업기술기획평가원이 공동 주관하는 이 상은 국내외 수소 혁신기술을 발굴하고 산업계 교류를 활성화하기 위해 2021년부터 매년 개최되고 있다.",
+   "collected_at": "2026-10-20T00:56:45Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "WHE 2026",
+    "H2 이노베이션 어워드",
+    "한국수소연합"
+   ]
+  },
+  {
+   "id": "f13162a46e2b1e82",
+   "title": "액화수소플랜트 45일간 정비...대체물량 확보·분산충전으로 대응 중",
+   "url": "https://www.h2news.kr/news/articleView.html?idxno=14312",
+   "source": "수소신문",
+   "published_at": "2026-10-19T09:03:43Z",
+   "category": "프로젝트·계약",
+   "region": "국내",
+   "chain": [
+    "수소생산",
+    "운송·저장"
+   ],
+   "importance": "중",
+   "summary": "SK인천석유화학의 액화수소플랜트 45일 정기 대정비로 인해 수소 공급 차질이 발생하자, 정부와 공급업체가 대체물량 확보와 분산충전으로 대응 중이다. 올해 1~8월 국내 수송용 수소 소비량이 전년 대비 47% 증가하면서 안정적인 공급체계의 필요성이 대두되고 있다.",
+   "collected_at": "2026-10-20T00:56:45Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "SK인천석유화학",
+    "액화수소플랜트",
+    "수소버스"
+   ]
+  },
+  {
+   "id": "1817bcf167c3c505",
+   "title": "CCSA Unveils Winners Of Inaugural International CCUS Awards 2026",
+   "url": "https://carbonherald.com/ccsa-unveils-winners-of-inaugural-international-ccus-awards-2026/?utm_source=rss&utm_medium=rss&utm_campaign=ccsa-unveils-winners-of-inaugural-international-ccus-awards-2026",
+   "source": "Carbon Herald",
+   "published_at": "2026-10-19T09:03:07Z",
+   "category": "시장·가격",
+   "region": "해외",
+   "chain": [
+    "CCUS"
+   ],
+   "importance": "하",
+   "summary": "탄소포집·저장협회(CCSA)가 2026년 국제 CCUS 어워드 수상자를 발표했다. CCUS 산업의 성과를 인정하는 행사성 발표이다.",
+   "collected_at": "2026-10-20T00:57:21Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "CCSA",
+    "국제어워드"
+   ]
+  },
+  {
+   "id": "7a406697ffbf69ee",
+   "title": "Subsea7 Taps Worley Rosenberg For Northern Lights CCS",
+   "url": "https://carbonherald.com/subsea7-taps-worley-rosenberg-for-northern-lights-ccs/?utm_source=rss&utm_medium=rss&utm_campaign=subsea7-taps-worley-rosenberg-for-northern-lights-ccs",
+   "source": "Carbon Herald",
+   "published_at": "2026-10-19T08:31:30Z",
+   "category": "프로젝트·계약",
+   "region": "해외",
+   "chain": [
+    "CCUS",
+    "운송·저장"
+   ],
+   "importance": "중",
+   "summary": "해상 건설사 Subsea7이 노스던라이츠 CCS 프로젝트의 해저 구조물 및 배관 제작을 위해 엔지니어링 회사 Worley Rosenberg를 선정했다. 주요 탄소 포집 및 저장 프로젝트의 구체적 진행을 의미한다.",
+   "collected_at": "2026-10-20T00:57:21Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "Subsea7",
+    "Northern Lights",
+    "Worley Rosenberg"
+   ]
+  },
+  {
+   "id": "0170d563c1273732",
+   "title": "ICR Conditionally Approves Coal-Abatement Methodology For Pilot Testing",
+   "url": "https://carbonherald.com/icr-conditionally-approves-coal-abatement-methodology-for-pilot-testing/?utm_source=rss&utm_medium=rss&utm_campaign=icr-conditionally-approves-coal-abatement-methodology-for-pilot-testing",
+   "source": "Carbon Herald",
+   "published_at": "2026-10-19T08:21:58Z",
+   "category": "정책·규제",
+   "region": "해외",
+   "chain": [
+    "CCUS"
+   ],
+   "importance": "중",
+   "summary": "국제탄소등록소(ICR)가 석탄 저감 방법론을 조건부로 승인하여 시범 테스트 사용을 허가했다. CCUS 관련 국제적 탄소 크레딧 검증 기준의 확대를 의미한다.",
+   "collected_at": "2026-10-20T00:57:21Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "ICR",
+    "석탄저감",
+    "방법론"
+   ]
+  },
   {
    "id": "0e33fec8bed44108",
    "title": "-수소 생산부터 충전 로봇까지…WHE 혁신기술 14개사 본선 진출",
