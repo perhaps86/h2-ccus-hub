@@ -1,7 +1,749 @@
 {
- "generated_at": "2026-10-21T00:25:37Z",
- "count": 922,
+ "generated_at": "2026-10-22T00:28:53Z",
+ "count": 964,
  "items": [
+  {
+   "id": "957e837ea13feb06",
+   "title": "수소발전 입찰시장, CCUS 카드 통할까",
+   "url": "https://www.h2news.kr/news/articleView.html?idxno=14322",
+   "source": "수소신문",
+   "published_at": "2026-10-22T08:55:00Z",
+   "category": "정책·규제",
+   "region": "국내",
+   "chain": [
+    "활용",
+    "CCUS"
+   ],
+   "importance": "중",
+   "summary": "전력거래소가 2026년 수소발전 입찰시장의 운영 방안을 발표했으며, 일반수소발전에서는 CCUS와 에너지 효율 평가를 강화하고 청정수소발전에서는 국내 산업 기여도를 중시하는 방향으로 평가체계를 개편한다. 이는 탄소감축을 촉진하고 국내 산업 육성을 목표로 한다.",
+   "collected_at": "2026-10-22T00:28:02Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "전력거래소",
+    "수소발전입찰시장",
+    "CCUS",
+    "청정수소"
+   ]
+  },
+  {
+   "id": "b0660f9d67e29b15",
+   "title": "기후부, ‘CO2 포집·수송·저장 활용 법률’ 개정령안 입법예고",
+   "url": "https://www.gasnews.com/news/articleView.html?idxno=127300",
+   "source": "가스신문",
+   "published_at": "2026-10-22T08:55:00Z",
+   "category": "정책·규제",
+   "region": "국내",
+   "chain": [
+    "CCUS"
+   ],
+   "importance": "중",
+   "summary": "기후에너지환경부가 CO2 포집·수송·저장 및 활용에 관한 법률 시행령 개정령안을 입법예고했다. 이산화탄소 포집·활용 기술의 현장 적용과 보급을 촉진하기 위해 실증사업 관리 체계를 강화하고 전문기관에 위탁하는 내용이다.",
+   "collected_at": "2026-10-22T00:28:02Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "기후에너지환경부",
+    "CCUS",
+    "실증사업",
+    "법률시행령"
+   ]
+  },
+  {
+   "id": "2a773c0c6f4de0bc",
+   "title": "가스쏠루나, 차세대 HC 혼합냉매 전환 솔루션 홍보",
+   "url": "https://www.gasnews.com/news/articleView.html?idxno=127291",
+   "source": "가스신문",
+   "published_at": "2026-10-22T05:51:49Z",
+   "category": "기술",
+   "region": "국내",
+   "chain": [],
+   "importance": "하",
+   "summary": "냉매 제조업체 가스쏠루나가 국제냉난방공조전에서 차세대 HC 혼합냉매 전환 솔루션을 선보였다. 이는 수소·암모니아·CCUS 산업과 직접적인 관련이 없는 일반 냉매 기술이다.",
+   "collected_at": "2026-10-22T00:28:02Z",
+   "needs_review": true,
+   "review_reason": "도메인 밖: 밸류체인 해당 없음",
+   "tags": [
+    "가스쏠루나",
+    "냉매",
+    "한국국제냉난방공조전"
+   ]
+  },
+  {
+   "id": "36ed5a725c358e02",
+   "title": "가스안전公 서울남부지사, E1오곡 수소충전소서 재난대응 합동훈련",
+   "url": "http://www.e2news.com/news/articleView.html?idxno=335341",
+   "source": "이투뉴스",
+   "published_at": "2026-10-21T22:09:15Z",
+   "category": "정책·규제",
+   "region": "국내",
+   "chain": [
+    "운송·저장"
+   ],
+   "importance": "하",
+   "summary": "한국가스안전공사 서울남부지사가 E1오곡 수소충전소에서 재난대응 합동훈련을 실시했다. AI를 활용해 수소 튜브트레일러 충돌로 인한 대량 누출 상황을 가정한 실전형 훈련이 진행되었다.",
+   "collected_at": "2026-10-22T00:28:16Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "한국가스안전공사",
+    "수소충전소",
+    "재난대응"
+   ]
+  },
+  {
+   "id": "5d44344f9cd61ffc",
+   "title": "\"촉매도 분업 시대\"...철·루테늄 역할 나누니 수소 생산 성능 껑충",
+   "url": "https://www.electimes.com/news/articleView.html?idxno=373730",
+   "source": "전기신문",
+   "published_at": "2026-10-21T21:48:27Z",
+   "category": "기술",
+   "region": "국내",
+   "chain": [
+    "수소생산"
+   ],
+   "importance": "중",
+   "summary": "UNIST와 고려대 공동연구팀이 철과 루테늄을 촉매로 하는 수전해 기술을 개발했다. 백금 촉매보다 낮은 전압에서 작동하고 10g 이상을 한 번에 제조할 수 있어 그린수소 생산 비용 절감에 기여할 것으로 예상된다.",
+   "collected_at": "2026-10-22T00:28:16Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "UNIST",
+    "고려대",
+    "수전해 촉매"
+   ]
+  },
+  {
+   "id": "c0b88cda58c0eac9",
+   "title": "재료연, 수소연료전지 무인기 12시간 연속 비행…918㎞ 날았다",
+   "url": "https://www.electimes.com/news/articleView.html?idxno=373729",
+   "source": "전기신문",
+   "published_at": "2026-10-21T21:31:08Z",
+   "category": "기술",
+   "region": "국내",
+   "chain": [
+    "활용"
+   ],
+   "importance": "중",
+   "summary": "한국재료연구원이 경량 금속 소재를 적용한 수소연료전지 동력원으로 무인기 12시간 이상 연속 비행을 성공했다. 총 918km를 비행하며 배터리의 한계를 극복해 무인기 활용 범위 확대가 가능할 것으로 기대된다.",
+   "collected_at": "2026-10-22T00:28:16Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "한국재료연구원",
+    "수소연료전지",
+    "무인기"
+   ]
+  },
+  {
+   "id": "26cec4b53635a900",
+   "title": "CCUS 기술 ‘연구실→산업현장’ 연결 강화…실증사업 전문기관 위탁 추진",
+   "url": "https://www.energydaily.co.kr/news/articleView.html?idxno=204261",
+   "source": "에너지데일리",
+   "published_at": "2026-10-21T18:07:28Z",
+   "category": "정책·규제",
+   "region": "국내",
+   "chain": [
+    "CCUS"
+   ],
+   "importance": "상",
+   "summary": "기후에너지환경부가 CCUS 기술의 실증사업 관리를 전문기관에 위탁하는 제도 개선을 추진 중이다. 시행령 개정을 통해 연구개발에서 현장 검증 및 사업화로 무게중심을 이동시키는 구조적 전환을 도모하고 있다.",
+   "collected_at": "2026-10-22T00:28:16Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "기후에너지환경부",
+    "CCUS",
+    "시행령 개정"
+   ]
+  },
+  {
+   "id": "b99e0850bde12f1f",
+   "title": "빈센, ‘선박용 수소연료전지 기술’ 기후에너지부 장관상",
+   "url": "https://www.todayenergy.kr/news/articleView.html?idxno=304493",
+   "source": "투데이에너지",
+   "published_at": "2026-10-21T16:52:36Z",
+   "category": "정책·규제",
+   "region": "국내",
+   "chain": [
+    "활용"
+   ],
+   "importance": "하",
+   "summary": "빈센이 선박용 수소연료전지 기술로 기후에너지환경부 장관상을 수상했다. 수상은 기후산업국제박람회에서 진행되었으며, 청정전력 부문에서 기술성과 시장 경쟁력 등을 평가받은 것이다.",
+   "collected_at": "2026-10-22T00:28:16Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "빈센",
+    "선박용 수소연료전지",
+    "기후에너지환경부"
+   ]
+  },
+  {
+   "id": "2636cbee2fc30048",
+   "title": "World Premiere: Stadler Tests Hydrogen Trains on New Narrow-Gauge Track",
+   "url": "https://fuelcellsworks.com/2026/10/18/fuel-cells/world-premiere-stadler-tests-hydrogen-trains-on-new-narrow-gauge-track",
+   "source": "FuelCellsWorks",
+   "published_at": "2026-10-21T16:11:37Z",
+   "category": "기술",
+   "region": "해외",
+   "chain": [
+    "수소생산"
+   ],
+   "importance": "중",
+   "summary": "스위스 철도 차량 제조업체 Stadler가 협궤 트랙에서 수소 열차를 테스트하고 있다. 이는 지역 철도 시스템에서 수소 연료 전지 기술의 실제 적용 가능성을 입증하는 단계이다.",
+   "collected_at": "2026-10-22T00:28:28Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "Stadler",
+    "수소열차",
+    "협궤"
+   ]
+  },
+  {
+   "id": "2907e0c808c4bc76",
+   "title": "Sunwoda Digital Battery Passport Solution Among Finalists at 2026 Edie Energy & Tech Awards",
+   "url": "https://fuelcellsworks.com/2026/10/20/battery/sunwoda-digital-battery-passport-solution-among-finalists-at-2026-edie-energy-and-tech-awards",
+   "source": "FuelCellsWorks",
+   "published_at": "2026-10-21T16:05:06Z",
+   "category": "기술",
+   "region": "해외",
+   "chain": [],
+   "importance": "하",
+   "summary": "Sunwoda Digital의 배터리 여권 솔루션이 2026 Edie Energy & Tech Awards 최종 후보에 올랐다. 수소·암모니아·CCUS와 무관한 배터리 기술 관련 기사이다.",
+   "collected_at": "2026-10-22T00:28:38Z",
+   "needs_review": true,
+   "review_reason": "도메인 밖: 밸류체인 해당 없음",
+   "tags": [
+    "Sunwoda Digital",
+    "배터리여권"
+   ]
+  },
+  {
+   "id": "1076bd1f9e9a9640",
+   "title": "Norwegian Hydrogen Ferries Delayed Again",
+   "url": "https://fuelcellsworks.com/2026/10/20/electrolyzer/norwegian-hydrogen-ferries-delayed-again",
+   "source": "FuelCellsWorks",
+   "published_at": "2026-10-21T16:03:18Z",
+   "category": "프로젝트·계약",
+   "region": "해외",
+   "chain": [
+    "운송·저장"
+   ],
+   "importance": "중",
+   "summary": "노르웨이의 수소 연료 페리 프로젝트가 다시 지연되었다. 상용화 일정이 반복적으로 미뀌면서 프로젝트 신뢰성에 영향을 미치고 있다.",
+   "collected_at": "2026-10-22T00:28:28Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "노르웨이",
+    "수소페리"
+   ]
+  },
+  {
+   "id": "fa01e6b7356eb13f",
+   "title": "ABB Launches High-Efficiency Rectifier to Help Reduce Green Hydrogen Power Costs",
+   "url": "https://fuelcellsworks.com/2026/10/20/h2/abb-launches-high-efficiency-rectifier-to-help-reduce-green-hydrogen-power-costs",
+   "source": "FuelCellsWorks",
+   "published_at": "2026-10-21T15:55:58Z",
+   "category": "기술",
+   "region": "해외",
+   "chain": [
+    "수소생산"
+   ],
+   "importance": "중",
+   "summary": "ABB가 그린 수소 생산 비용 절감을 위한 고효율 정류기를 출시했다. 수소 전해 공정의 전력 변환 효율 개선으로 생산 경제성 향상을 기대할 수 있다.",
+   "collected_at": "2026-10-22T00:28:28Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "ABB",
+    "정류기",
+    "그린수소"
+   ]
+  },
+  {
+   "id": "ce7b402bb1e6443f",
+   "title": "Bee Network Hits Major Milestone with 500Th Electric Bus in Greater Manchester",
+   "url": "https://fuelcellsworks.com/2026/10/20/electric/bee-network-hits-major-milestone-with-500th-electric-bus-in-greater-manchester",
+   "source": "FuelCellsWorks",
+   "published_at": "2026-10-21T15:49:12Z",
+   "category": "시장·가격",
+   "region": "해외",
+   "chain": [],
+   "importance": "하",
+   "summary": "Bee Network이 그레이터 맨체스터에서 전기 버스 500대를 달성했다. 수소·암모니아·CCUS와 무관한 전기 버스 관련 기사이다.",
+   "collected_at": "2026-10-22T00:28:38Z",
+   "needs_review": true,
+   "review_reason": "도메인 밖: 밸류체인 해당 없음",
+   "tags": [
+    "Bee Network",
+    "Greater Manchester"
+   ]
+  },
+  {
+   "id": "c2adba9b3879e1d6",
+   "title": "Bosch Says CryoPump Can Cut Hydrogen Station Investment Cost by Half",
+   "url": "https://fuelcellsworks.com/2026/10/20/electrolyzer/bosch-says-cryopump-can-cut-hydrogen-station-investment-cost-by-half",
+   "source": "FuelCellsWorks",
+   "published_at": "2026-10-21T15:48:05Z",
+   "category": "기술",
+   "region": "해외",
+   "chain": [
+    "운송·저장"
+   ],
+   "importance": "중",
+   "summary": "Bosch의 CryoPump 기술이 수소충전소 투자 비용을 절반까지 줄일 수 있다고 발표했다. 수소 저장 및 공급 인프라의 경제성 개선으로 충전소 확대에 긍정적 영향을 줄 것으로 예상된다.",
+   "collected_at": "2026-10-22T00:28:28Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "Bosch",
+    "CryoPump",
+    "수소충전소"
+   ]
+  },
+  {
+   "id": "68482ff2db3802b3",
+   "title": "Finland 'S VTT to Put Battery-Hydrogen SISU Truck Into Daily Freight Service Before Year-End",
+   "url": "https://fuelcellsworks.com/2026/10/21/fuel-cells/finland-s-vtt-to-put-battery-hydrogen-sisu-truck-into-daily-freight-service-before-year-end",
+   "source": "FuelCellsWorks",
+   "published_at": "2026-10-21T15:22:03Z",
+   "category": "프로젝트·계약",
+   "region": "해외",
+   "chain": [
+    "수소생산"
+   ],
+   "importance": "중",
+   "summary": "핀란드 VTT가 배터리-수소 하이브리드 SISU 트럭을 연말 전에 일일 화물 운송 서비스로 투입할 계획이다. 수소 기술의 상용 물류 시스템 적용 사례를 보여주는 의미 있는 진전이다.",
+   "collected_at": "2026-10-22T00:28:28Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "VTT",
+    "SISU",
+    "수소트럭",
+    "핀란드"
+   ]
+  },
+  {
+   "id": "75fd311e8dadba0d",
+   "title": "A Molecular Pendulum for Efficient Hydrogen Production",
+   "url": "https://fuelcellsworks.com/2026/10/19/h2/a-molecular-pendulum-for-efficient-hydrogen-production",
+   "source": "FuelCellsWorks",
+   "published_at": "2026-10-21T15:18:58Z",
+   "category": "기술",
+   "region": "해외",
+   "chain": [
+    "수소생산"
+   ],
+   "importance": "하",
+   "summary": "분자 진동 메커니즘을 활용한 수소 생산 기술이 소개되었다. 신규 촉매 또는 반응 원리 연구로 수소 생산 효율 개선 가능성을 탐색하는 기초 연구 수준이다.",
+   "collected_at": "2026-10-22T00:28:28Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "수소생산",
+    "촉매"
+   ]
+  },
+  {
+   "id": "9b0581a992bbfd83",
+   "title": "가스안전公 서울남부, 수소충전소 가스누출 대응훈련",
+   "url": "https://www.energy-news.co.kr/news/articleView.html?idxno=229141",
+   "source": "에너지신문",
+   "published_at": "2026-10-21T15:17:27Z",
+   "category": "정책·규제",
+   "region": "국내",
+   "chain": [
+    "활용"
+   ],
+   "importance": "하",
+   "summary": "한국가스안전공사 서울남부지사가 수소충전소 대규모 누출사고에 대비한 합동 재난대응 훈련을 실시했다. 튜브트레일러 충돌 시나리오로 초기 대응부터 복구까지 단계별 절차를 점검하는 안전 관련 행사이다.",
+   "collected_at": "2026-10-22T00:28:02Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "한국가스안전공사",
+    "수소충전소",
+    "재난대응훈련",
+    "안전"
+   ]
+  },
+  {
+   "id": "f31798a63370807b",
+   "title": "Copper-Rich Multicomponent Alloy Shows Promise and Limits for Hydrogen Fuel Cell Plates",
+   "url": "https://fuelcellsworks.com/2026/10/18/fuel-cells/copper-rich-multicomponent-alloy-shows-promise-and-limits-for-hydrogen-fuel-cell-plates",
+   "source": "FuelCellsWorks",
+   "published_at": "2026-10-21T15:14:30Z",
+   "category": "기술",
+   "region": "해외",
+   "chain": [
+    "활용"
+   ],
+   "importance": "하",
+   "summary": "구리 기반 다중 성분 합금이 수소 연료전지 격판 소재로서 가능성과 한계를 보였다. 연료전지 부품 소재 개선 연구로 기술 고도화 방향을 제시하고 있다.",
+   "collected_at": "2026-10-22T00:28:28Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "연료전지",
+    "격판",
+    "합금"
+   ]
+  },
+  {
+   "id": "63ffc4a4f350395c",
+   "title": "Loughborough Researcher Awarded Prestigious Royal Academy of Engineering Fellowship to Advance Green Hydrogen Production",
+   "url": "https://fuelcellsworks.com/2026/10/20/h2/loughborough-researcher-awarded-prestigious-royal-academy-of-engineering-fellowship-to-advance-green-hydrogen-production",
+   "source": "FuelCellsWorks",
+   "published_at": "2026-10-21T15:10:59Z",
+   "category": "기술",
+   "region": "해외",
+   "chain": [
+    "수소생산"
+   ],
+   "importance": "하",
+   "summary": "Loughborough 대학 연구자가 왕립공학아카데미 펠로우십을 수상하여 그린 수소 생산 연구를 진행할 예정이다. 학술 차원의 수소 생산 기술 개발에 대한 인정으로 기초 연구 수행 의미이다.",
+   "collected_at": "2026-10-22T00:28:28Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "Loughborough",
+    "그린수소",
+    "왕립공학아카데미"
+   ]
+  },
+  {
+   "id": "6818b6dab545929e",
+   "title": "Tokyo Makes Lip Balm Using Ingredient Produced With Green Hydrogen",
+   "url": "https://fuelcellsworks.com/2026/10/19/h2/tokyo-makes-lip-balm-using-ingredient-produced-with-green-hydrogen",
+   "source": "FuelCellsWorks",
+   "published_at": "2026-10-21T15:08:56Z",
+   "category": "시장·가격",
+   "region": "해외",
+   "chain": [
+    "수소생산"
+   ],
+   "importance": "하",
+   "summary": "도쿄의 립밤 제조사가 그린 수소로 생산한 성분을 사용한 제품을 출시했다. 수소의 민간 소비재 활용 사례를 보여주는 사례이나 규모가 소규모이다.",
+   "collected_at": "2026-10-22T00:28:38Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "Tokyo",
+    "Green Hydrogen",
+    "립밤"
+   ]
+  },
+  {
+   "id": "d91c5478b80092c2",
+   "title": "SWITCH Maritime Receives Design Basis Agreement From US Coast Guard for 150-Passenger Hydrogen Fuel Cell-Electric Ferry",
+   "url": "https://fuelcellsworks.com/2026/10/21/fuel-cells/switch-maritime-receives-design-basis-agreement-from-us-coast-guard-for-150-passenger-hydrogen-fuel-cell-electric-ferry",
+   "source": "FuelCellsWorks",
+   "published_at": "2026-10-21T14:39:37Z",
+   "category": "프로젝트·계약",
+   "region": "해외",
+   "chain": [
+    "수소생산",
+    "활용"
+   ],
+   "importance": "중",
+   "summary": "SWITCH Maritime의 150인승 수소 연료전지 페리가 미국 해안경비대로부터 설계 기본 인증을 획득했다. 해양 운송 분야의 수소 연료전지 적용이 진행 중임을 보여준다.",
+   "collected_at": "2026-10-22T00:28:38Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "SWITCH Maritime",
+    "수소연료전지페리",
+    "미국해안경비대"
+   ]
+  },
+  {
+   "id": "bbbb5e2f246f12b6",
+   "title": "Colruyt-Backed 25MW Green Hydrogen Plant Enters Testing in Zeebrugge",
+   "url": "https://fuelcellsworks.com/2026/10/20/clean-energy/colruyt-backed-25mw-green-hydrogen-plant-enters-testing-in-zeebrugge",
+   "source": "FuelCellsWorks",
+   "published_at": "2026-10-21T14:18:58Z",
+   "category": "프로젝트·계약",
+   "region": "해외",
+   "chain": [
+    "수소생산"
+   ],
+   "importance": "중",
+   "summary": "Colruyt가 지원하는 25MW 규모의 그린 수소 플랜트가 벨기에 Zeebrugge에서 테스트 단계에 진입했다. 대규모 그린 수소 생산 시설의 실증화가 진행 중이다.",
+   "collected_at": "2026-10-22T00:28:38Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "Colruyt",
+    "Zeebrugge",
+    "25MW"
+   ]
+  },
+  {
+   "id": "2caf4799b9ad82ce",
+   "title": "EU Strikes Deal To Raise Carbon Permit Buffer",
+   "url": "https://carbonherald.com/eu-strikes-deal-raise-carbon-permit-buffer/?utm_source=rss&utm_medium=rss&utm_campaign=eu-strikes-deal-raise-carbon-permit-buffer",
+   "source": "Carbon Herald",
+   "published_at": "2026-10-21T14:15:04Z",
+   "category": "정책·규제",
+   "region": "해외",
+   "chain": [
+    "CCUS"
+   ],
+   "importance": "중",
+   "summary": "EU가 탄소배출권 시장의 안정성 강화를 위해 잉여 배출권 버퍼를 증액하기로 합의했다. 이는 탄소시장의 가격 변동성 관리와 제도 안정성 강화를 목표로 한다.",
+   "collected_at": "2026-10-22T00:28:49Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "EU",
+    "탄소배출권",
+    "시장안정화"
+   ]
+  },
+  {
+   "id": "4873312e38acf28c",
+   "title": "Greenpoint Lowers Hydrogen Price to €10.95 per Kilogram",
+   "url": "https://fuelcellsworks.com/2026/10/21/h2/greenpoint-lowers-hydrogen-price-to-10-95-per-kilogram",
+   "source": "FuelCellsWorks",
+   "published_at": "2026-10-21T14:12:26Z",
+   "category": "시장·가격",
+   "region": "해외",
+   "chain": [
+    "수소생산"
+   ],
+   "importance": "하",
+   "summary": "Greenpoint이 킬로그램당 €10.95로 수소 가격을 인하했다. 수소 가격 변동을 보여주는 시장 정보이다.",
+   "collected_at": "2026-10-22T00:28:38Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "Greenpoint",
+    "수소가격"
+   ]
+  },
+  {
+   "id": "f69e60a920eb30b4",
+   "title": "Hydrogen Production Costs Rise Sharply for Green and Conventional H2",
+   "url": "https://fuelcellsworks.com/2026/10/20/green-hydrogen/hydrogen-production-costs-rise-sharply-for-green-and-conventional-h2",
+   "source": "FuelCellsWorks",
+   "published_at": "2026-10-21T14:01:39Z",
+   "category": "시장·가격",
+   "region": "해외",
+   "chain": [
+    "수소생산"
+   ],
+   "importance": "중",
+   "summary": "그린 수소 및 일반 수소 모두 생산 비용이 급격히 상승했다. 수소 생산 경제성 악화는 산업 전개 시간표에 영향을 미칠 수 있다.",
+   "collected_at": "2026-10-22T00:28:38Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "수소생산",
+    "생산비용"
+   ]
+  },
+  {
+   "id": "59f00ffc19138a4b",
+   "title": "Carbon180 Presents New Roadmap For Scaling Removals On Agricultural Land In The U.S.",
+   "url": "https://carbonherald.com/carbon180-presents-new-roadmap-for-scaling-removals-on-agricultural-land-in-the-u-s/?utm_source=rss&utm_medium=rss&utm_campaign=carbon180-presents-new-roadmap-for-scaling-removals-on-agricultural-land-in-the-u-s",
+   "source": "Carbon Herald",
+   "published_at": "2026-10-21T13:18:18Z",
+   "category": "정책·규제",
+   "region": "해외",
+   "chain": [],
+   "importance": "하",
+   "summary": "미국 기후 NGO인 Carbon180이 농업 부문에서의 탄소제거 확대를 위한 새로운 로드맵을 발표했다. 연방정부 차원의 정책 방향을 제시하는 보고서이다.",
+   "collected_at": "2026-10-22T00:28:49Z",
+   "needs_review": true,
+   "review_reason": "도메인 밖: 밸류체인 해당 없음",
+   "tags": [
+    "Carbon180",
+    "미국",
+    "탄소제거"
+   ]
+  },
+  {
+   "id": "f237aeeec7b299a2",
+   "title": "Dutch Hydrogen Refueling Firm Resato Declared Bankrupt, Restart Bid Due Next Week",
+   "url": "https://fuelcellsworks.com/2026/10/21/electrolyzer/dutch-hydrogen-refueling-firm-resato-declared-bankrupt-restart-bid-due-next-week",
+   "source": "FuelCellsWorks",
+   "published_at": "2026-10-21T12:30:53Z",
+   "category": "프로젝트·계약",
+   "region": "해외",
+   "chain": [
+    "운송·저장"
+   ],
+   "importance": "하",
+   "summary": "네덜란드 수소 충전소 기업 Resato가 파산을 선언했고 재개 입찰이 예정되어 있다. 수소 인프라 사업의 어려움을 보여주는 사례이다.",
+   "collected_at": "2026-10-22T00:28:38Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "Resato",
+    "네덜란드",
+    "수소충전소"
+   ]
+  },
+  {
+   "id": "9e0ce9071a11608c",
+   "title": "﻿JNTG, ‘Hydrogen Technology World Expo 2026’서 GDL 등 핵심 소재 선보이며 유럽 공략 나서",
+   "url": "http://www.e2news.com/news/articleView.html?idxno=335311",
+   "source": "이투뉴스",
+   "published_at": "2026-10-21T11:55:01Z",
+   "category": "프로젝트·계약",
+   "region": "해외",
+   "chain": [
+    "수소생산"
+   ],
+   "importance": "중",
+   "summary": "탄소 소재 전문기업 JNTG가 독일 함부르크에서 열린 수소 기술 박람회에 참가하여 가스확산층 등 핵심 탄소 소재를 선보였다. 유럽 메이저 기업과의 기술 제휴 확대 및 신규 프로젝트 확보를 추진 중이다.",
+   "collected_at": "2026-10-22T00:28:16Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "JNTG",
+    "독일",
+    "가스확산층"
+   ]
+  },
+  {
+   "id": "be7212fb56ef6634",
+   "title": "EU Awards €3.4B To 77 Net-Zero Projects, Including First DACCS Grant",
+   "url": "https://carbonherald.com/eu-awards-e3-4b-to-77-net-zero-projects-including-first-daccs-grant/?utm_source=rss&utm_medium=rss&utm_campaign=eu-awards-e3-4b-to-77-net-zero-projects-including-first-daccs-grant",
+   "source": "Carbon Herald",
+   "published_at": "2026-10-21T11:13:39Z",
+   "category": "투자·금융",
+   "region": "해외",
+   "chain": [
+    "CCUS"
+   ],
+   "importance": "상",
+   "summary": "EU 집행위원회가 23개국 77개 순배출제로 기술 프로젝트에 총 34억 유로를 지원하기로 결정했으며, 이 중 첫 번째 직접공기포집저장(DACCS) 사업도 포함되었다. 유럽의 탄소중립 기술 투자가 본격화되는 신호이다.",
+   "collected_at": "2026-10-22T00:28:49Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "EU",
+    "DACCS",
+    "혁신기금"
+   ]
+  },
+  {
+   "id": "f0a92b757c0daf27",
+   "title": "미코파워, 인도 그린수소 허브에 SOEC 기술 적용 추진",
+   "url": "http://www.e2news.com/news/articleView.html?idxno=335288",
+   "source": "이투뉴스",
+   "published_at": "2026-10-21T10:31:08Z",
+   "category": "프로젝트·계약",
+   "region": "해외",
+   "chain": [
+    "수소생산"
+   ],
+   "importance": "중",
+   "summary": "미코파워가 인도 국영 전력기업 NTPC의 자회사 NGEL과 고체산화물 수전해(SOEC) 사업 협력 MOU를 체결했다. 안드라프라데시주 푸디마다카의 그린수소 허브 프로젝트에 SOEC 기술을 적용할 계획이다.",
+   "collected_at": "2026-10-22T00:28:16Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "미코파워",
+    "NGEL",
+    "인도"
+   ]
+  },
+  {
+   "id": "1c0bbf0db4dd0446",
+   "title": "수도권대기환경청, 인천남동농협 수소충전소 점검…수소지게차 보급 확대 모색",
+   "url": "https://www.energydaily.co.kr/news/articleView.html?idxno=204238",
+   "source": "에너지데일리",
+   "published_at": "2026-10-21T10:26:42Z",
+   "category": "정책·규제",
+   "region": "국내",
+   "chain": [
+    "수소생산"
+   ],
+   "importance": "중",
+   "summary": "수도권대기환경청이 인천남동농협 수소충전소를 점검하고 수소지게차 등 산업기계 보급 확대를 모색했다. 수소 모빌리티가 승용차와 버스에서 산업현장 장비로 활용 범위가 확대되고 있으며, 충전 인프라와 탄소배출 감축이 함께 과제가 되고 있다.",
+   "collected_at": "2026-10-22T00:28:16Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "수도권대기환경청",
+    "인천",
+    "수소지게차"
+   ]
+  },
+  {
+   "id": "38f6b8db249d5f48",
+   "title": "Timber Carbon Launches New AI-Powered Infrastructure For Building Sector CDR",
+   "url": "https://carbonherald.com/timber-carbon-launches-new-ai-powered-infrastructure-for-building-sector-cdr/?utm_source=rss&utm_medium=rss&utm_campaign=timber-carbon-launches-new-ai-powered-infrastructure-for-building-sector-cdr",
+   "source": "Carbon Herald",
+   "published_at": "2026-10-21T10:06:31Z",
+   "category": "기술",
+   "region": "해외",
+   "chain": [
+    "CCUS"
+   ],
+   "importance": "중",
+   "summary": "스위스 기반 Timber Carbon이 건설 부문 탄소제거를 위한 AI 기반 인프라를 출시했다. 건축자재 등 순환경제 영역에서 탄소제거 기술을 활용하려는 시도이다.",
+   "collected_at": "2026-10-22T00:28:49Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "Timber Carbon",
+    "AI",
+    "건축부문"
+   ]
+  },
+  {
+   "id": "9a93b8bd06bde8b2",
+   "title": "Isometric Opens Carbon Reversal Insurance To Certified Reforestation Projects",
+   "url": "https://carbonherald.com/isometric-opens-carbon-reversal-insurance-to-certified-reforestation-projects/?utm_source=rss&utm_medium=rss&utm_campaign=isometric-opens-carbon-reversal-insurance-to-certified-reforestation-projects",
+   "source": "Carbon Herald",
+   "published_at": "2026-10-21T09:40:26Z",
+   "category": "투자·금융",
+   "region": "해외",
+   "chain": [
+    "CCUS"
+   ],
+   "importance": "하",
+   "summary": "탄소제거 레지스트리 Isometric가 재조림 프로젝트용 보험 프레임을 출시했다. 탄소제거 사업의 재정 안정성을 개선하기 위한 금융 상품이다.",
+   "collected_at": "2026-10-22T00:28:49Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "Isometric",
+    "탄소보험",
+    "재조림"
+   ]
+  },
+  {
+   "id": "01a1ccf66e5462f5",
+   "title": "청정수소발전 입찰시장 개편···국내 수소 생산·터빈 기술 평가 강화",
+   "url": "https://www.gasnews.com/news/articleView.html?idxno=127279",
+   "source": "가스신문",
+   "published_at": "2026-10-21T09:37:00Z",
+   "category": "정책·규제",
+   "region": "국내",
+   "chain": [
+    "수소생산",
+    "활용"
+   ],
+   "importance": "중",
+   "summary": "청정수소발전 입찰시장이 연 500GWh 규모로 개설되며, 국내 수소 생산과 터빈 기술 활용을 유도하기 위해 비가격평가 비중을 40%에서 50%로 상향 조정한다. 해외 수소 중심의 조달 구조를 개선하고 에너지 안보를 강화하려는 정책이다.",
+   "collected_at": "2026-10-22T00:28:02Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "청정수소발전",
+    "입찰시장",
+    "국내 수소생산",
+    "기술평가"
+   ]
+  },
   {
    "id": "56ce1ea4f2d02bb4",
    "title": "미코파워, 인도 대규모 그린수소 허브에 SOEC 기술 적용",
@@ -72,6 +814,75 @@
    ]
   },
   {
+   "id": "c91db9722c7dca47",
+   "title": "日 가와사키중공업, 수소 전용연소 가스터빈 설치 완료",
+   "url": "https://www.gasnews.com/news/articleView.html?idxno=127265",
+   "source": "가스신문",
+   "published_at": "2026-10-21T08:20:00Z",
+   "category": "기술",
+   "region": "해외",
+   "chain": [
+    "활용"
+   ],
+   "importance": "중",
+   "summary": "일본 가와사키중공업이 독일 RWE의 엠스란트 발전소에 3만kW급 수소 전용연소 가스터빈 설치를 완료했다. 향후 시운전을 거쳐 수소 전용연소 발전 실증 프로젝트를 본격 추진할 예정으로, 수소 활용 기술의 실제 적용 사례이다.",
+   "collected_at": "2026-10-22T00:28:02Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "가와사키중공업",
+    "RWE",
+    "수소터빈",
+    "독일"
+   ]
+  },
+  {
+   "id": "5c6fc1e569705ef8",
+   "title": "[사설] CNG·수소버스 근본적 안전대책을",
+   "url": "https://www.gasnews.com/news/articleView.html?idxno=127263",
+   "source": "가스신문",
+   "published_at": "2026-10-21T07:15:00Z",
+   "category": "정책·규제",
+   "region": "국내",
+   "chain": [
+    "활용"
+   ],
+   "importance": "중",
+   "summary": "한국교통안전공단의 안전점검 결과 CNG·수소버스 2만3,042대 중 1,351대가 부적합 판정을 받았다. 충전 과정 관련 부위의 부적합이 44.3%를 차지하며, 수소버스의 안전 대책 강화가 필요함을 시사한다.",
+   "collected_at": "2026-10-22T00:28:02Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "한국교통안전공단",
+    "수소버스",
+    "안전점검",
+    "충전설비"
+   ]
+  },
+  {
+   "id": "1b4508c5869ed0a1",
+   "title": "[사설] 수소경제 계획, 재설계 시급하다",
+   "url": "https://www.gasnews.com/news/articleView.html?idxno=127262",
+   "source": "가스신문",
+   "published_at": "2026-10-21T07:14:00Z",
+   "category": "정책·규제",
+   "region": "국내",
+   "chain": [
+    "수소생산"
+   ],
+   "importance": "상",
+   "summary": "2021년 수립한 제1차 수소경제 이행 기본계획이 심각한 현실 괴리를 드러냈다. 2030년 청정수소 공급목표 296만톤 대비 현재 수요는 13만톤(4.4%), 국내 그린수소 생산단가는 목표의 5.2배에 달하는 등 구조적 재검토가 시급한 상황이다.",
+   "collected_at": "2026-10-22T00:28:02Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "수소경제 기본계획",
+    "청정수소",
+    "그린수소",
+    "2030목표"
+   ]
+  },
+  {
    "id": "3b18933dbcaa064b",
    "title": "COP 31 Events",
    "url": "https://www.globalccsinstitute.com/events/cop-31-events/",
@@ -112,6 +923,28 @@
     "퓨얼셀에너지",
     "MCFC",
     "연료전지"
+   ]
+  },
+  {
+   "id": "b4da98f5fbc7e580",
+   "title": "Global Operating CCS Capacity To Surpass 100 MTPA As Market Shifts To Cross-Border Hubs",
+   "url": "https://carbonherald.com/global-operating-ccs-capacity-to-surpass-100-mtpa-as-market-shifts-to-cross-border-hubs/?utm_source=rss&utm_medium=rss&utm_campaign=global-operating-ccs-capacity-to-surpass-100-mtpa-as-market-shifts-to-cross-border-hubs",
+   "source": "Carbon Herald",
+   "published_at": "2026-10-20T17:00:49Z",
+   "category": "시장·가격",
+   "region": "해외",
+   "chain": [
+    "CCUS"
+   ],
+   "importance": "중",
+   "summary": "전 세계 탄소포집저장(CCS) 가동 설비 용량이 100 MTPA를 초과할 것으로 예상되며, 시장이 국제 허브 중심으로 재편되는 추세이다. CCS 산업의 규모 확대와 시장 구조 변화를 반영한다.",
+   "collected_at": "2026-10-22T00:28:49Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "CCS",
+    "100MTPA",
+    "국제허브"
    ]
   },
   {
@@ -397,6 +1230,26 @@
    ]
   },
   {
+   "id": "2ee54f39edd5626f",
+   "title": "New Ocean Carbon Removal Watch Platform To Track The mCDR Field",
+   "url": "https://carbonherald.com/new-ocean-carbon-removal-watch-platform-to-track-the-mcdr-field/?utm_source=rss&utm_medium=rss&utm_campaign=new-ocean-carbon-removal-watch-platform-to-track-the-mcdr-field",
+   "source": "Carbon Herald",
+   "published_at": "2026-10-20T14:47:46Z",
+   "category": "기술",
+   "region": "해외",
+   "chain": [],
+   "importance": "하",
+   "summary": "해양 탄소제거(mCDR) 분야를 추적하는 Ocean Carbon Removal Watch 플랫폼이 새롭게 출범했다. 해양 기반 탄소제거 기술의 발전 현황을 모니터링하는 관찰 도구이다.",
+   "collected_at": "2026-10-22T00:28:49Z",
+   "needs_review": true,
+   "review_reason": "도메인 밖: 밸류체인 해당 없음",
+   "tags": [
+    "해양탄소제거",
+    "mCDR",
+    "모니터링"
+   ]
+  },
+  {
    "id": "ade8c50d8313b4d4",
    "title": "China Energy Engineering Starts Construction on Second Phase of World’s Largest Green Ammonia Project",
    "url": "https://fuelcellsworks.com/2026/10/20/h2/china-energy-engineering-starts-construction-on-second-phase-of-world-s-largest-green-ammonia-project",
@@ -507,6 +1360,28 @@
    ]
   },
   {
+   "id": "618b7a1f57284775",
+   "title": "Sirona’s Furu Is Now The First DACCS Project Backed By The EU Innovation Fund",
+   "url": "https://carbonherald.com/sironas-furu-is-now-the-first-daccs-project-backed-by-the-eu-innovation-fund/?utm_source=rss&utm_medium=rss&utm_campaign=sironas-furu-is-now-the-first-daccs-project-backed-by-the-eu-innovation-fund",
+   "source": "Carbon Herald",
+   "published_at": "2026-10-20T13:32:16Z",
+   "category": "투자·금융",
+   "region": "해외",
+   "chain": [
+    "CCUS"
+   ],
+   "importance": "상",
+   "summary": "Sirona Technologies의 Furu 직접공기포집저장(DACCS) 프로젝트가 EU 혁신기금으로부터 최대 910만 유로의 지원을 받기로 결정됐으며, 이는 EU 혁신기금 최초의 DACCS 사업이다. CCUS 기술의 상용화 단계 진입을 의미한다.",
+   "collected_at": "2026-10-22T00:28:49Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "Sirona",
+    "Furu",
+    "EU혁신기금"
+   ]
+  },
+  {
    "id": "c42d2ec4d3bb94ed",
    "title": "경기그린에너지, 세계 최대 MCFC 발전소 정상화… FCE와 장기 협력 강화",
    "url": "https://www.energydaily.co.kr/news/articleView.html?idxno=204201",
@@ -553,6 +1428,26 @@
    ]
   },
   {
+   "id": "fcee7caf29a2b050",
+   "title": "EXCLUSIVE: Terraton Signs Offtakes With Climeworks And Climate Impact Partners",
+   "url": "https://carbonherald.com/exclusive-terraton-signs-offtakes-with-climeworks-climate-impact-partners/?utm_source=rss&utm_medium=rss&utm_campaign=exclusive-terraton-signs-offtakes-with-climeworks-climate-impact-partners",
+   "source": "Carbon Herald",
+   "published_at": "2026-10-20T11:06:00Z",
+   "category": "투자·금융",
+   "region": "해외",
+   "chain": [],
+   "importance": "하",
+   "summary": "Terraton이 바이오차 기반 탄소제거 크레딧을 발행하고 Climeworks 등과 구매 계약을 체결했다. 농업 부문 탄소제거 시장의 초기 사업화 사례이나 수소·암모니아·CCUS와 직접 관련이 없다.",
+   "collected_at": "2026-10-22T00:28:53Z",
+   "needs_review": true,
+   "review_reason": "도메인 밖: 밸류체인 해당 없음",
+   "tags": [
+    "Terraton",
+    "Climeworks",
+    "탄소제거"
+   ]
+  },
+  {
    "id": "70bf3248817cde62",
    "title": "세계 최대 MCFC 발전소 정상 가동···美 FCE와 협력 확대",
    "url": "https://www.energy-news.co.kr/news/articleView.html?idxno=229088",
@@ -572,6 +1467,26 @@
     "경기그린에너지",
     "MCFC",
     "퓨얼셀에너지"
+   ]
+  },
+  {
+   "id": "2a4d18fc042ff779",
+   "title": "Google, McKinsey Invest In Silvopasture Carbon Removal By Working Trees",
+   "url": "https://carbonherald.com/google-mckinsey-invest-in-silvopasture-carbon-removal-by-working-trees/?utm_source=rss&utm_medium=rss&utm_campaign=google-mckinsey-invest-in-silvopasture-carbon-removal-by-working-trees",
+   "source": "Carbon Herald",
+   "published_at": "2026-10-20T10:33:26Z",
+   "category": "투자·금융",
+   "region": "해외",
+   "chain": [],
+   "importance": "하",
+   "summary": "Google과 McKinsey가 Working Trees의 임농업(silvopasture) 기반 탄소제거 사업에 투자 계약을 체결했다. 탄소감축 시장의 다양한 자연기반 솔루션 개발 사례이나 수소·암모니아·CCUS와 직접 관련이 없다.",
+   "collected_at": "2026-10-22T00:28:53Z",
+   "needs_review": true,
+   "review_reason": "도메인 밖: 밸류체인 해당 없음",
+   "tags": [
+    "Google",
+    "McKinsey",
+    "Working Trees"
    ]
   },
   {
