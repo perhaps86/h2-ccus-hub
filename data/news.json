@@ -1,7 +1,717 @@
 {
- "generated_at": "2026-10-23T00:27:30Z",
- "count": 1017,
+ "generated_at": "2026-10-24T00:21:00Z",
+ "count": 1054,
  "items": [
+  {
+   "id": "c3ae41a3af6aa398",
+   "title": "Petronas, TotalEnergies, And Mitsui Partner On Offshore Malaysian CO2 Storage Hub",
+   "url": "https://carbonherald.com/petronas-totalenergies-and-mitsui-partner-on-offshore-malaysian-co2-storage-hub/?utm_source=rss&utm_medium=rss&utm_campaign=petronas-totalenergies-and-mitsui-partner-on-offshore-malaysian-co2-storage-hub",
+   "source": "Carbon Herald",
+   "published_at": "2026-10-23T16:45:36Z",
+   "category": "프로젝트·계약",
+   "region": "해외",
+   "chain": [
+    "CCUS"
+   ],
+   "importance": "중",
+   "summary": "Petronas, TotalEnergies, Mitsui가 말레이시아 해역의 CO2 저장 허브 개발을 위한 합작사를 공식 체결했다. 동남아 지역 대형 에너지 기업들의 CCUS 협력 사례로 의미가 있다.",
+   "collected_at": "2026-10-24T00:20:53Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "Petronas",
+    "TotalEnergies",
+    "Mitsui",
+    "말레이시아"
+   ]
+  },
+  {
+   "id": "fffef37515146b1d",
+   "title": "경북도, 울진군 '미래에너지 산업 거점' 육성",
+   "url": "https://www.todayenergy.kr/news/articleView.html?idxno=304612",
+   "source": "투데이에너지",
+   "published_at": "2026-10-23T16:18:07Z",
+   "category": "정책·규제",
+   "region": "국내",
+   "chain": [
+    "수소생산"
+   ],
+   "importance": "중",
+   "summary": "경상북도가 울진을 원자력·재생에너지·청정수소가 연계된 미래에너지 산업 거점으로 육성하겠다고 발표했다. 울진의 청정수소 생산기반과 포항의 수소산업을 연결해 동해안 청정수소 전주기 산업생태계 구축을 목표로 하고 있다.",
+   "collected_at": "2026-10-24T00:20:16Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "경상북도",
+    "울진",
+    "포항",
+    "청정수소"
+   ]
+  },
+  {
+   "id": "312e21aec97c8c13",
+   "title": "Amogy to Deploy Ammonia Cracking Module at New Low-Carbon Testbed with A*STAR, Advancing Ammonia-to-Hydrogen Technology in Singapore",
+   "url": "https://fuelcellsworks.com/2026/10/23/clean-energy/amogy-to-deploy-ammonia-cracking-module-at-new-low-carbon-testbed-with-a-star-advancing-ammonia-to-hydrogen-technology-in-singapore",
+   "source": "FuelCellsWorks",
+   "published_at": "2026-10-23T16:02:13Z",
+   "category": "프로젝트·계약",
+   "region": "해외",
+   "chain": [
+    "수소생산"
+   ],
+   "importance": "중",
+   "summary": "Amogy가 싱가포르의 A*STAR와 협력하여 암모니아 크래킹 모듈을 저탄소 테스트베드에 배치한다. 암모니아에서 수소를 추출하는 기술의 실증을 진행하는 것으로, 싱가포르에서의 암모니아-수소 기술 고도화를 추진하고 있다.",
+   "collected_at": "2026-10-24T00:20:29Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "Amogy",
+    "A*STAR",
+    "싱가포르",
+    "암모니아 크래킹"
+   ]
+  },
+  {
+   "id": "8e4fdab825cee6aa",
+   "title": "Germany’s Hydrogen Backbone Network: 537Km Running, 9,040Km Planned",
+   "url": "https://fuelcellsworks.com/2026/10/22/h2/germany-s-hydrogen-backbone-network-537km-running-9-040km-planned",
+   "source": "FuelCellsWorks",
+   "published_at": "2026-10-23T15:50:58Z",
+   "category": "프로젝트·계약",
+   "region": "해외",
+   "chain": [
+    "운송·저장"
+   ],
+   "importance": "중",
+   "summary": "독일의 수소 백본 네트워크가 537km 구간에서 운영 중이며, 총 9,040km의 추가 확장이 계획되어 있다. 유럽 에너지 전환의 핵심 인프라로 대규모 수소 운송 네트워크 구축이 본격화되고 있다.",
+   "collected_at": "2026-10-24T00:20:29Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "독일",
+    "수소 백본",
+    "운송 인프라"
+   ]
+  },
+  {
+   "id": "0fc4dc4e7cdb2616",
+   "title": "GRUBER Logistics Truck at Hydrogen Truck Premiere at Milan Airport",
+   "url": "https://fuelcellsworks.com/2026/10/23/fuel-cells/gruber-logistics-truck-at-hydrogen-truck-premiere-at-milan-airport",
+   "source": "FuelCellsWorks",
+   "published_at": "2026-10-23T15:39:59Z",
+   "category": "프로젝트·계약",
+   "region": "해외",
+   "chain": [
+    "운송·저장"
+   ],
+   "importance": "하",
+   "summary": "GRUBER Logistics가 밀라노 공항에서 개최된 수소 트럭 프리미어 행사에 참여했다. 수소 기반 물류 운송 기술 시연으로 수소 차량 기술의 실용화 단계를 보여주는 행사이다.",
+   "collected_at": "2026-10-24T00:20:29Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "GRUBER Logistics",
+    "밀라노 공항",
+    "수소 트럭"
+   ]
+  },
+  {
+   "id": "3742b62146b6f235",
+   "title": "Seatrium Wins Five-Vessel Deal for Hydrogen-Ready 600MW Karpowerships",
+   "url": "https://fuelcellsworks.com/2026/10/23/h2/seatrium-wins-five-vessel-deal-for-hydrogen-ready-600mw-karpowerships",
+   "source": "FuelCellsWorks",
+   "published_at": "2026-10-23T15:28:43Z",
+   "category": "프로젝트·계약",
+   "region": "해외",
+   "chain": [],
+   "importance": "하",
+   "summary": "Seatrium이 해양 에너지 회사인 Karpowerships로부터 수소 준비 상태의 600MW급 선박 5척 계약을 체결했다. 해양 발전 기술과 수소 에너지의 연결 가능성을 보여주는 사례이다.",
+   "collected_at": "2026-10-24T00:20:29Z",
+   "needs_review": true,
+   "review_reason": "도메인 밖: 밸류체인 해당 없음",
+   "tags": [
+    "Seatrium",
+    "Karpowerships",
+    "600MW"
+   ]
+  },
+  {
+   "id": "7d554b0501761324",
+   "title": "포스코, 글로벌 '수소환원제철 동맹' 결집…'하이렉스' 조기 상용화 박차",
+   "url": "https://www.industrynews.co.kr/news/articleView.html?idxno=88111",
+   "source": "인더스트리뉴스",
+   "published_at": "2026-10-23T15:28:07Z",
+   "category": "프로젝트·계약",
+   "region": "국내",
+   "chain": [
+    "수소생산"
+   ],
+   "importance": "중",
+   "summary": "포스코가 글로벌 파트너사들과 함께 독자 개발한 수소환동제철 기술 '하이렉스(HyREX)'의 상용화를 추진하기 위한 개방형 기술 동맹을 구체화했다. 포항제철소에서 파트너십 컨퍼런스를 개최하여 기술 협력 방안을 논의했으며, 실증 플랜트 단계로의 진입을 의미한다. 글로벌 표준화를 통해 제철산업의 탈탄소화를 선도하려는 전략이다.",
+   "collected_at": "2026-10-24T00:20:29Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "포스코",
+    "하이렉스",
+    "포항제철소",
+    "수소환원제철"
+   ]
+  },
+  {
+   "id": "1bcdbfb7c18b8b50",
+   "title": "Gyeonggi Green Energy and Fuel Cell Energy Strengthen Cooperation for Stable Power Plant Operation",
+   "url": "https://fuelcellsworks.com/2026/10/21/electrolyzer/gyeonggi-green-energy-and-fuel-cell-energy-strengthen-cooperation-for-stable-power-plant-operation",
+   "source": "FuelCellsWorks",
+   "published_at": "2026-10-23T15:26:27Z",
+   "category": "프로젝트·계약",
+   "region": "국내",
+   "chain": [
+    "활용"
+   ],
+   "importance": "하",
+   "summary": "경기 그린에너지와 Fuel Cell Energy가 발전소 안정 운영을 위한 협력을 강화했다. 연료전지 기반 전력 생산 기술의 국내 도입 및 운영 협력 사례이다.",
+   "collected_at": "2026-10-24T00:20:29Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "경기 그린에너지",
+    "Fuel Cell Energy",
+    "연료전지"
+   ]
+  },
+  {
+   "id": "402a726c26d75e03",
+   "title": "Abergeldie’s Ardent Underground Secures US Patent for Innovative Underground Hydrogen Storage Solution",
+   "url": "https://fuelcellsworks.com/2026/10/23/h2/abergeldie-s-ardent-underground-secures-us-patent-for-innovative-underground-hydrogen-storage-solution",
+   "source": "FuelCellsWorks",
+   "published_at": "2026-10-23T15:12:35Z",
+   "category": "기술",
+   "region": "해외",
+   "chain": [
+    "운송·저장"
+   ],
+   "importance": "하",
+   "summary": "Abergeldie의 Ardent Underground가 지하 수소 저장 솔루션에 대한 미국 특허를 획득했다. 장기 수소 저장 기술의 혁신 사례로, 대규모 수소 인프라 구축의 기술적 기초를 마련하고 있다.",
+   "collected_at": "2026-10-24T00:20:29Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "Abergeldie",
+    "Ardent Underground",
+    "지하 저장",
+    "미국 특허"
+   ]
+  },
+  {
+   "id": "c0a415171fea1f1a",
+   "title": "Terni Approves €5.65M [$6.34M] Hydrogen Bus Refuelling Station in Maratta",
+   "url": "https://fuelcellsworks.com/2026/10/22/electrolyzer/terni-approves-5-65m-6-34m-hydrogen-bus-refuelling-station-in-maratta",
+   "source": "FuelCellsWorks",
+   "published_at": "2026-10-23T15:06:34Z",
+   "category": "프로젝트·계약",
+   "region": "해외",
+   "chain": [
+    "운송·저장"
+   ],
+   "importance": "중",
+   "summary": "이탈리아 Terni시가 Maratta에 수소 버스 충전소 건설을 위해 565만 유로를 승인했다. 해당 프로젝트는 지역 수소 모빌리티 인프라 확충의 일환으로 진행 중이다.",
+   "collected_at": "2026-10-24T00:20:40Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "Terni",
+    "이탈리아",
+    "수소 충전소"
+   ]
+  },
+  {
+   "id": "2b97152048988496",
+   "title": "가스안전공사, 가스 · 수소 안전 분야 국제 협력 네트워크 확대",
+   "url": "https://www.todayenergy.kr/news/articleView.html?idxno=304604",
+   "source": "투데이에너지",
+   "published_at": "2026-10-23T15:02:48Z",
+   "category": "정책·규제",
+   "region": "해외",
+   "chain": [
+    "수소생산"
+   ],
+   "importance": "하",
+   "summary": "한국가스안전공사가 글로벌 가스·수소 안전 분야 협력 네트워크 확대를 위해 9개국 정부 공무원이 참석한 정책 공유 포럼을 개최했다. 국제 안전 협력 네트워크 구축을 위한 협력 논의가 진행되었다.",
+   "collected_at": "2026-10-24T00:20:16Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "가스안전공사",
+    "글로벌",
+    "안전기준",
+    "한양대학교"
+   ]
+  },
+  {
+   "id": "09b0ad75e4c4631f",
+   "title": "SK Eternix Starts up First Two Plants in 28MW South Korean Fuel-Cell Cluster",
+   "url": "https://fuelcellsworks.com/2026/10/20/clean-energy/sk-eternix-starts-up-first-two-plants-in-28mw-south-korean-fuel-cell-cluster",
+   "source": "FuelCellsWorks",
+   "published_at": "2026-10-23T14:55:43Z",
+   "category": "프로젝트·계약",
+   "region": "국내",
+   "chain": [
+    "수소생산"
+   ],
+   "importance": "중",
+   "summary": "SK Eternix가 한국 내 28MW 규모 연료전지 클러스터의 첫 두 개 발전소를 가동 시작했다. 해당 프로젝트는 국내 연료전지 산업의 상용화 확대를 나타낸다.",
+   "collected_at": "2026-10-24T00:20:40Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "SK Eternix",
+    "한국",
+    "28MW 연료전지"
+   ]
+  },
+  {
+   "id": "8aef3f21b1ed2a5d",
+   "title": "Germany’s Taunus Hydrogen Train Fleet Overhaul Delayed Until Late 2028",
+   "url": "https://fuelcellsworks.com/2026/10/22/fuel-cells/germany-s-taunus-hydrogen-train-fleet-overhaul-delayed-until-late-2028",
+   "source": "FuelCellsWorks",
+   "published_at": "2026-10-23T14:46:10Z",
+   "category": "프로젝트·계약",
+   "region": "해외",
+   "chain": [
+    "활용"
+   ],
+   "importance": "중",
+   "summary": "독일의 Taunus 수소 기차 함대 개선 사업이 2028년 말까지 지연되었다. 해당 프로젝트는 유럽의 철도 수소화 추진에서 일정 조정이 발생하고 있음을 보여준다.",
+   "collected_at": "2026-10-24T00:20:40Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "Taunus",
+    "독일",
+    "수소 기차"
+   ]
+  },
+  {
+   "id": "b142e647ea805139",
+   "title": "CHARBONE Adds Hydrogen and Helium Filling Unit at Sorel-Tracy",
+   "url": "https://fuelcellsworks.com/2026/10/23/h2/charbone-adds-hydrogen-and-helium-filling-unit-at-sorel-tracy",
+   "source": "FuelCellsWorks",
+   "published_at": "2026-10-23T14:34:02Z",
+   "category": "프로젝트·계약",
+   "region": "해외",
+   "chain": [
+    "운송·저장"
+   ],
+   "importance": "하",
+   "summary": "캐나다 CHARBONE이 Sorel-Tracy 지역에 수소 및 헬륨 충전 설비를 추가 설치했다. 지역 산업용 가스 인프라 확충의 일환이다.",
+   "collected_at": "2026-10-24T00:20:40Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "CHARBONE",
+    "Sorel-Tracy",
+    "캐나다"
+   ]
+  },
+  {
+   "id": "e6ef4707a5914e66",
+   "title": "Mico Power Signs Solid Oxide Electrolysis Partnership with NTPC, India's Largest State-Owned Power Company",
+   "url": "https://fuelcellsworks.com/2026/10/21/electrolyzer/mico-power-signs-solid-oxide-electrolysis-partnership-with-ntpc-india-s-largest-state-owned-power-company",
+   "source": "FuelCellsWorks",
+   "published_at": "2026-10-23T14:25:59Z",
+   "category": "프로젝트·계약",
+   "region": "해외",
+   "chain": [
+    "수소생산"
+   ],
+   "importance": "중",
+   "summary": "Mico Power가 인도 최대 국영 전력회사 NTPC와 고체산화물 전해질 기술 파트너십을 체결했다. 해당 계약은 인도의 그린 수소 생산 확대 전략의 일환이다.",
+   "collected_at": "2026-10-24T00:20:40Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "Mico Power",
+    "NTPC",
+    "인도"
+   ]
+  },
+  {
+   "id": "32e65dd463c26a4b",
+   "title": "2027 Multi Government CCS Working Group Meeting",
+   "url": "https://www.globalccsinstitute.com/events/2027-multi-government-ccs-working-group-meeting/",
+   "source": "Global CCS Institute",
+   "published_at": "2026-10-23T14:15:30Z",
+   "category": "정책·규제",
+   "region": "해외",
+   "chain": [
+    "CCUS"
+   ],
+   "importance": "중",
+   "summary": "Global CCS Institute가 2027년 3월 16일 맨체스터에서 다국정부 CCS 워킹그룹 미팅을 개최한다. 유럽 및 전 지구적 CCS 개발의 기회와 과제를 논의하는 정책 전문가 초대 회의다.",
+   "collected_at": "2026-10-24T00:21:00Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "Global CCS Institute",
+    "Manchester",
+    "CCS Working Group"
+   ]
+  },
+  {
+   "id": "77d882ecc3855c6e",
+   "title": "INPEX Commences Ammonia Production and Supply at Kashiwazaki Hydrogen Park as Part of Integrated Blue Hydrogen and Ammonia Production and Utilization Demonstration Project in Niigata, Japan",
+   "url": "https://fuelcellsworks.com/2026/10/23/h2/inpex-commences-ammonia-production-and-supply-at-kashiwazaki-hydrogen-park-as-part-of-integrated-blue-hydrogen-and-ammonia-production-and-utilization-demonstration-project-in-niigata-japan",
+   "source": "FuelCellsWorks",
+   "published_at": "2026-10-23T14:11:55Z",
+   "category": "프로젝트·계약",
+   "region": "해외",
+   "chain": [
+    "암모니아",
+    "수소생산"
+   ],
+   "importance": "상",
+   "summary": "INPEX가 일본 니이가타현 Kashiwazaki 수소공원에서 암모니아 생산 및 공급을 시작했다. 블루 수소와 암모니아의 통합 생산 및 활용 실증 프로젝트로 일본의 암모니아 활용 생태계 구축 진전을 의미한다.",
+   "collected_at": "2026-10-24T00:20:40Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "INPEX",
+    "Kashiwazaki",
+    "일본",
+    "암모니아"
+   ]
+  },
+  {
+   "id": "997cd46ef37f3a6b",
+   "title": "설치의무 기준 빠진 수소법 시행령···연료전지 업계, 헌법소원 ‘승부수’",
+   "url": "https://www.gasnews.com/news/articleView.html?idxno=127335",
+   "source": "가스신문",
+   "published_at": "2026-10-23T13:59:00Z",
+   "category": "정책·규제",
+   "region": "국내",
+   "chain": [
+    "활용"
+   ],
+   "importance": "상",
+   "summary": "건물용 연료전지 업계가 수소법 시행령에서 공동주택 설치의무 기준이 빠진 점을 지적하며 헌법소원을 제기했다. 정부의 입법예고 단계 피드백을 반영하지 않은 결정으로 제도 공백이 발생했으며, 이는 관련 기업들의 사업 운영에 직결된 중요한 규제 문제다.",
+   "collected_at": "2026-10-24T00:20:16Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "청정수소용품협의회",
+    "수소법",
+    "연료전지",
+    "공공건축물"
+   ]
+  },
+  {
+   "id": "a04f780c316ac03f",
+   "title": "㈜태진중공업, CO₂ 포집·저장 프로젝트 공정용 압력용기 수주",
+   "url": "https://www.gasnews.com/news/articleView.html?idxno=127341",
+   "source": "가스신문",
+   "published_at": "2026-10-23T13:57:00Z",
+   "category": "프로젝트·계약",
+   "region": "해외",
+   "chain": [
+    "CCUS",
+    "운송·저장"
+   ],
+   "importance": "상",
+   "summary": "태진중공업이 삼성물산으로부터 CO₂ 포집 프로젝트용 압력용기 30기를 수주했다. 카타르 라스라판의 1조9천억 원 규모 탄소 압축·운송 시설 건설 계약에 따른 것으로, 주요 공정 장비 공급이 확정된 사업이다.",
+   "collected_at": "2026-10-24T00:20:16Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "태진중공업",
+    "삼성물산",
+    "카타르",
+    "CCUS"
+   ]
+  },
+  {
+   "id": "02469137e31e26fb",
+   "title": "한국에너지공대, 천연수소 상용화 핵심 공정 기술 개발",
+   "url": "https://www.gasnews.com/news/articleView.html?idxno=127339",
+   "source": "가스신문",
+   "published_at": "2026-10-23T13:47:00Z",
+   "category": "기술",
+   "region": "국내",
+   "chain": [
+    "수소생산"
+   ],
+   "importance": "중",
+   "summary": "한국에너지공대 황지현 교수 연구팀이 천연수소 생산정의 혼합가스로부터 액화수소와 LNG를 동시에 생산하는 통합 공정을 개발했다. 에너지 효율과 경제성을 정량 분석해 천연수소의 상용화 가능성을 제시한 의미 있는 기술 성과다.",
+   "collected_at": "2026-10-24T00:20:16Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "한국에너지공대",
+    "천연수소",
+    "액화수소",
+    "KENTECH"
+   ]
+  },
+  {
+   "id": "8f8edd3a5c6d15fa",
+   "title": "Hamburg Hydrogen Network Signs Its Largest Customer as HOLBORN Refinery Joins HH-WIN",
+   "url": "https://fuelcellsworks.com/2026/10/21/h2/hamburg-hydrogen-network-signs-its-largest-customer-as-holborn-refinery-joins-hh-win",
+   "source": "FuelCellsWorks",
+   "published_at": "2026-10-23T13:40:15Z",
+   "category": "프로젝트·계약",
+   "region": "해외",
+   "chain": [
+    "활용"
+   ],
+   "importance": "중",
+   "summary": "Hamburg Hydrogen Network가 HOLBORN 정유소를 최대 고객으로 영입했다. 수소 수요처 다변화와 산업용 활용 사례 확대를 나타낸다.",
+   "collected_at": "2026-10-24T00:20:40Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "Hamburg Hydrogen Network",
+    "HOLBORN",
+    "독일"
+   ]
+  },
+  {
+   "id": "97a26f2532d8c887",
+   "title": "Skytree, Galetech, And Mwahera Partner On Direct Air Capture For E-Fuel Production In Kenya",
+   "url": "https://carbonherald.com/skytree-galetech-and-mwahera-partner-on-direct-air-capture-for-e-fuel-production-in-kenya/?utm_source=rss&utm_medium=rss&utm_campaign=skytree-galetech-and-mwahera-partner-on-direct-air-capture-for-e-fuel-production-in-kenya",
+   "source": "Carbon Herald",
+   "published_at": "2026-10-23T13:33:33Z",
+   "category": "프로젝트·계약",
+   "region": "해외",
+   "chain": [
+    "활용"
+   ],
+   "importance": "중",
+   "summary": "Skytree가 케냐에서 Galetech, Mwahera와 전략적 파트너십을 체결하여 이-연료 생산을 위한 직접 공기 포집 사업을 추진한다. 아프리카 지역 신재생 에너지 기반 에너지 사업의 확산을 보여준다.",
+   "collected_at": "2026-10-24T00:20:53Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "Skytree",
+    "Galetech",
+    "케냐"
+   ]
+  },
+  {
+   "id": "232fdb347a9be6eb",
+   "title": "MAIRE Opens €45M NEXTCHEM Research Centre for Green Hydrogen and Sustainable Fuels",
+   "url": "https://fuelcellsworks.com/2026/10/23/h2/maire-opens-45m-nextchem-research-centre-for-green-hydrogen-and-sustainable-fuels",
+   "source": "FuelCellsWorks",
+   "published_at": "2026-10-23T13:11:38Z",
+   "category": "기술",
+   "region": "해외",
+   "chain": [
+    "수소생산"
+   ],
+   "importance": "중",
+   "summary": "MAIRE가 그린 수소 및 지속가능 연료 연구를 위해 4500만 유로 규모의 NEXTCHEM 연구센터를 개설했다. 수소 생산 기술 혁신 강화의 신호로 볼 수 있다.",
+   "collected_at": "2026-10-24T00:20:40Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "MAIRE",
+    "NEXTCHEM",
+    "이탈리아"
+   ]
+  },
+  {
+   "id": "f8c1667dd3813319",
+   "title": "Singapore Pledges $112M For Industrial Decarbonization Research",
+   "url": "https://carbonherald.com/singapore-pledges-112m-for-industrial-decarbonization-research/?utm_source=rss&utm_medium=rss&utm_campaign=singapore-pledges-112m-for-industrial-decarbonization-research",
+   "source": "Carbon Herald",
+   "published_at": "2026-10-23T13:11:00Z",
+   "category": "투자·금융",
+   "region": "해외",
+   "chain": [],
+   "importance": "하",
+   "summary": "싱가포르가 제조업 배출 감축 지원 산업 탈탄소화 연구에 1억 1,200만 달러를 투자한다. 단순 정부 자금 지원 발표로 수소·암모니아·CCUS 산업과의 직접적 연관성이 명확하지 않다.",
+   "collected_at": "2026-10-24T00:20:53Z",
+   "needs_review": true,
+   "review_reason": "도메인 밖: 밸류체인 해당 없음",
+   "tags": [
+    "싱가포르"
+   ]
+  },
+  {
+   "id": "f4264b31bc213752",
+   "title": "2027 Europe Member Meeting",
+   "url": "https://www.globalccsinstitute.com/events/2027-europe-member-meeting/",
+   "source": "Global CCS Institute",
+   "published_at": "2026-10-23T12:31:59Z",
+   "category": "정책·규제",
+   "region": "해외",
+   "chain": [
+    "CCUS"
+   ],
+   "importance": "하",
+   "summary": "Global CCS Institute의 연례 유럽 회원 미팅이 2027년 3월 16일 맨체스터에서 개최된다. CCS 관련 최신 개발 사항을 공유하는 회원 중심의 행사다.",
+   "collected_at": "2026-10-24T00:21:00Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "Global CCS Institute",
+    "Manchester",
+    "Europe"
+   ]
+  },
+  {
+   "id": "bbb0a2da81b003c4",
+   "title": "California Moves Closer To First-in-the-nation Rules for Carbon Capture and Removal",
+   "url": "https://carbonherald.com/california-moves-closer-to-first-in-the-nation-rules-for-carbon-capture-and-removal/?utm_source=rss&utm_medium=rss&utm_campaign=california-moves-closer-to-first-in-the-nation-rules-for-carbon-capture-and-removal",
+   "source": "Carbon Herald",
+   "published_at": "2026-10-23T12:27:43Z",
+   "category": "정책·규제",
+   "region": "해외",
+   "chain": [
+    "CCUS"
+   ],
+   "importance": "중",
+   "summary": "캘리포니아 대기자원위원회(CARB)가 탄소 포집 및 제거에 대한 미국 최초의 규제를 추진 중이다. 탄소 포집 산업의 규제 체계 확립이 진행되고 있음을 의미한다.",
+   "collected_at": "2026-10-24T00:20:53Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "캘리포니아",
+    "CARB"
+   ]
+  },
+  {
+   "id": "740a91c94b0579f5",
+   "title": "Microsoft Shares Lessons Learned From Its Carbon Removal Procurement Program",
+   "url": "https://carbonherald.com/microsoft-shares-lessons-learned-from-its-carbon-removal-procurement-program/?utm_source=rss&utm_medium=rss&utm_campaign=microsoft-shares-lessons-learned-from-its-carbon-removal-procurement-program",
+   "source": "Carbon Herald",
+   "published_at": "2026-10-23T12:13:45Z",
+   "category": "기술",
+   "region": "해외",
+   "chain": [],
+   "importance": "하",
+   "summary": "Microsoft가 CO2 제거 조달 프로그램에서 얻은 교훈을 담은 보고서를 발표했다. 탄소 제거 구매 사례 공유로 산업 발전에 참고할 내용을 제공하지만 직접적인 사업 진전과는 거리가 있다.",
+   "collected_at": "2026-10-24T00:20:53Z",
+   "needs_review": true,
+   "review_reason": "도메인 밖: 밸류체인 해당 없음",
+   "tags": [
+    "Microsoft"
+   ]
+  },
+  {
+   "id": "31d2acd2d5d9a4d8",
+   "title": "수소 대량누출 가정 합동훈련…가스안전공사 서울남부지사, 기관별 대응 점검",
+   "url": "https://www.energydaily.co.kr/news/articleView.html?idxno=204330",
+   "source": "에너지데일리",
+   "published_at": "2026-10-23T10:41:22Z",
+   "category": "정책·규제",
+   "region": "국내",
+   "chain": [
+    "운송·저장"
+   ],
+   "importance": "중",
+   "summary": "한국가스안전공사가 수소충전소에서의 대량 누출 사고에 대비한 합동훈련을 실시했다. 강서소방서, 강서구청, E1이 참여하여 기관별 대응절차와 정보 전달체계를 점검했으며, 인접 시설로의 위험 확산까지 고려한 훈련이었다. 수소 인프라의 안전성 확보가 충전소 확대의 전제 조건이 되고 있다.",
+   "collected_at": "2026-10-24T00:20:29Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "한국가스안전공사",
+    "강서구",
+    "수소충전소",
+    "E1"
+   ]
+  },
+  {
+   "id": "f660c3c7465a72f3",
+   "title": "Petronas, TotalEnergies and Mitsui to develop CO2 storage area off Peninsular Malaysia",
+   "url": "https://offshore-energy.biz/2026/10/23/petronas-totalenergies-and-mitsui-to-develop-co2-storage-area-off-peninsular-malaysia",
+   "source": "Offshore Energy",
+   "published_at": "2026-10-23T10:23:37Z",
+   "category": "프로젝트·계약",
+   "region": "해외",
+   "chain": [
+    "CCUS"
+   ],
+   "importance": "중",
+   "summary": "Petronas, TotalEnergies, Mitsui이 말레이시아 반도 인근 해상에 CO2 저장 지역을 개발하기로 합의했다. 동남아 지역 CCUS 인프라 구축의 의미 있는 협력 사례다.",
+   "collected_at": "2026-10-24T00:21:00Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "Petronas",
+    "TotalEnergies",
+    "Mitsui",
+    "말레이시아"
+   ]
+  },
+  {
+   "id": "a7aeb943326a922e",
+   "title": "태평양엔 태양광, 캄보디아엔 수소…한국, 개도국 에너지전환 돕는다",
+   "url": "https://www.electimes.com/news/articleView.html?idxno=373675",
+   "source": "전기신문",
+   "published_at": "2026-10-23T10:01:33Z",
+   "category": "정책·규제",
+   "region": "해외",
+   "chain": [
+    "수소생산"
+   ],
+   "importance": "중",
+   "summary": "한국이 캄보디아에서 그린수소 도입을 위한 국가 로드맵 수립을 지원하고 있으며, 태평양 섬나라 피지에서는 태양광 사업을 추진 중이다. 개발협력 경험과 기후기술을 활용한 개도국 에너지전환 지원이 정책·재정·인력 양성까지 확대되고 있다.",
+   "collected_at": "2026-10-24T00:20:16Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "캄보디아",
+    "피지",
+    "APCC",
+    "그린수소"
+   ]
+  },
+  {
+   "id": "c14aa4b557ac7e2d",
+   "title": "켄텍, 고효율 수전해 전극 개발…그린수소 상용화 기대",
+   "url": "https://www.todayenergy.kr/news/articleView.html?idxno=304569",
+   "source": "투데이에너지",
+   "published_at": "2026-10-23T09:59:07Z",
+   "category": "기술",
+   "region": "국내",
+   "chain": [
+    "수소생산"
+   ],
+   "importance": "중",
+   "summary": "한국에너지공대 김창희 교수 연구팀이 부하변동 조건에서도 안정적인 고효율 알칼라인 수전해 전극을 개발했다. 그린수소 생산 비용 절감과 효율 향상에 기여할 수 있는 핵심 기술 성과로 평가된다.",
+   "collected_at": "2026-10-24T00:20:16Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "KENTECH",
+    "수전해",
+    "그린수소",
+    "알칼라인"
+   ]
+  },
+  {
+   "id": "a5d08843fb16ab99",
+   "title": "달력에 새긴 H₂ 수소의 날, 4년의 발자취",
+   "url": "https://www.h2news.kr/news/articleView.html?idxno=14325",
+   "source": "수소신문",
+   "published_at": "2026-10-23T09:55:03Z",
+   "category": "정책·규제",
+   "region": "국내",
+   "chain": [
+    "수소생산"
+   ],
+   "importance": "하",
+   "summary": "11월 2일 수소의 날이 올해 다섯 번째를 맞으며, 정부 포상 중심에서 법정기념일로 격상되었다. 수소산업 활성화 유공자 격려와 각 분야 1호 인증자에 대한 특별상 수여가 이루어졌다.",
+   "collected_at": "2026-10-24T00:20:16Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "수소의날",
+    "산업통상부",
+    "수소융합얼라이언스",
+    "킨텍스"
+   ]
+  },
   {
    "id": "3a7da0b3e274dd45",
    "title": "KTC, 탄소중립 시대 차세대 냉매 국제심포지엄 개최",
@@ -44,6 +754,46 @@
     "새만금",
     "액화수소",
     "초저온 저장설비"
+   ]
+  },
+  {
+   "id": "884c5fcfed0ff378",
+   "title": "Heidelberg Materials Pauses €191M GeZero Carbon Capture Project In Germany",
+   "url": "https://carbonherald.com/heidelberg-materials-pauses-e191m-gezero-carbon-capture-project-in-germany/?utm_source=rss&utm_medium=rss&utm_campaign=heidelberg-materials-pauses-e191m-gezero-carbon-capture-project-in-germany",
+   "source": "Carbon Herald",
+   "published_at": "2026-10-23T07:57:18Z",
+   "category": "프로젝트·계약",
+   "region": "해외",
+   "chain": [
+    "CCUS"
+   ],
+   "importance": "중",
+   "summary": "Heidelberg Materials가 독일 Geseke의 1억 9,100만 유로 규모 GeZero 탄소 포집 프로젝트를 시장 상황을 이유로 일시 중단했다. 현재 시장 수요 부족이 대형 CCUS 사업의 진행을 지연시키고 있음을 보여준다.",
+   "collected_at": "2026-10-24T00:20:53Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "Heidelberg Materials",
+    "GeZero",
+    "독일"
+   ]
+  },
+  {
+   "id": "f47f54c32e64598a",
+   "title": "Gold Standard Launches Public Consultation On dMRV Framework For Carbon Offsets",
+   "url": "https://carbonherald.com/gold-standard-launches-public-consultation-on-dmrv-framework-for-carbon-offsets/?utm_source=rss&utm_medium=rss&utm_campaign=gold-standard-launches-public-consultation-on-dmrv-framework-for-carbon-offsets",
+   "source": "Carbon Herald",
+   "published_at": "2026-10-23T07:37:29Z",
+   "category": "정책·규제",
+   "region": "해외",
+   "chain": [],
+   "importance": "하",
+   "summary": "Gold Standard가 탄소 오프셋에 대한 dMRV 규제 체계 초안에 대한 공개 의견 수렴을 개시했다. 국제 탄소 오프셋 표준 설정 기구의 규제 개발 과정으로 수소·암모니아·CCUS 산업과의 직접 연관성이 낮다.",
+   "collected_at": "2026-10-24T00:20:53Z",
+   "needs_review": true,
+   "review_reason": "도메인 밖: 밸류체인 해당 없음",
+   "tags": [
+    "Gold Standard"
    ]
   },
   {
@@ -672,6 +1422,24 @@
    ]
   },
   {
+   "id": "8aeee2fa26b5f26d",
+   "title": "New Relae Platform Streamlines Diligence For Carbon Removal Buyers",
+   "url": "https://carbonherald.com/new-relae-platform-streamlines-diligence-for-carbon-removal-buyers/?utm_source=rss&utm_medium=rss&utm_campaign=new-relae-platform-streamlines-diligence-for-carbon-removal-buyers",
+   "source": "Carbon Herald",
+   "published_at": "2026-10-22T13:51:01Z",
+   "category": "기술",
+   "region": "해외",
+   "chain": [],
+   "importance": "하",
+   "summary": "Relae가 탄소 제거 구매자를 위한 구독형 플랫폼 'Diligence Collection'을 출시했다. 탄소 제거 시장의 편의성 증진 기술 개발이지만 수소·암모니아·CCUS 산업 사업과의 직접적 연관성이 낮다.",
+   "collected_at": "2026-10-24T00:20:53Z",
+   "needs_review": true,
+   "review_reason": "도메인 밖: 밸류체인 해당 없음",
+   "tags": [
+    "Relae"
+   ]
+  },
+  {
    "id": "5f188ad1db768444",
    "title": "HD현대중공업, 세계 최대 암모니아 추진선 건조…안전·친환경 기술 집약",
    "url": "https://www.energy-news.co.kr/news/articleView.html?idxno=229163",
@@ -913,6 +1681,26 @@
    ]
   },
   {
+   "id": "27e894c6a113389b",
+   "title": "Applied Carbon Locks In $72M Citi Financing For Texas-Based Biochar",
+   "url": "https://carbonherald.com/applied-carbon-locks-in-72m-citi-financing-for-texas-based-biochar/?utm_source=rss&utm_medium=rss&utm_campaign=applied-carbon-locks-in-72m-citi-financing-for-texas-based-biochar",
+   "source": "Carbon Herald",
+   "published_at": "2026-10-22T12:06:58Z",
+   "category": "투자·금융",
+   "region": "해외",
+   "chain": [],
+   "importance": "하",
+   "summary": "Applied Carbon이 바이오차 관련 사업을 위해 Citi로부터 7,200만 달러 규모의 금융을 확보했다. 바이오차는 수소·암모니아·CCUS 산업과 직접 관련이 없다.",
+   "collected_at": "2026-10-24T00:21:00Z",
+   "needs_review": true,
+   "review_reason": "도메인 밖: 밸류체인 해당 없음",
+   "tags": [
+    "Applied Carbon",
+    "Citibank",
+    "Texas"
+   ]
+  },
+  {
    "id": "ef23909f039ea81e",
    "title": "[입찰 정보] 10월 22일자",
    "url": "https://www.todayenergy.kr/news/articleView.html?idxno=304519",
@@ -952,6 +1740,24 @@
     "EnerMech",
     "영국",
     "CCS"
+   ]
+  },
+  {
+   "id": "ebd6db5da3e20e4d",
+   "title": "South Pole: Only 12% Of Companies Positioned To Turn Climate Action Into Business Value",
+   "url": "https://carbonherald.com/south-pole-only-12-of-companies-positioned-to-turn-climate-action-into-business-value/?utm_source=rss&utm_medium=rss&utm_campaign=south-pole-only-12-of-companies-positioned-to-turn-climate-action-into-business-value",
+   "source": "Carbon Herald",
+   "published_at": "2026-10-22T10:09:09Z",
+   "category": "시장·가격",
+   "region": "해외",
+   "chain": [],
+   "importance": "하",
+   "summary": "South Pole의 보고서에 따르면 기후 행동을 사업 가치로 전환할 수 있는 위치에 있는 기업은 12% 수준이라고 한다. 기사는 수소·암모니아·CCUS 산업 관련 구체적 내용을 담지 않는다.",
+   "collected_at": "2026-10-24T00:21:00Z",
+   "needs_review": true,
+   "review_reason": "도메인 밖: 밸류체인 해당 없음",
+   "tags": [
+    "South Pole"
    ]
   },
   {
