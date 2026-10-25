@@ -1,7 +1,118 @@
 {
- "generated_at": "2026-10-24T00:21:00Z",
- "count": 1054,
+ "generated_at": "2026-10-25T23:53:51Z",
+ "count": 1063,
  "items": [
+  {
+   "id": "c3b14b9e80c9dd46",
+   "title": "부산대·피센트, 열출력 1MW급 암모니아 전소 버너 개발 성공",
+   "url": "http://www.e2news.com/news/articleView.html?idxno=335424",
+   "source": "이투뉴스",
+   "published_at": "2026-10-26T01:55:21Z",
+   "category": "기술",
+   "region": "국내",
+   "chain": [
+    "암모니아"
+   ],
+   "importance": "중",
+   "summary": "부산대와 피센트가 열출력 1MW급 암모니아 전소 버너 개발에 성공했다. 암모니아는 무탄소 연료지만 연소 속도가 느리고 NOx, N₂O, 미연소 암모니아 등의 배출 문제가 있었는데, 이번 개발은 이러한 기술적 과제를 극복한 것으로 의미가 있다.",
+   "collected_at": "2026-10-25T23:53:49Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "부산대",
+    "피센트",
+    "암모니아 버너"
+   ]
+  },
+  {
+   "id": "85014ca1f8784fb0",
+   "title": "Germany's Hydrogen Core Network: A Step Toward Operational Reality",
+   "url": "http://www.hydrogenfuelnews.com/germany-s-hydrogen-core-network-a-step-toward-operational-reality/8576939/",
+   "source": "Hydrogen Fuel News",
+   "published_at": "2026-10-25T02:09:26Z",
+   "category": "정책·규제",
+   "region": "해외",
+   "chain": [
+    "수소생산",
+    "운송·저장"
+   ],
+   "importance": "중",
+   "summary": "독일의 수소 핵심 네트워크가 537km의 가동 중인 파이프라인으로 진전되고 있다. GET H2 Nukleus 사업을 통해 주요 산업 시설로의 수소 운송이 실현되고 있으며, 탄소 감축 인프라 구축에서 중요한 단계이다.",
+   "collected_at": "2026-10-25T23:53:49Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "독일",
+    "GET H2 Nukleus",
+    "수소 파이프라인"
+   ]
+  },
+  {
+   "id": "66efe316ad181d9f",
+   "title": "Abergeldie Unveils Underground Hydrogen Storage Patent—A Quantum Leap for Clean Energy",
+   "url": "http://www.hydrogenfuelnews.com/abergeldie-unveils-underground-hydrogen-storage-patent-a-quantum-leap-for-clean-/8576937/",
+   "source": "Hydrogen Fuel News",
+   "published_at": "2026-10-24T13:11:19Z",
+   "category": "기술",
+   "region": "해외",
+   "chain": [
+    "수소생산"
+   ],
+   "importance": "중",
+   "summary": "Abergeldie Complex Infrastructure가 지하 수소 저장 시스템 특허를 개발했다. 효율적이고 지속 가능한 수소 저장 방식의 혁신적 기술로 평가된다.",
+   "collected_at": "2026-10-25T23:53:49Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "Abergeldie",
+    "수소 저장"
+   ]
+  },
+  {
+   "id": "e50f13bacf5bef08",
+   "title": "Kawasaki Heavy Industries and Transgaz Forge Strategic Hydrogen Partnership",
+   "url": "http://www.hydrogenfuelnews.com/kawasaki-heavy-industries-and-transgaz-forge-strategic-hydrogen-partnership/8576936/",
+   "source": "Hydrogen Fuel News",
+   "published_at": "2026-10-24T13:07:25Z",
+   "category": "프로젝트·계약",
+   "region": "해외",
+   "chain": [
+    "수소생산",
+    "운송·저장"
+   ],
+   "importance": "중",
+   "summary": "가와사키 중공업과 루마니아의 Transgaz가 파이프라인을 통한 수소 운송 탐색 협약(MOU)을 체결했다. 유럽 에너지 인프라 발전을 위한 전략적 협력으로 의의가 있다.",
+   "collected_at": "2026-10-25T23:53:49Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "가와사키 중공업",
+    "Transgaz",
+    "루마니아"
+   ]
+  },
+  {
+   "id": "42be3349a83238e0",
+   "title": "HDF Energy Acquires Full Control of Renewstable Barbados Project: A Step Towards Green Hydrogen Innovation",
+   "url": "http://www.hydrogenfuelnews.com/hdf-energy-acquires-full-control-of-renewstable-barbados-project-a-step-towards-/8576932/",
+   "source": "Hydrogen Fuel News",
+   "published_at": "2026-10-24T00:06:26Z",
+   "category": "프로젝트·계약",
+   "region": "해외",
+   "chain": [
+    "수소생산"
+   ],
+   "importance": "중",
+   "summary": "HDF Energy가 바베이도스 Renewstable 프로젝트의 완전한 소유권을 인수했다. 신재생 에너지 기반 그린 수소 생산 시설 개발을 통해 바베이도스의 에너지 자립도를 높이려는 사업이다.",
+   "collected_at": "2026-10-25T23:53:49Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "HDF Energy",
+    "바베이도스",
+    "그린 수소"
+   ]
+  },
   {
    "id": "c3ae41a3af6aa398",
    "title": "Petronas, TotalEnergies, And Mitsui Partner On Offshore Malaysian CO2 Storage Hub",
@@ -179,6 +290,38 @@
     "Fuel Cell Energy",
     "연료전지"
    ]
+  },
+  {
+   "id": "7d19e0c0fff9d416",
+   "title": "Hanwha Power Receives ABS Approval in Principle for 1,700 TEU Battery-Powered Containership Design",
+   "url": "https://fuelcellsworks.com/2026/10/23/battery/hanwha-power-receives-abs-approval-in-principle-for-1-700-teu-battery-powered-containership-design",
+   "source": "FuelCellsWorks",
+   "published_at": "2026-10-23T15:25:24Z",
+   "category": "프로젝트·계약",
+   "region": "해외",
+   "chain": [],
+   "importance": "하",
+   "summary": "한화파워가 1,700TEU 배터리 추진 컨테이너선 설계에 대한 ABS 원칙적 승인을 받았다. 수소·암모니아·CCUS와 무관한 기사다.",
+   "collected_at": "2026-10-25T23:53:49Z",
+   "needs_review": true,
+   "review_reason": "도메인 밖: 밸류체인 해당 없음",
+   "tags": []
+  },
+  {
+   "id": "7ad16c8fa56dfb8f",
+   "title": "Electric Cars Will Reach a Market Share of 26.2 Percent in 2026: 515,545 New Registrations From January to August, 53.1 Percent More than in the Same Period of the Previous Year.",
+   "url": "https://fuelcellsworks.com/2026/10/21/electric/electric-cars-will-reach-a-market-share-of-26-2-percent-in-2026-515-545-new-registrations-from-january-to-august-53-1-percent-more-than-in-the-same-period-of-the-previous-year",
+   "source": "FuelCellsWorks",
+   "published_at": "2026-10-23T15:20:17Z",
+   "category": "시장·가격",
+   "region": "해외",
+   "chain": [],
+   "importance": "하",
+   "summary": "전기자동차 시장 점유율이 2026년 26.2%에 도달할 것으로 예측되는 보도이다. 수소·암모니아·CCUS와 무관한 기사다.",
+   "collected_at": "2026-10-25T23:53:49Z",
+   "needs_review": true,
+   "review_reason": "도메인 밖: 밸류체인 해당 없음",
+   "tags": []
   },
   {
    "id": "402a726c26d75e03",
@@ -817,6 +960,51 @@
     "새만금",
     "초저온",
     "액화수소"
+   ]
+  },
+  {
+   "id": "84c3b7db6c1c1b8b",
+   "title": "Shetland’s Green-Ammonia Vision Leads the Charge in UK Hydrogen Production",
+   "url": "http://www.hydrogenfuelnews.com/shetland-s-green-ammonia-vision-leads-the-charge-in-uk-hydrogen-production/8576931/",
+   "source": "Hydrogen Fuel News",
+   "published_at": "2026-10-22T22:10:17Z",
+   "category": "프로젝트·계약",
+   "region": "해외",
+   "chain": [
+    "암모니아",
+    "수소생산"
+   ],
+   "importance": "상",
+   "summary": "셰틀랜드 지역의 두 그린 암모니아 프로젝트가 최대 480MW의 풍력 전력을 암모니아로 전환하려고 한다. 비료 및 선박 연료로 사용되는 암모니아 생산으로 영국의 수소 인프라 구축을 선도하는 사업이다.",
+   "collected_at": "2026-10-25T23:53:49Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "셰틀랜드",
+    "그린 암모니아",
+    "영국"
+   ]
+  },
+  {
+   "id": "ac5133d1ccaf5ab3",
+   "title": "Ballard Power Systems Outlines Path to Adjusted EBITDA Profitability and Hydrogen Power Unit Expansion",
+   "url": "http://www.hydrogenfuelnews.com/ballard-power-systems-outlines-path-to-adjusted-ebitda-profitability-and-hydroge/8576929/",
+   "source": "Hydrogen Fuel News",
+   "published_at": "2026-10-22T22:06:45Z",
+   "category": "투자·금융",
+   "region": "해외",
+   "chain": [
+    "수소생산"
+   ],
+   "importance": "중",
+   "summary": "Ballard Power Systems가 2027년 조정 EBITDA 흑자, 2028년 완전 흑자를 목표로 하는 경영 계획을 발표했다. 연 30% 수익 성장률과 함께 수소 전력 장치 확장에 8천만~1억2천만 달러를 투자할 계획이다. 수소 연료전지 업계의 주요 기업 실행 전략으로서 의미가 있다.",
+   "collected_at": "2026-10-25T23:53:51Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "Ballard Power Systems",
+    "수소 전력 장치",
+    "2027년 흑자 전환"
    ]
   },
   {
