@@ -1,7 +1,634 @@
 {
- "generated_at": "2026-10-25T23:53:51Z",
- "count": 1063,
+ "generated_at": "2026-10-27T01:15:03Z",
+ "count": 1093,
  "items": [
+  {
+   "id": "941d84818f6f967e",
+   "title": "UNIST, 햇빛만으로 수소 만드는 유기 광전극 개발",
+   "url": "https://www.gasnews.com/news/articleView.html?idxno=127364",
+   "source": "가스신문",
+   "published_at": "2026-10-27T09:17:30Z",
+   "category": "기술",
+   "region": "국내",
+   "chain": [
+    "수소생산"
+   ],
+   "importance": "중",
+   "summary": "UNIST 연구팀이 외부 전기 공급 없이 햇빛만으로 물에서 수소를 생산하는 유기 광전극을 개발했다. 유기 반도체 기반 광음극 중 세계 최고 수준의 효율을 달성했으며, 그린수소 상용화의 중요한 기술적 진전을 의미한다.",
+   "collected_at": "2026-10-27T01:14:31Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "UNIST",
+    "유기광전극",
+    "그린수소"
+   ]
+  },
+  {
+   "id": "7ae974f4d70c1646",
+   "title": "EU Launches T-MED Platform With Up to €4.5 Billion in Guarantees for Mediterranean Hydrogen and Clean Energy",
+   "url": "https://fuelcellsworks.com/2026/10/26/green-investment/eu-launches-t-med-platform-with-up-to-4-5-billion-in-guarantees-for-mediterranean-clean-energy",
+   "source": "FuelCellsWorks",
+   "published_at": "2026-10-26T16:15:47Z",
+   "category": "정책·규제",
+   "region": "해외",
+   "chain": [
+    "수소생산"
+   ],
+   "importance": "중",
+   "summary": "EU가 지중해 지역 수소 및 청정에너지 사업을 지원하기 위해 T-MED 플랫폼을 출범하고 최대 45억 유로 규모의 담보를 제공한다. 지역 수소 허브 구축을 촉진하기 위한 정책적 지원이다.",
+   "collected_at": "2026-10-27T01:14:43Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "EU",
+    "T-MED",
+    "지중해"
+   ]
+  },
+  {
+   "id": "3a41ea8816ee9849",
+   "title": "수출입은행, 美 아모지에 2000만 달러 직접투자…청정에너지로 영역 확대",
+   "url": "https://www.industrynews.co.kr/news/articleView.html?idxno=88198",
+   "source": "인더스트리뉴스",
+   "published_at": "2026-10-26T16:10:17Z",
+   "category": "투자·금융",
+   "region": "해외",
+   "chain": [
+    "암모니아"
+   ],
+   "importance": "중",
+   "summary": "한국수출입은행이 암모니아 기반 무탄소 발전기술 기업 아모지에 2000만 달러를 직접 투자한다. 수출입은행이 2억 달러 규모 시리즈C 투자 라운드의 리드 투자자로 참여하며 청정에너지 분야 벤처 투자를 확대하고 있다.",
+   "collected_at": "2026-10-27T01:14:43Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "수출입은행",
+    "아모지",
+    "암모니아 발전"
+   ]
+  },
+  {
+   "id": "9914ca3fe4a0038b",
+   "title": "Volkswagen Pauses Further India EV Investment While JSW Joint Venture Talks Continue",
+   "url": "https://fuelcellsworks.com/2026/10/26/electric/volkswagen-pauses-further-india-ev-investment-while-jsw-joint-venture-talks-continue",
+   "source": "FuelCellsWorks",
+   "published_at": "2026-10-26T16:08:50Z",
+   "category": "프로젝트·계약",
+   "region": "해외",
+   "chain": [],
+   "importance": "하",
+   "summary": "폭스바겐이 인도에서의 추가 전기차 투자를 일시 중단하면서 JSW와의 합작회사 협상은 계속 진행 중이다. 수소나 암모니아와 무관한 전기차 투자 이슈다.",
+   "collected_at": "2026-10-27T01:14:54Z",
+   "needs_review": true,
+   "review_reason": "도메인 밖: 밸류체인 해당 없음",
+   "tags": [
+    "폭스바겐",
+    "인도",
+    "JSW"
+   ]
+  },
+  {
+   "id": "952994d83a811f83",
+   "title": "Fuel Cell and Hydrogen News Highlights From China: Oct 19-Oct. 24, 2026",
+   "url": "https://fuelcellsworks.com/2026/10/24/clean-energy/fuel-cell-and-hydrogen-news-highlights-from-china-oct-19-oct-24-2026",
+   "source": "FuelCellsWorks",
+   "published_at": "2026-10-26T16:03:45Z",
+   "category": "시장·가격",
+   "region": "해외",
+   "chain": [],
+   "importance": "하",
+   "summary": "중국의 수소연료전지 관련 뉴스를 요약한 뉴스레터이다. 구체적인 사업 내용이 발췌에 제시되지 않아 상세 판단이 불가능하다.",
+   "collected_at": "2026-10-27T01:14:43Z",
+   "needs_review": true,
+   "review_reason": "도메인 밖: 밸류체인 해당 없음",
+   "tags": []
+  },
+  {
+   "id": "c40db662863cd8cb",
+   "title": "Ljubljana Puts Ten Mercedes-Benz Hydrogen Fuel-Cell Articulated Buses Into Service",
+   "url": "https://fuelcellsworks.com/2026/10/26/fuel-cells/ljubljana-puts-ten-mercedes-benz-hydrogen-fuel-cell-articulated-buses-into-service",
+   "source": "FuelCellsWorks",
+   "published_at": "2026-10-26T15:57:19Z",
+   "category": "시장·가격",
+   "region": "해외",
+   "chain": [
+    "활용"
+   ],
+   "importance": "하",
+   "summary": "류블랴나시가 메르세데스-벤츠의 수소연료전지 굴절버스 10대를 운행에 투입했다. 유럽 지역 수소 대중교통 확대 추세를 보여주는 사례이다.",
+   "collected_at": "2026-10-27T01:14:43Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "류블랴나",
+    "메르세데스-벤츠",
+    "수소버스"
+   ]
+  },
+  {
+   "id": "17448c698de94029",
+   "title": "South Korea’s Jeonnam-Gwangju Region Pushes to Build Clean Hydrogen Hub Linking Three Industrial Cities",
+   "url": "https://fuelcellsworks.com/2026/10/21/h2/south-korea-s-jeonnam-gwangju-region-pushes-to-build-clean-hydrogen-hub-linking-three-industrial-cities",
+   "source": "FuelCellsWorks",
+   "published_at": "2026-10-26T15:48:06Z",
+   "category": "정책·규제",
+   "region": "국내",
+   "chain": [
+    "수소생산"
+   ],
+   "importance": "중",
+   "summary": "전남-광주 지역이 세 개 산업도시를 연계한 청정수소 허브 구축을 추진하고 있다. 지역 기반 수소 산업 클러스터 조성의 일환이다.",
+   "collected_at": "2026-10-27T01:14:43Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "전남-광주",
+    "청정수소",
+    "산업도시"
+   ]
+  },
+  {
+   "id": "23f14e811f7ea8c3",
+   "title": "Smoltek Now Traded on Nordic Growth Market (NGM)",
+   "url": "https://fuelcellsworks.com/2026/10/26/h2/smoltek-now-traded-on-nordic-growth-market-ngm",
+   "source": "FuelCellsWorks",
+   "published_at": "2026-10-26T15:45:08Z",
+   "category": "시장·가격",
+   "region": "해외",
+   "chain": [],
+   "importance": "하",
+   "summary": "스웨덴 기업 스몰텍이 북유럽 성장 시장(NGM)에 상장되었다. 기업의 공개 거래 추진 소식으로 수소·암모니아 산업과의 직접 관련성이 명확하지 않다.",
+   "collected_at": "2026-10-27T01:14:43Z",
+   "needs_review": true,
+   "review_reason": "도메인 밖: 밸류체인 해당 없음",
+   "tags": [
+    "스몰텍",
+    "NGM"
+   ]
+  },
+  {
+   "id": "053a33e3c6861c6d",
+   "title": "Dutch Drilling Fluid Company Puts MAN Hydrogen Combustion Truck to Work",
+   "url": "https://fuelcellsworks.com/2026/10/26/fuel-cells/dutch-drilling-fluid-company-puts-man-hydrogen-combustion-truck-to-work",
+   "source": "FuelCellsWorks",
+   "published_at": "2026-10-26T15:36:17Z",
+   "category": "시장·가격",
+   "region": "해외",
+   "chain": [
+    "활용"
+   ],
+   "importance": "하",
+   "summary": "네덜란드 석유굴착유체 회사가 MAN의 수소 연소 트럭을 실제 업무에 투입했다. 수소 기반 상용차 활용의 구체적 사례이다.",
+   "collected_at": "2026-10-27T01:14:43Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "MAN",
+    "수소트럭"
+   ]
+  },
+  {
+   "id": "5df33609155841a8",
+   "title": "IMC Logistics’ Zero-Emission Hydrogen Truck to Lead Formula 1 Drivers’ Parade at Circuit of The Americas",
+   "url": "https://fuelcellsworks.com/2026/10/26/fuel-cells/imc-logistics-zero-emission-hydrogen-truck-to-lead-formula-1-drivers-parade-at-circuit-of-the-americas",
+   "source": "FuelCellsWorks",
+   "published_at": "2026-10-26T15:26:47Z",
+   "category": "시장·가격",
+   "region": "해외",
+   "chain": [
+    "운송·저장"
+   ],
+   "importance": "하",
+   "summary": "IMC Logistics의 수소 연료전지 트럭이 미국 Circuit of The Americas의 Formula 1 드라이버 퍼레이드를 선도할 예정이다. 수소 운송 차량의 가시성 제고를 위한 홍보 행사성 기사다.",
+   "collected_at": "2026-10-27T01:14:54Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "IMC Logistics",
+    "Formula 1",
+    "수소 트럭"
+   ]
+  },
+  {
+   "id": "d9f4270e3f080418",
+   "title": "H2 Polytech Opens Green Hydrogen Plant at Former Industrial Site in Northern Italy",
+   "url": "https://fuelcellsworks.com/2026/10/22/h2/h2-polytech-opens-green-hydrogen-plant-at-former-industrial-site-in-northern-italy",
+   "source": "FuelCellsWorks",
+   "published_at": "2026-10-26T15:05:22Z",
+   "category": "프로젝트·계약",
+   "region": "해외",
+   "chain": [
+    "수소생산"
+   ],
+   "importance": "중",
+   "summary": "H2 Polytech가 이탈리아 북부의 폐산업 부지에 그린 수소 생산 시설을 개설했다. 기존 산업용지의 재활용을 통한 수소 생산 프로젝트 진행 사례다.",
+   "collected_at": "2026-10-27T01:14:54Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "H2 Polytech",
+    "이탈리아",
+    "그린 수소"
+   ]
+  },
+  {
+   "id": "a9e44de6bd40f458",
+   "title": "[입찰 정보] 10월 26일자",
+   "url": "https://www.todayenergy.kr/news/articleView.html?idxno=304667",
+   "source": "투데이에너지",
+   "published_at": "2026-10-26T14:38:27Z",
+   "category": "시장·가격",
+   "region": "국내",
+   "chain": [],
+   "importance": "하",
+   "summary": "각 정부 기관 및 공사의 10월 26일자 입찰 공고 목록으로, 전기설비, 열에너지, 에너지자립화시설 등 다양한 분야의 구매·용역 발주 정보를 포함한다. 정기적인 공고 정보 수록으로 기술적 내용이 부족한 단순 안내성 기사다.",
+   "collected_at": "2026-10-27T01:14:31Z",
+   "needs_review": true,
+   "review_reason": "도메인 밖: 밸류체인 해당 없음",
+   "tags": []
+  },
+  {
+   "id": "6bca197786b8bfb3",
+   "title": "Hyundai Passes 50,000 Hydrogen Vehicle Sales in South Korea",
+   "url": "https://fuelcellsworks.com/2026/10/26/fuel-cells/hyundai-passes-50-000-hydrogen-vehicle-sales-in-south-korea",
+   "source": "FuelCellsWorks",
+   "published_at": "2026-10-26T14:37:35Z",
+   "category": "시장·가격",
+   "region": "국내",
+   "chain": [
+    "활용"
+   ],
+   "importance": "중",
+   "summary": "현대자동차가 한국에서 수소 차량 5만대 판매를 달성했다. 국내 수소 자동차 보급이 본격화되고 있음을 보여주는 주요 지표다.",
+   "collected_at": "2026-10-27T01:14:54Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "현대자동차",
+    "수소 자동차",
+    "5만대"
+   ]
+  },
+  {
+   "id": "871252f4d41682b4",
+   "title": "EWI: China Leads on Green Hydrogen Cost",
+   "url": "https://fuelcellsworks.com/2026/10/22/h2/ewi-china-leads-on-green-hydrogen-cost",
+   "source": "FuelCellsWorks",
+   "published_at": "2026-10-26T14:28:37Z",
+   "category": "시장·가격",
+   "region": "해외",
+   "chain": [
+    "수소생산"
+   ],
+   "importance": "중",
+   "summary": "EWI 분석에 따르면 중국이 그린 수소 비용에서 선도 위치에 있다. 글로벌 수소 생산 비용 경쟁력에서 지역별 격차가 확대되는 추세다.",
+   "collected_at": "2026-10-27T01:14:54Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "EWI",
+    "중국",
+    "그린 수소 비용"
+   ]
+  },
+  {
+   "id": "e6f86525606594ef",
+   "title": "Galp and Moeve Scrap Iberian Merger Covering Refining, Retail and Hydrogen",
+   "url": "https://fuelcellsworks.com/2026/10/26/h2/galp-and-moeve-scrap-iberian-merger-covering-refining-retail-and-hydrogen",
+   "source": "FuelCellsWorks",
+   "published_at": "2026-10-26T14:26:20Z",
+   "category": "프로젝트·계약",
+   "region": "해외",
+   "chain": [
+    "수소생산"
+   ],
+   "importance": "중",
+   "summary": "Galp와 Moeve의 이베리아 지역 합병이 무산되었으며, 이 합병에는 정유, 소매, 수소 사업이 포함되어 있었다. 유럽 주요 에너지 기업의 수소 사업 통합 계획이 좌절된 사례다.",
+   "collected_at": "2026-10-27T01:14:54Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "Galp",
+    "Moeve",
+    "이베리아 합병"
+   ]
+  },
+  {
+   "id": "448fd1d157c0258b",
+   "title": "수전해 스택 제조·검사기준 신설 추진",
+   "url": "https://www.gasnews.com/news/articleView.html?idxno=127306",
+   "source": "가스신문",
+   "published_at": "2026-10-26T14:16:00Z",
+   "category": "정책·규제",
+   "region": "국내",
+   "chain": [
+    "수소생산",
+    "운송·저장"
+   ],
+   "importance": "중",
+   "summary": "가스기술기준위원회가 수전해 스택의 제조·검사기준을 신설하고 액화수소 탱크로리의 방파판 설치기준을 강화하는 기준 개정안을 추진 중이다. 수전해 설비 안전성 확보와 액화수소 운송 안전성 강화에 초점을 맞춘 제도 정비다.",
+   "collected_at": "2026-10-27T01:14:31Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "KGS 기준",
+    "수전해 스택",
+    "액화수소"
+   ]
+  },
+  {
+   "id": "cce5339cd60075f6",
+   "title": "Substrate Biochar Launches First Production Site In South Africa",
+   "url": "https://carbonherald.com/substrate-biochar-launches-first-production-site-in-south-africa/?utm_source=rss&utm_medium=rss&utm_campaign=substrate-biochar-launches-first-production-site-in-south-africa",
+   "source": "Carbon Herald",
+   "published_at": "2026-10-26T14:10:29Z",
+   "category": "기술",
+   "region": "해외",
+   "chain": [],
+   "importance": "하",
+   "summary": "바이오차 생산 전문업체 Substrate Biochar가 남아프리카에 첫 생산 시설을 준공했다. 아프리카 지역의 산업용 바이오차 공급 확대를 목표로 하고 있다.",
+   "collected_at": "2026-10-27T01:15:03Z",
+   "needs_review": true,
+   "review_reason": "도메인 밖: 밸류체인 해당 없음",
+   "tags": [
+    "Substrate Biochar",
+    "남아프리카"
+   ]
+  },
+  {
+   "id": "6d0237fb41ed654b",
+   "title": "한국수출입은행, 암모니아 발전기업 아모지에 2000만 달러 직접 투자",
+   "url": "https://www.gasnews.com/news/articleView.html?idxno=127349",
+   "source": "가스신문",
+   "published_at": "2026-10-26T14:02:00Z",
+   "category": "투자·금융",
+   "region": "해외",
+   "chain": [
+    "암모니아"
+   ],
+   "importance": "상",
+   "summary": "한국수출입은행이 미국 암모니아 발전 기술 기업 아모지에 2000만 달러를 직접 투자하며 2억 달러 규모 시리즈C 라운드의 리드 투자자로 참여한다. 암모니아 분해 수소 기술에 대한 국내 정책금융기관의 본격적인 투자 결정으로 사업 신뢰성을 높인다.",
+   "collected_at": "2026-10-27T01:14:31Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "한국수출입은행",
+    "아모지",
+    "암모니아 발전"
+   ]
+  },
+  {
+   "id": "1fa043ec3e324e65",
+   "title": "Mexico Counts 31 Hydrogen Projects Worth $22.4 Billion — H2Mexico Says Challenge Is Execution",
+   "url": "https://fuelcellsworks.com/2026/10/26/electrolyzer/mexico-counts-31-hydrogen-projects-worth-22-4-billion-h2mexico-says-challenge-is-execution",
+   "source": "FuelCellsWorks",
+   "published_at": "2026-10-26T13:58:22Z",
+   "category": "프로젝트·계약",
+   "region": "해외",
+   "chain": [
+    "수소생산"
+   ],
+   "importance": "중",
+   "summary": "멕시코가 총 224억 달러 규모의 31개 수소 프로젝트를 추진 중이나, H2Mexico는 실행 능력이 주요 과제라고 지적했다. 대규모 수소 프로젝트 포트폴리오가 구성되었으나 실현 가능성이 불확실한 상황이다.",
+   "collected_at": "2026-10-27T01:14:54Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "멕시코",
+    "H2Mexico",
+    "224억 달러"
+   ]
+  },
+  {
+   "id": "16c7caffce5cc0eb",
+   "title": "BOC Commissions Teesside Carbon Capture Facility To Strengthen UK CO2 Supply",
+   "url": "https://carbonherald.com/boc-commissions-teesside-carbon-capture-facility-to-strengthen-uk-co2-supply/?utm_source=rss&utm_medium=rss&utm_campaign=boc-commissions-teesside-carbon-capture-facility-to-strengthen-uk-co2-supply",
+   "source": "Carbon Herald",
+   "published_at": "2026-10-26T13:24:26Z",
+   "category": "프로젝트·계약",
+   "region": "해외",
+   "chain": [
+    "CCUS"
+   ],
+   "importance": "중",
+   "summary": "산업가스 공급업체 BOC가 영국 Teesside에 탄소 포집 및 정제 시설을 완공했다. CO2 공급 능력을 확대하는 CCUS 인프라 구축 사례로 의미가 있다.",
+   "collected_at": "2026-10-27T01:15:03Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "BOC",
+    "Teesside",
+    "탄소 포집"
+   ]
+  },
+  {
+   "id": "2232e78b3fd7de3c",
+   "title": "Novel Ultrafast Solid Oxide-Ion Conductors for Low-Temperature Fuel Cells",
+   "url": "https://fuelcellsworks.com/2026/10/14/fuel-cells/novel-ultrafast-solid-oxide-ion-conductors-for-low-temperature-fuel-cells",
+   "source": "FuelCellsWorks",
+   "published_at": "2026-10-26T13:20:16Z",
+   "category": "기술",
+   "region": "해외",
+   "chain": [],
+   "importance": "하",
+   "summary": "저온 연료전지용 새로운 초고속 고체산화물-이온 전도체 기술이 개발되었다. 기초 연구 성과로서 상용화까지의 경로가 불명확한 기술 논문성 기사다.",
+   "collected_at": "2026-10-27T01:14:54Z",
+   "needs_review": true,
+   "review_reason": "도메인 밖: 밸류체인 해당 없음",
+   "tags": [
+    "고체산화물-이온 전도체",
+    "연료전지"
+   ]
+  },
+  {
+   "id": "8959f2cde0d0862e",
+   "title": "New InPlanet White Paper Says Revenue Financing Can Bridge The CDR Financing Gap",
+   "url": "https://carbonherald.com/new-inplanet-white-paper-says-revenue-financing-can-bridge-the-cdr-financing-gap/?utm_source=rss&utm_medium=rss&utm_campaign=new-inplanet-white-paper-says-revenue-financing-can-bridge-the-cdr-financing-gap",
+   "source": "Carbon Herald",
+   "published_at": "2026-10-26T12:40:27Z",
+   "category": "투자·금융",
+   "region": "해외",
+   "chain": [],
+   "importance": "하",
+   "summary": "InPlanet이 탄소 제거 기술의 자금 조달 격차를 해결하기 위한 수익 금융 방식의 백서를 발표했다. CDR 산업의 금융 모델 개선에 관한 연구 결과이다.",
+   "collected_at": "2026-10-27T01:15:03Z",
+   "needs_review": true,
+   "review_reason": "도메인 밖: 밸류체인 해당 없음",
+   "tags": [
+    "InPlanet",
+    "탄소 제거",
+    "수익 금융"
+   ]
+  },
+  {
+   "id": "2d6b3121e624bcbe",
+   "title": "LS에코에너지, 베트남에 AI데이터센터용 UC 생산설비 구축",
+   "url": "http://www.e2news.com/news/articleView.html?idxno=335433",
+   "source": "이투뉴스",
+   "published_at": "2026-10-26T10:45:22Z",
+   "category": "투자·금융",
+   "region": "해외",
+   "chain": [],
+   "importance": "하",
+   "summary": "LS에코에너지가 베트남에 울트라캐패시터 생산설비 구축에 650억원을 투자한다. 계열사 LS머트리얼즈의 수소연료전지 기업과의 UC 공급 계약 확대에 대응하기 위한 조치이다.",
+   "collected_at": "2026-10-27T01:14:43Z",
+   "needs_review": true,
+   "review_reason": "도메인 밖: 밸류체인 해당 없음",
+   "tags": [
+    "LS에코에너지",
+    "베트남",
+    "울트라캐패시터"
+   ]
+  },
+  {
+   "id": "da1717090d85994e",
+   "title": "US Leads Global Surge As Underground CO2 Storage Reaches 43.6M Tons",
+   "url": "https://carbonherald.com/us-leads-global-surge-as-underground-co2-storage-reaches-43-6m-tons/?utm_source=rss&utm_medium=rss&utm_campaign=us-leads-global-surge-as-underground-co2-storage-reaches-43-6m-tons",
+   "source": "Carbon Herald",
+   "published_at": "2026-10-26T10:18:58Z",
+   "category": "시장·가격",
+   "region": "해외",
+   "chain": [
+    "CCUS"
+   ],
+   "importance": "중",
+   "summary": "2024년 전 세계 지중 CO2 저장량이 연 기록인 4,360만 톤에 도달했으며 미국이 주도적 역할을 하고 있다. CCUS 산업의 성장세를 보여주는 지표로 의미가 있다.",
+   "collected_at": "2026-10-27T01:15:03Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "지중 저장",
+    "CCUS",
+    "미국"
+   ]
+  },
+  {
+   "id": "b7d930b7e5e85f4f",
+   "title": "LS에코에너지, 베트남에 AIDC용 울트라캐패시터 생산거점 구축",
+   "url": "https://www.energydaily.co.kr/news/articleView.html?idxno=204373",
+   "source": "에너지데일리",
+   "published_at": "2026-10-26T10:07:16Z",
+   "category": "투자·금융",
+   "region": "해외",
+   "chain": [],
+   "importance": "하",
+   "summary": "LS에코에너지가 베트남에 AI 데이터센터용 울트라캐패시터 생산설비를 구축하기로 결정했다. 약 650억 원을 투자하는 사업으로, 수소연료전지 발전 시스템 확대에 따른 에너지저장장치 수요 증가에 대응하는 것이다.",
+   "collected_at": "2026-10-27T01:14:31Z",
+   "needs_review": true,
+   "review_reason": "도메인 밖: 밸류체인 해당 없음",
+   "tags": [
+    "LS에코에너지",
+    "베트남",
+    "울트라캐패시터"
+   ]
+  },
+  {
+   "id": "9ca784d5ca21478c",
+   "title": "EcoEngineers Names Longtime President Brad Pleima As CEO",
+   "url": "https://carbonherald.com/ecoengineers-names-longtime-president-brad-pleima-as-ceo/?utm_source=rss&utm_medium=rss&utm_campaign=ecoengineers-names-longtime-president-brad-pleima-as-ceo",
+   "source": "Carbon Herald",
+   "published_at": "2026-10-26T09:55:10Z",
+   "category": "기술",
+   "region": "해외",
+   "chain": [],
+   "importance": "하",
+   "summary": "에너지 전환 컨설팅 회사 EcoEngineers가 오랜 대표이사 Brad Pleima를 CEO로 승격 임명했다. 임원 인사 변화에 관한 단순 소식이다.",
+   "collected_at": "2026-10-27T01:15:03Z",
+   "needs_review": true,
+   "review_reason": "도메인 밖: 밸류체인 해당 없음",
+   "tags": [
+    "EcoEngineers",
+    "Brad Pleima"
+   ]
+  },
+  {
+   "id": "4faff299ea63f64d",
+   "title": "호주 에너지 전환시장 공략···한국 녹색기술 선보인다",
+   "url": "https://www.energy-news.co.kr/news/articleView.html?idxno=229228",
+   "source": "에너지신문",
+   "published_at": "2026-10-26T09:44:45Z",
+   "category": "프로젝트·계약",
+   "region": "해외",
+   "chain": [
+    "수소생산",
+    "활용"
+   ],
+   "importance": "하",
+   "summary": "국내 녹색기업 8개사가 호주 멜버른 전시회에 참여하여 수소·에너지효율 기술을 선보이며 시장 진출 가능성을 모색한다. 정부 차원의 시장개척단 운영을 통한 호주 현지 협력 기회 발굴 사업이다.",
+   "collected_at": "2026-10-27T01:14:31Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "호주",
+    "녹색산업",
+    "KOTRA"
+   ]
+  },
+  {
+   "id": "93902ba1c7871fd9",
+   "title": "Terraset Commits $2M In Climate Funding To Unlock More Investment",
+   "url": "https://carbonherald.com/terraset-commits-2m-in-climate-funding-to-unlock-more-investment/?utm_source=rss&utm_medium=rss&utm_campaign=terraset-commits-2m-in-climate-funding-to-unlock-more-investment",
+   "source": "Carbon Herald",
+   "published_at": "2026-10-26T09:01:03Z",
+   "category": "투자·금융",
+   "region": "해외",
+   "chain": [],
+   "importance": "중",
+   "summary": "콜로라도 기반 비영리단체 Terraset이 기후 솔루션 투자를 위해 200만 달러 이상을 약정했다. 선구매 및 기타 금융 메커니즘을 통해 추가 투자를 유도하는 촉매 역할을 한다.",
+   "collected_at": "2026-10-27T01:15:03Z",
+   "needs_review": true,
+   "review_reason": "도메인 밖: 밸류체인 해당 없음",
+   "tags": [
+    "Terraset",
+    "기후 금융",
+    "콜로라도"
+   ]
+  },
+  {
+   "id": "2102b170048f6042",
+   "title": "도요타, 수소차 라인업 확대...픽업트럭 양산 추진",
+   "url": "https://www.h2news.kr/news/articleView.html?idxno=14326",
+   "source": "수소신문",
+   "published_at": "2026-10-26T08:55:00Z",
+   "category": "프로젝트·계약",
+   "region": "해외",
+   "chain": [
+    "활용"
+   ],
+   "importance": "중",
+   "summary": "도요타가 태국에서 수소연료전지 픽업트럭(하이럭스 FCEV)의 양산 설비를 구축하기로 승인받았다. 2027년부터 연간 3000대 생산 규모로 기존 생산라인을 활용하여 약 586억 원을 투자할 예정이다. 주요 수소모빌리티 기업의 동남아시아 시장 진출 확대를 보여주는 사례다.",
+   "collected_at": "2026-10-27T01:14:31Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "도요타",
+    "태국",
+    "하이럭스 FCEV"
+   ]
+  },
+  {
+   "id": "b7e88d397b7ca11d",
+   "title": "부산대·피센트, 암모니아 전소버너 개발...배출물 3종 동시 저감",
+   "url": "https://www.electimes.com/news/articleView.html?idxno=373856",
+   "source": "전기신문",
+   "published_at": "2026-10-26T08:53:07Z",
+   "category": "기술",
+   "region": "국내",
+   "chain": [
+    "암모니아"
+   ],
+   "importance": "중",
+   "summary": "부산대학교와 피센트가 암모니아 전소버너를 개발하여 질소산화물, 아산화질소, 미연소 암모니아 3종을 동시에 저감했다. 1MW급 성능 시험을 완료하였으며, 선박·발전설비 등 다양한 분야 적용 가능성을 확대했다.",
+   "collected_at": "2026-10-27T01:14:31Z",
+   "needs_review": false,
+   "review_reason": "",
+   "tags": [
+    "부산대",
+    "피센트",
+    "암모니아 버너"
+   ]
+  },
   {
    "id": "c3b14b9e80c9dd46",
    "title": "부산대·피센트, 열출력 1MW급 암모니아 전소 버너 개발 성공",
